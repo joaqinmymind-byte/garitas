@@ -1,0 +1,59 @@
+name: Archivar garitas
+
+# Corre cada 15 minutos, solo, aunque tu computadora esté apagada.
+# También lo puedes disparar a mano desde la pestaña Actions.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+# Necesario para que el robot pueda guardar los datos en el repositorio.
+permissions:
+  contents: write
+
+# Si una corrida se atrasa, no se encima con la siguiente.
+concurrency:
+  group: archivar
+  cancel-in-progress: false
+
+jobs:
+  archivar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Bajar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Capturar los tiempos de cruce
+        run: python garita.py capturar
+
+      - name: Regenerar el reporte
+        run: python garita.py reporte
+
+      - name: Guardar los cambios
+        run: |
+          git config user.name  "garita-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Sin cambios que guardar."
+            exit 0
+          fi
+          git commit -m "captura $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Si alguien más escribió mientras tanto, reintenta sin perder nada.
+          for intento in 1 2 3; do
+            if git push; then
+              echo "Guardado."
+              exit 0
+            fi
+            echo "Reintento $intento…"
+            git pull --rebase --autostash
+            sleep 5
+          done
+          echo "No se pudo guardar después de 3 intentos." >&2
+          exit 1
