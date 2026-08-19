@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 19/08/2026 07:15 (hora de Tijuana) · 365 lecturas archivadas*
+*Actualizado 19/08/2026 07:18 (hora de Tijuana) · 365 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
