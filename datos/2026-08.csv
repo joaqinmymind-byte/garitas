@@ -18138,3 +18138,101 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T05:01:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,08/28/2026 10:00pm,,sur
 2026-08-29T05:01:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,08/28/2026 10:00pm,,sur
 2026-08-29T05:01:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,08/28/2026 10:00pm,,sur
+2026-08-29T05:16:29+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,16,2,At 0:57 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 0:57 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,13,2,At 0:57 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,4,4,At 0:57 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,no delay,7,1,At 0:57 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,pasajeros,general,no delay,5,1,At 8:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,carga,general,no delay,0,1,At 8:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,360401,Canadian Border,International Falls,,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,360401,Canadian Border,International Falls,,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,021101,Canadian Border,Norton,,pasajeros,general,no delay,0,1,At 8:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,021101,Canadian Border,Norton,,carga,general,no delay,0,1,At 8:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,340101,Canadian Border,Pembina,,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,340101,Canadian Border,Pembina,,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,340101,Canadian Border,Pembina,,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,pasajeros,general,no delay,0,1,At 1:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,carga,general,no delay,0,1,At 1:00 am EDT,Open,norte
+2026-08-29T05:16:29+00:00,331001,Canadian Border,Sweetgrass,,pasajeros,general,no delay,5,1,At 11:00 pm MDT,Open,norte
+2026-08-29T05:16:29+00:00,331001,Canadian Border,Sweetgrass,,carga,general,no delay,5,1,At 11:00 pm MDT,Open,norte
+2026-08-29T05:16:29+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535501,Mexican Border,Brownsville,B&M,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,535503,Mexican Border,Brownsville,Los Indios,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535503,Mexican Border,Brownsville,Los Indios,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535503,Mexican Border,Brownsville,Los Indios,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535503,Mexican Border,Brownsville,Los Indios,carga,fast,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,sentri,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,peatones,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,fast,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230201,Mexican Border,Del Rio,,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230201,Mexican Border,Del Rio,,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230201,Mexican Border,Del Rio,,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230201,Mexican Border,Del Rio,,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230301,Mexican Border,Eagle Pass,Bridge I,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230301,Mexican Border,Eagle Pass,Bridge I,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230302,Mexican Border,Eagle Pass,Bridge II,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230302,Mexican Border,Eagle Pass,Bridge II,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230302,Mexican Border,Eagle Pass,Bridge II,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230302,Mexican Border,Eagle Pass,Bridge II,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230302,Mexican Border,Eagle Pass,Bridge II,carga,fast,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,sentri,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,pasajeros,sentri,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,fast,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,sentri,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,fast,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,fast,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,pasajeros,sentri,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,peatones,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,carga,fast,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230902,Mexican Border,Progreso,Donna International Bridge,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230902,Mexican Border,Progreso,Donna International Bridge,pasajeros,ready,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230902,Mexican Border,Progreso,Donna International Bridge,peatones,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230901,Mexican Border,Progreso,Progreso International Bridge,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230901,Mexican Border,Progreso,Progreso International Bridge,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230901,Mexican Border,Progreso,Progreso International Bridge,peatones,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230901,Mexican Border,Progreso,Progreso International Bridge,peatones,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230901,Mexican Border,Progreso,Progreso International Bridge,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,230701,Mexican Border,Rio Grande City,,pasajeros,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,230701,Mexican Border,Rio Grande City,,carga,general,Update Pending,,,,Closed,norte
+2026-08-29T05:16:29+00:00,231001,Mexican Border,Roma,,pasajeros,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,231001,Mexican Border,Roma,,pasajeros,ready,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,231001,Mexican Border,Roma,,carga,general,Update Pending,,,,Open,norte
+2026-08-29T05:16:29+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,08/28/2026 10:15pm,,sur
+2026-08-29T05:16:29+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,08/28/2026 10:15pm,,sur
+2026-08-29T05:16:29+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,08/28/2026 10:15pm,,sur
+2026-08-29T05:16:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,08/28/2026 10:15pm,,sur
+2026-08-29T05:16:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,08/28/2026 10:15pm,,sur
+2026-08-29T05:16:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,08/28/2026 10:15pm,,sur
