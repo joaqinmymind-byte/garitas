@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 29/08/2026 10:31 (hora de Tijuana) · 20,128 lecturas archivadas*
+*Actualizado 29/08/2026 10:46 (hora de Tijuana) · 20,142 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -10,7 +10,7 @@
 | San Ysidro PedWest | — | — | — | 30 min (3) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (5) | — | — |
 | Otay Mesa Pasajeros | 120 min (3) | 90 min (6) | 5 min (3) | 10 min (6) | — | — |
-| Otay Mesa Comercial | — | — | — | — | 25 min (3) | 10 min (2) |
+| Otay Mesa Comercial | — | — | — | — | 15 min (3) | 10 min (2) |
 | Tecate | 60 min (2) | — | — | 10 min (2) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 201 · 100.0% exitosas
+- **Capturas:** 202 · 100.0% exitosas
 - **Tamaño:** 2.4 MB · proyección 88 MB al año
 - **Días archivando:** 10
 
 **Horas de actualización distintas entre puertos:**
-- `At 10:00 am PDT` → 13 series
-- `At 7:00 am PDT` → 4 series
+- `At 10:00 am PDT` → 11 series
+- `At 11:00 am PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **19%** esta semana contra la anterior: de 105 a 85 minutos de mediana.
+> La espera en **Otay Mesa** bajó **27%** esta semana contra la anterior: de 110 a 80 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -120,15 +120,15 @@
 | Andrade | México | **19 min** | 5 | 90 | 67 |
 | Del Rio | México | **18 min** | 0 | 75 | 96 |
 | Progreso | México | **17 min** | 0 | 60 | 76 |
-| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 200 |
+| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 201 |
 | Derby Line | Canadá | **12 min** | 0 | 120 | 54 |
 | Naco | México | **12 min** | 1 | 50 | 85 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 200 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 201 |
 | Highgate Springs | Canadá | **12 min** | 0 | 55 | 89 |
 | Blaine | Canadá | **11 min** | 0 | 70 | 116 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 83 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 55 | 201 |
 | Brownsville | México | **10 min** | 0 | 90 | 77 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 55 | 200 |
 | Presidio | México | **10 min** | 0 | 90 | 119 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 117 |
 | Pembina | Canadá | **8 min** | 0 | 38 | 65 |
@@ -146,7 +146,7 @@
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 56 |
 | Houlton | Canadá | **4 min** | 0 | 40 | 118 |
 | Sumas | Canadá | **2 min** | 0 | 10 | 36 |
-| Lukeville | México | **2 min** | 0 | 15 | 62 |
+| Lukeville | México | **2 min** | 0 | 15 | 63 |
 | Calais | Canadá | **2 min** | 0 | 10 | 44 |
 | Sault Ste. Marie | Canadá | **2 min** | 0 | 30 | 106 |
 | Madawaska | Canadá | **1 min** | 0 | 30 | 118 |
@@ -154,9 +154,9 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 22 |
 | Jackman | Canadá | **1 min** | 0 | 20 | 94 |
 | Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 184 |
-| International Falls | Canadá | **0 min** | 0 | 1 | 100 |
+| International Falls | Canadá | **0 min** | 0 | 1 | 101 |
 | San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 184 |
-| Massena | Canadá | **0 min** | 0 | 0 | 78 |
+| Massena | Canadá | **0 min** | 0 | 0 | 79 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 59 |
 | Norton | Canadá | **0 min** | 0 | 0 | 40 |
 

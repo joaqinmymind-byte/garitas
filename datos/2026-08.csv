@@ -20127,3 +20127,17 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T17:31:38+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,1,1,At 11:00 am MDT,Open,norte
 2026-08-29T17:31:38+00:00,250501,Mexican Border,Tecate,,pasajeros,general,delay,60,2,At 10:00 am PDT,Open,norte
 2026-08-29T17:31:38+00:00,250501,Mexican Border,Tecate,,peatones,general,delay,10,2,At 10:00 am PDT,Open,norte
+2026-08-29T17:46:18+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,26,8,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,no delay,7,10,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,0,2,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,4,4,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,24,8,At 1:27 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,360401,Canadian Border,International Falls,,pasajeros,general,no delay,0,1,At 2:00 pm CDT,Open,norte
+2026-08-29T17:46:18+00:00,360401,Canadian Border,International Falls,,carga,general,no delay,0,1,At 2:00 pm CDT,Open,norte
+2026-08-29T17:46:18+00:00,070401,Canadian Border,Massena,,pasajeros,general,no delay,0,4,At 3:00 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,070401,Canadian Border,Massena,,carga,general,no delay,0,1,At 3:00 pm EDT,Open,norte
+2026-08-29T17:46:18+00:00,260201,Mexican Border,Lukeville,,pasajeros,general,no delay,0,1,At 1:00 pm MST,Open,norte
+2026-08-29T17:46:18+00:00,260201,Mexican Border,Lukeville,,carga,general,no delay,0,1,At 1:00 pm MST,Open,norte
+2026-08-29T17:46:18+00:00,250602,Mexican Border,Otay Mesa,Commercial,carga,general,delay,15,3,At 11:00 am PDT,Open,norte
+2026-08-29T17:46:18+00:00,250602,Mexican Border,Otay Mesa,Commercial,carga,fast,delay,10,2,At 11:00 am PDT,Open,norte
