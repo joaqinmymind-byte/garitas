@@ -19961,3 +19961,13 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T16:31:30+00:00,250407,Mexican Border,San Ysidro,PedWest,peatones,ready,no delay,5,1,At 9:00 am PDT,Open,norte
 2026-08-29T16:31:30+00:00,250501,Mexican Border,Tecate,,pasajeros,general,delay,60,2,At 9:00 am PDT,Open,norte
 2026-08-29T16:31:30+00:00,250501,Mexican Border,Tecate,,peatones,general,delay,10,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:46:24+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,25,7,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,28,6,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,0,2,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,1,4,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,19,7,At 12:27 pm EDT,Open,norte
+2026-08-29T16:46:24+00:00,230201,Mexican Border,Del Rio,,pasajeros,general,delay,15,1,At Noon CDT,Open,norte
+2026-08-29T16:46:24+00:00,230201,Mexican Border,Del Rio,,pasajeros,sentri,no delay,0,1,At Noon CDT,Open,norte
+2026-08-29T16:46:24+00:00,230201,Mexican Border,Del Rio,,pasajeros,ready,delay,15,2,At Noon CDT,Open,norte
+2026-08-29T16:46:24+00:00,230201,Mexican Border,Del Rio,,carga,general,no delay,0,1,At Noon CDT,Open,norte
