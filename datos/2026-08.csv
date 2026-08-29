@@ -19630,3 +19630,22 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,general,delay,20,1,At 8:00 am MDT,Open,norte
 2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,ready,delay,15,1,At 8:00 am MDT,Open,norte
 2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,1,1,At 8:00 am MDT,Open,norte
+2026-08-29T15:01:41+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,10,7,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,33,7,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,7,2,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,3,4,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,17,9,At 10:47 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,pasajeros,general,delay,10,2,At 10:00 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,carga,general,no delay,0,1,At 10:00 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,021201,Canadian Border,Highgate Springs,,pasajeros,general,delay,45,2,At 11:00 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,021101,Canadian Border,Norton,,pasajeros,general,no delay,0,1,At 8:00 pm EDT,Open,norte
+2026-08-29T15:01:41+00:00,021101,Canadian Border,Norton,,carga,general,no delay,0,1,At 8:00 pm EDT,Open,norte
+2026-08-29T15:01:41+00:00,340101,Canadian Border,Pembina,,pasajeros,general,delay,14,2,At 10:00 am CDT,Open,norte
+2026-08-29T15:01:41+00:00,340101,Canadian Border,Pembina,,carga,general,no delay,2,1,At 10:00 am CDT,Open,norte
+2026-08-29T15:01:41+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,pasajeros,general,delay,10,3,At 11:00 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,carga,general,delay,10,1,At 11:00 am EDT,Open,norte
+2026-08-29T15:01:41+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,sentri,no delay,5,3,At 9:00 am MDT,Open,norte
+2026-08-29T15:01:41+00:00,230902,Mexican Border,Progreso,Donna International Bridge,pasajeros,general,delay,10,3,At 9:00 am CDT,Open,norte
+2026-08-29T15:01:41+00:00,230902,Mexican Border,Progreso,Donna International Bridge,pasajeros,ready,Lanes Closed,,,,Open,norte
+2026-08-29T15:01:41+00:00,230902,Mexican Border,Progreso,Donna International Bridge,peatones,general,Lanes Closed,,,,Open,norte
