@@ -19792,3 +19792,45 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T15:46:29+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,80,9,At 8:00 am PDT,Open,norte
 2026-08-29T15:46:29+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,40,17,At 8:00 am PDT,Open,norte
 2026-08-29T15:46:29+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,1,At 8:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,18,7,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,30,7,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,1,2,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,3,4,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,13,7,At 11:47 am EDT,Open,norte
+2026-08-29T16:01:40+00:00,250301,Mexican Border,Calexico,East,pasajeros,general,delay,80,1,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250301,Mexican Border,Calexico,East,pasajeros,sentri,delay,15,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250301,Mexican Border,Calexico,East,pasajeros,ready,delay,30,4,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250301,Mexican Border,Calexico,East,peatones,general,no delay,5,4,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250302,Mexican Border,Calexico,West,pasajeros,general,delay,60,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250302,Mexican Border,Calexico,West,pasajeros,sentri,no delay,5,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250302,Mexican Border,Calexico,West,pasajeros,ready,delay,60,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250302,Mexican Border,Calexico,West,peatones,general,delay,20,2,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250302,Mexican Border,Calexico,West,peatones,ready,delay,20,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,general,delay,45,2,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,ready,delay,40,7,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),peatones,general,no delay,1,1,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),peatones,ready,no delay,1,1,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,pasajeros,general,no delay,5,1,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,peatones,general,no delay,0,1,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,sentri,no delay,0,4,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,general,delay,20,3,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,ready,delay,15,3,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,general,delay,25,7,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,ready,delay,20,7,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,general,no delay,0,1,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,sentri,no delay,0,1,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,ready,no delay,0,1,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,general,delay,10,2,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,fast,delay,20,2,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,general,delay,10,13,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,fast,no delay,0,4,At 10:00 am CDT,Open,norte
+2026-08-29T16:01:40+00:00,240401,Mexican Border,Marcelino Serna,Tornillo,pasajeros,general,delay,10,2,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,240401,Mexican Border,Marcelino Serna,Tornillo,peatones,general,no delay,0,2,At 10:00 am MDT,Open,norte
+2026-08-29T16:01:40+00:00,250401,Mexican Border,San Ysidro,,pasajeros,general,delay,110,3,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250401,Mexican Border,San Ysidro,,pasajeros,sentri,delay,15,12,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,100,9,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,30,18,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,1,At 9:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250409,Mexican Border,San Ysidro,Cross Border Express,peatones,general,no delay,1,5,At 10:00 am PDT,Open,norte
+2026-08-29T16:01:40+00:00,250409,Mexican Border,San Ysidro,Cross Border Express,peatones,ready,no delay,1,1,At 10:00 am PDT,Open,norte
