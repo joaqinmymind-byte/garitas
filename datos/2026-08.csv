@@ -19601,3 +19601,32 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-29T14:31:42+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,80,14,At 7:00 am PDT,Open,norte
 2026-08-29T14:31:42+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,30,18,At 7:00 am PDT,Open,norte
 2026-08-29T14:31:42+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,1,At 7:00 am PDT,Open,norte
+2026-08-29T14:46:31+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,10,5,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,9,2,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,25,6,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,2,1,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,5,4,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,12,6,At 10:37 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,380002,Canadian Border,Detroit,Windsor Tunnel,pasajeros,general,no delay,5,6,At 10:00 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,380002,Canadian Border,Detroit,Windsor Tunnel,carga,general,no delay,5,1,At 10:00 am EDT,Open,norte
+2026-08-29T14:46:31+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,sentri,no delay,0,4,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,general,delay,10,2,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,ready,no delay,5,3,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,general,delay,25,7,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,ready,delay,20,7,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,sentri,no delay,0,1,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,ready,no delay,0,1,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,general,no delay,5,2,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,fast,delay,20,2,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,general,no delay,5,12,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,fast,no delay,0,4,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,260201,Mexican Border,Lukeville,,pasajeros,general,no delay,0,1,At 10:00 am MST,Open,norte
+2026-08-29T14:46:31+00:00,260201,Mexican Border,Lukeville,,pasajeros,ready,Lanes Closed,,,,Open,norte
+2026-08-29T14:46:31+00:00,260201,Mexican Border,Lukeville,,carga,general,no delay,0,1,At 10:00 am MST,Open,norte
+2026-08-29T14:46:31+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,pasajeros,general,delay,10,2,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,peatones,general,delay,10,1,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230701,Mexican Border,Rio Grande City,,pasajeros,general,no delay,0,2,At 9:00 am CDT,Open,norte
+2026-08-29T14:46:31+00:00,230701,Mexican Border,Rio Grande City,,carga,general,Lanes Closed,,,,Open,norte
+2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,general,delay,20,1,At 8:00 am MDT,Open,norte
+2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,ready,delay,15,1,At 8:00 am MDT,Open,norte
+2026-08-29T14:46:31+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,1,1,At 8:00 am MDT,Open,norte
