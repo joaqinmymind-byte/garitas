@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 30/08/2026 08:46 (hora de Tijuana) · 23,647 lecturas archivadas*
+*Actualizado 30/08/2026 09:01 (hora de Tijuana) · 23,684 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,7 +30,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 290 · 100.0% exitosas
+- **Capturas:** 291 · 100.0% exitosas
 - **Tamaño:** 2.9 MB · proyección 95 MB al año
 - **Días archivando:** 11
 
@@ -97,7 +97,7 @@
 | Otay Mesa | México | **88 min** | 2 | 230 | 128 |
 | Tecate | México | **85 min** | 30 | 210 | 95 |
 | El Paso | México | **50 min** | 1 | 95 | 141 |
-| El Paso | México | **48 min** | 0 | 105 | 137 |
+| El Paso | México | **48 min** | 0 | 105 | 138 |
 | Calexico | México | **46 min** | 5 | 120 | 126 |
 | Progreso | México | **43 min** | 0 | 75 | 37 |
 | Hidalgo/Pharr | México | **38 min** | 5 | 80 | 79 |
@@ -108,7 +108,7 @@
 | Nogales | México | **35 min** | 0 | 150 | 99 |
 | Nogales | México | **35 min** | 0 | 150 | 111 |
 | Brownsville | México | **31 min** | 0 | 120 | 136 |
-| Douglas (Raul Hector Castro) | México | **30 min** | 0 | 120 | 141 |
+| Douglas (Raul Hector Castro) | México | **30 min** | 0 | 120 | 142 |
 | San Luis | México | **30 min** | 5 | 90 | 72 |
 | Eagle Pass | México | **29 min** | 15 | 60 | 8 |
 | Eagle Pass | México | **26 min** | 1 | 120 | 137 |
@@ -120,22 +120,22 @@
 | Hidalgo/Pharr | México | **19 min** | 0 | 60 | 36 |
 | Progreso | México | **16 min** | 0 | 60 | 87 |
 | Brownsville | México | **13 min** | 0 | 90 | 89 |
-| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 289 |
+| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 290 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 290 |
 | Naco | México | **12 min** | 1 | 50 | 96 |
 | Highgate Springs | Canadá | **12 min** | 0 | 60 | 99 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 289 |
 | Derby Line | Canadá | **11 min** | 0 | 120 | 61 |
 | Blaine | Canadá | **11 min** | 0 | 70 | 135 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 55 | 289 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 55 | 290 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 97 |
-| Presidio | México | **9 min** | 0 | 90 | 139 |
+| Presidio | México | **9 min** | 0 | 90 | 140 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 136 |
-| Lynden | Canadá | **8 min** | 0 | 40 | 67 |
+| Lynden | Canadá | **8 min** | 0 | 40 | 68 |
 | Pembina | Canadá | **7 min** | 0 | 38 | 72 |
+| Roma | México | **7 min** | 0 | 15 | 56 |
 | Port Huron | Canadá | **7 min** | 0 | 36 | 127 |
-| Roma | México | **7 min** | 0 | 15 | 55 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 151 |
-| Fort Hancock | México | **5 min** | 5 | 20 | 80 |
+| Fort Hancock | México | **5 min** | 5 | 20 | 81 |
 | Laredo | México | **5 min** | 0 | 35 | 53 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 153 |
 | Sweetgrass | Canadá | **5 min** | 0 | 60 | 123 |
@@ -145,17 +145,17 @@
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 59 |
 | Houlton | Canadá | **3 min** | 0 | 40 | 130 |
 | Sumas | Canadá | **2 min** | 0 | 10 | 36 |
-| Lukeville | México | **2 min** | 0 | 15 | 70 |
+| Lukeville | México | **2 min** | 0 | 15 | 71 |
 | Calais | Canadá | **2 min** | 0 | 10 | 54 |
 | Sault Ste. Marie | Canadá | **2 min** | 0 | 30 | 125 |
 | Madawaska | Canadá | **1 min** | 0 | 30 | 132 |
 | Calais | Canadá | **1 min** | 0 | 5 | 25 |
 | Calais | Canadá | **1 min** | 0 | 10 | 51 |
-| Jackman | Canadá | **1 min** | 0 | 20 | 107 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 264 |
-| International Falls | Canadá | **0 min** | 0 | 1 | 118 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 264 |
-| Massena | Canadá | **0 min** | 0 | 0 | 93 |
+| Jackman | Canadá | **1 min** | 0 | 20 | 108 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 265 |
+| International Falls | Canadá | **0 min** | 0 | 1 | 119 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 265 |
+| Massena | Canadá | **0 min** | 0 | 0 | 94 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 63 |
 | Norton | Canadá | **0 min** | 0 | 0 | 42 |
 
