@@ -27259,3 +27259,22 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-08-31T13:31:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,08/31/2026 6:30am,,sur
 2026-08-31T13:31:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,08/31/2026 6:30am,,sur
 2026-08-31T13:31:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,08/31/2026 6:30am,,sur
+2026-08-31T13:46:25+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,pasajeros,general,no delay,5,4,At 9:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,pasajeros,sentri,no delay,5,1,At 9:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,carga,general,no delay,5,2,At 9:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,5,5,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,9,2,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,20,5,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,5,1,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,7,4,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,no delay,9,4,At 9:27 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,011501,Canadian Border,Calais,Ferry Point,pasajeros,general,no delay,0,2,At 10:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,011503,Canadian Border,Calais,International Avenue,pasajeros,general,no delay,0,1,At 10:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,011503,Canadian Border,Calais,International Avenue,carga,general,no delay,0,1,At 10:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,011502,Canadian Border,Calais,Milltown,pasajeros,general,no delay,0,1,At 10:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,070101,Canadian Border,Ogdensburg,,pasajeros,general,no delay,0,2,At 11:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,070101,Canadian Border,Ogdensburg,,carga,general,no delay,0,1,At 11:00 am EDT,Open,norte
+2026-08-31T13:46:25+00:00,260301,Mexican Border,Naco,,pasajeros,general,delay,25,2,At 6:00 am PST,Open,norte
+2026-08-31T13:46:25+00:00,260301,Mexican Border,Naco,,peatones,general,delay,10,1,At 6:00 am PST,Open,norte
+2026-08-31T13:46:25+00:00,260301,Mexican Border,Naco,,carga,general,Lanes Closed,,,,Open,norte
+2026-08-31T13:46:25+00:00,230902,Mexican Border,Progreso,Donna International Bridge,pasajeros,general,delay,15,2,At 8:00 am CDT,Open,norte
