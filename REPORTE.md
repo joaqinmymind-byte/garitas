@@ -1,15 +1,15 @@
 # Garitas — reporte automático
 
-*Actualizado 31/08/2026 11:31 (hora de Tijuana) · 28,307 lecturas archivadas*
+*Actualizado 31/08/2026 11:46 (hora de Tijuana) · 28,332 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
 | cruce | autos | Ready | SENTRI | peatonal | carga | FAST |
 |---|---:|---:|---:|---:|---:|---:|
-| San Ysidro | 160 min (6) | 140 min (11) | 30 min (14) | 60 min (20) | — | — |
+| San Ysidro | 160 min (6) | 140 min (11) | 30 min (13) | 90 min (20) | — | — |
 | San Ysidro PedWest | — | — | — | 60 min (3) | — | — |
 | San Ysidro CBX | — | — | — | 0 min (7) | — | — |
-| Otay Mesa Pasajeros | 150 min (2) | 140 min (4) | 25 min (4) | 85 min (6) | — | — |
+| Otay Mesa Pasajeros | 160 min (2) | 145 min (4) | 25 min (4) | 100 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 25 min (5) | 10 min (3) |
 | Tecate | 90 min (2) | — | — | 5 min (4) | 15 min (2) | — |
 
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 397 · 100.0% exitosas
+- **Capturas:** 398 · 100.0% exitosas
 - **Tamaño:** 3.4 MB · proyección 104 MB al año
 - **Días archivando:** 12
 
 **Horas de actualización distintas entre puertos:**
-- `At 10:00 am PDT` → 9 series
-- `At 11:00 am PDT` → 7 series
+- `At 11:00 am PDT` → 16 series
+- `At 1:00 pm PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -48,7 +48,7 @@
 
 | día | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| lun | · | 75 | 165 | 95 | 55 | 60 | 60 | 90 | 110 | 100 | 127 | · | 120 | · | 120 | · | 105 | · | · | · | 60 | · | 5 | · |
+| lun | · | 75 | 165 | 95 | 55 | 60 | 60 | 90 | 110 | 100 | 127 | 160 | 120 | · | 120 | · | 105 | · | · | · | 60 | · | 5 | · |
 | mar | · | · | · | 30 | · | · | · | 90 | · | 100 | 150 | · | 145 | 140 | 140 | 140 | 140 | · | · | · | 30 | · | 10 | · |
 | mié | · | 20 | · | · | 30 | · | · | 100 | 110 | 110 | 117 | · | 170 | 170 | · | · | · | · | · | · | 70 | · | 20 | · |
 | jue | · | 10 | 35 | · | 60 | 80 | · | 90 | · | 100 | 140 | · | 140 | 140 | · | · | · | · | 110 | · | 110 | · | 10 | · |
@@ -59,7 +59,7 @@
 **Mejor hora:** sábado a las 03:00 → **2 min** (1 lecturas)  
 **Peor hora:** domingo a las 15:00 → **230 min**  
 **Diferencia:** 228 minutos entre la mejor y la peor.  
-*150 lecturas · faltan 59 de 168 casillas.*
+*151 lecturas · faltan 58 de 168 casillas.*
 
 ## San Ysidro — mediana de espera por hora
 
@@ -67,7 +67,7 @@
 
 | día | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| lun | 120 | 157 | 100 | 120 | 105 | 105 | 105 | 120 | · | 135 | 160 | · | · | · | 120 | · | 105 | · | · | · | 80 | · | 45 | · |
+| lun | 120 | 157 | 100 | 120 | 105 | 105 | 105 | 120 | · | 135 | 160 | 160 | · | · | 120 | · | 105 | · | · | · | 80 | · | 45 | · |
 | mar | · | 60 | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | mié | · | 30 | · | 55 | 70 | · | · | 100 | 110 | 110 | 127 | · | 115 | 115 | · | 120 | 100 | · | · | · | 45 | · | 45 | · |
 | jue | · | 60 | 80 | · | 95 | 95 | · | 95 | · | 110 | 115 | · | · | 115 | · | · | 120 | · | 80 | · | 110 | · | 30 | · |
@@ -78,11 +78,11 @@
 **Mejor hora:** domingo a las 04:00 → **22 min** (2 lecturas)  
 **Peor hora:** sábado a las 22:00 → **160 min**  
 **Diferencia:** 137 minutos entre la mejor y la peor.  
-*144 lecturas · faltan 70 de 168 casillas.*
+*145 lecturas · faltan 69 de 168 casillas.*
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **5%** esta semana contra la anterior: de 100 a 95 minutos de mediana.
+> La espera en **Otay Mesa** bajó **0%** esta semana contra la anterior: de 100 a 100 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -94,8 +94,8 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| San Ysidro | México | **99 min** | 20 | 200 | 144 |
-| Otay Mesa | México | **98 min** | 2 | 240 | 150 |
+| San Ysidro | México | **99 min** | 20 | 200 | 145 |
+| Otay Mesa | México | **98 min** | 2 | 240 | 151 |
 | Tecate | México | **94 min** | 30 | 210 | 111 |
 | Calexico | México | **53 min** | 5 | 150 | 151 |
 | El Paso | México | **51 min** | 1 | 95 | 168 |
@@ -122,12 +122,12 @@
 | Brownsville | México | **19 min** | 0 | 90 | 108 |
 | Progreso | México | **18 min** | 0 | 60 | 99 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 159 |
-| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 395 |
-| Naco | México | **12 min** | 0 | 50 | 113 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 395 |
-| Highgate Springs | Canadá | **12 min** | 0 | 60 | 116 |
+| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 396 |
+| Naco | México | **12 min** | 0 | 50 | 114 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 396 |
+| Highgate Springs | Canadá | **12 min** | 0 | 60 | 117 |
 | Derby Line | Canadá | **11 min** | 0 | 120 | 79 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 63 | 395 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 63 | 396 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 113 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 160 |
 | Presidio | México | **9 min** | 0 | 90 | 160 |
@@ -154,8 +154,8 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 122 |
 | Calais | Canadá | **1 min** | 0 | 10 | 67 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 143 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 368 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 368 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 369 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 369 |
 | Massena | Canadá | **0 min** | 0 | 0 | 101 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 73 |
 | Norton | Canadá | **0 min** | 0 | 0 | 54 |
