@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 30/08/2026 21:46 (hora de Tijuana) · 25,846 lecturas archivadas*
+*Actualizado 30/08/2026 22:01 (hora de Tijuana) · 25,882 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 342 · 100.0% exitosas
+- **Capturas:** 343 · 100.0% exitosas
 - **Tamaño:** 3.1 MB · proyección 104 MB al año
 - **Días archivando:** 11
 
@@ -97,9 +97,9 @@
 | San Ysidro | México | **97 min** | 20 | 200 | 133 |
 | Otay Mesa | México | **97 min** | 2 | 240 | 141 |
 | Tecate | México | **94 min** | 30 | 210 | 106 |
-| El Paso | México | **52 min** | 1 | 95 | 155 |
-| El Paso | México | **49 min** | 0 | 105 | 151 |
-| Calexico | México | **49 min** | 5 | 120 | 137 |
+| El Paso | México | **52 min** | 1 | 95 | 156 |
+| El Paso | México | **49 min** | 0 | 105 | 152 |
+| Calexico | México | **49 min** | 5 | 120 | 138 |
 | Progreso | México | **43 min** | 0 | 75 | 46 |
 | Calexico | México | **41 min** | 5 | 90 | 84 |
 | Brownsville | México | **39 min** | 0 | 120 | 149 |
@@ -109,7 +109,7 @@
 | Nogales | México | **36 min** | 0 | 150 | 124 |
 | Santa Teresa | México | **36 min** | 1 | 60 | 99 |
 | Brownsville | México | **33 min** | 0 | 120 | 149 |
-| Douglas (Raul Hector Castro) | México | **32 min** | 0 | 120 | 154 |
+| Douglas (Raul Hector Castro) | México | **32 min** | 0 | 120 | 155 |
 | San Luis | México | **30 min** | 5 | 90 | 72 |
 | Eagle Pass | México | **30 min** | 1 | 120 | 148 |
 | Eagle Pass | México | **29 min** | 15 | 60 | 8 |
@@ -121,13 +121,13 @@
 | Hidalgo/Pharr | México | **20 min** | 0 | 60 | 43 |
 | Brownsville | México | **19 min** | 0 | 90 | 100 |
 | Progreso | México | **17 min** | 0 | 60 | 92 |
-| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 341 |
+| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 342 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 146 |
 | Highgate Springs | Canadá | **12 min** | 0 | 60 | 108 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 341 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 342 |
 | Naco | México | **12 min** | 0 | 50 | 108 |
 | Derby Line | Canadá | **11 min** | 0 | 120 | 70 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 63 | 341 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 63 | 342 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 102 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 147 |
 | Presidio | México | **9 min** | 0 | 90 | 151 |
@@ -143,19 +143,19 @@
 | Laredo | México | **5 min** | 0 | 35 | 53 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 165 |
 | Columbus | México | **5 min** | 0 | 30 | 153 |
-| Alexandria Bay | Canadá | **4 min** | 0 | 25 | 63 |
+| Alexandria Bay | Canadá | **4 min** | 0 | 25 | 64 |
 | Houlton | Canadá | **4 min** | 0 | 40 | 138 |
 | Lukeville | México | **2 min** | 0 | 15 | 81 |
 | Sumas | Canadá | **2 min** | 0 | 10 | 36 |
-| Sault Ste. Marie | Canadá | **2 min** | 0 | 30 | 140 |
+| Sault Ste. Marie | Canadá | **2 min** | 0 | 30 | 141 |
 | Calais | Canadá | **1 min** | 0 | 10 | 61 |
 | Madawaska | Canadá | **1 min** | 0 | 30 | 140 |
 | Calais | Canadá | **1 min** | 0 | 5 | 26 |
 | Calais | Canadá | **1 min** | 0 | 10 | 58 |
 | Jackman | Canadá | **1 min** | 0 | 20 | 116 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 315 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 316 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 130 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 315 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 316 |
 | Massena | Canadá | **0 min** | 0 | 0 | 99 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 64 |
 | Norton | Canadá | **0 min** | 0 | 0 | 47 |
