@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 30/08/2026 18:31 (hora de Tijuana) · 25,352 lecturas archivadas*
+*Actualizado 30/08/2026 18:46 (hora de Tijuana) · 25,368 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 329 · 100.0% exitosas
+- **Capturas:** 330 · 100.0% exitosas
 - **Tamaño:** 3.1 MB · proyección 102 MB al año
 - **Días archivando:** 11
 
@@ -121,13 +121,13 @@
 | Hidalgo/Pharr | México | **19 min** | 0 | 60 | 40 |
 | Brownsville | México | **18 min** | 0 | 90 | 99 |
 | Progreso | México | **17 min** | 0 | 60 | 91 |
-| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 328 |
+| Buffalo/Niagara Falls | Canadá | **13 min** | 0 | 58 | 329 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 144 |
 | Highgate Springs | Canadá | **13 min** | 0 | 60 | 107 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 328 |
-| Derby Line | Canadá | **12 min** | 0 | 120 | 67 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 60 | 329 |
 | Naco | México | **12 min** | 0 | 50 | 106 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 63 | 328 |
+| Derby Line | Canadá | **12 min** | 0 | 120 | 68 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 63 | 329 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 101 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 145 |
 | Presidio | México | **9 min** | 0 | 90 | 148 |
@@ -153,12 +153,12 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 26 |
 | Calais | Canadá | **1 min** | 0 | 10 | 57 |
 | Jackman | Canadá | **1 min** | 0 | 20 | 114 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 302 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 303 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 129 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 302 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 303 |
 | Massena | Canadá | **0 min** | 0 | 0 | 97 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 63 |
-| Norton | Canadá | **0 min** | 0 | 0 | 44 |
+| Norton | Canadá | **0 min** | 0 | 0 | 45 |
 
 *65 cruces. Este cuadro no existe en ninguna otra parte.*
 
