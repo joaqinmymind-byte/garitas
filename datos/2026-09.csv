@@ -2235,3 +2235,14 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-01T13:35:17+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 6:35am,,sur
 2026-09-01T13:35:17+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 6:35am,,sur
 2026-09-01T13:35:17+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 6:35am,,sur
+2026-09-01T13:48:52+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,general,delay,70,3,At 8:00 am MDT,Open,norte
+2026-09-01T13:48:52+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,ready,delay,65,7,At 8:00 am MDT,Open,norte
+2026-09-01T13:48:52+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),peatones,general,no delay,1,4,At 8:00 am MDT,Open,norte
+2026-09-01T13:48:52+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),carga,general,no delay,3,2,At 8:00 am MDT,Open,norte
+2026-09-01T13:48:52+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),carga,fast,no delay,2,2,At 8:00 am MDT,Open,norte
+2026-09-01T13:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/01/2026 6:45am,,sur
+2026-09-01T13:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/01/2026 6:45am,,sur
+2026-09-01T13:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/01/2026 6:45am,,sur
+2026-09-01T13:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 6:45am,,sur
+2026-09-01T13:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 6:45am,,sur
+2026-09-01T13:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 6:45am,,sur
