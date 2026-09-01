@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 01/09/2026 00:48 (hora de Tijuana) · 30,715 lecturas archivadas*
+*Actualizado 01/09/2026 01:02 (hora de Tijuana) · 30,732 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -22,7 +22,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 449 · 100.0% exitosas
+- **Capturas:** 450 · 100.0% exitosas
 - **Tamaño:** 3.7 MB · proyección 113 MB al año
 - **Días archivando:** 12
 
@@ -91,7 +91,7 @@
 | Hidalgo/Pharr | México | **36 min** | 5 | 90 | 103 |
 | Nogales | México | **36 min** | 0 | 150 | 126 |
 | Santa Teresa | México | **35 min** | 1 | 60 | 115 |
-| Hidalgo/Pharr | México | **34 min** | 0 | 80 | 139 |
+| Hidalgo/Pharr | México | **34 min** | 0 | 80 | 140 |
 | Nogales | México | **33 min** | 0 | 150 | 127 |
 | Douglas (Raul Hector Castro) | México | **32 min** | 0 | 120 | 179 |
 | Brownsville | México | **31 min** | 0 | 120 | 173 |
@@ -108,13 +108,13 @@
 | Progreso | México | **17 min** | 0 | 60 | 106 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 169 |
 | Naco | México | **13 min** | 0 | 85 | 125 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 58 | 447 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 447 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 58 | 448 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 448 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 123 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 170 |
-| Derby Line | Canadá | **10 min** | 0 | 120 | 87 |
+| Derby Line | Canadá | **10 min** | 0 | 120 | 88 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 117 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 63 | 447 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 63 | 448 |
 | Presidio | México | **9 min** | 0 | 90 | 173 |
 | Lynden | Canadá | **9 min** | 0 | 40 | 90 |
 | Roma | México | **7 min** | 0 | 15 | 74 |
@@ -139,11 +139,11 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 126 |
 | Calais | Canadá | **1 min** | 0 | 10 | 69 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 153 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 420 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 420 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 421 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 421 |
 | Massena | Canadá | **0 min** | 0 | 0 | 102 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 81 |
-| Norton | Canadá | **0 min** | 0 | 0 | 60 |
+| Norton | Canadá | **0 min** | 0 | 0 | 61 |
 
 *65 cruces. Este cuadro no existe en ninguna otra parte.*
 
