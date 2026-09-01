@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 01/09/2026 03:26 (hora de Tijuana) · 31,032 lecturas archivadas*
+*Actualizado 01/09/2026 03:38 (hora de Tijuana) · 31,040 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 459 · 100.0% exitosas
+- **Capturas:** 460 · 100.0% exitosas
 - **Tamaño:** 3.8 MB · proyección 114 MB al año
 - **Días archivando:** 12
 
@@ -106,7 +106,7 @@
 | Hidalgo/Pharr | México | **34 min** | 0 | 80 | 141 |
 | Nogales | México | **33 min** | 0 | 150 | 127 |
 | Brownsville | México | **31 min** | 0 | 120 | 173 |
-| Douglas (Raul Hector Castro) | México | **31 min** | 0 | 120 | 182 |
+| Douglas (Raul Hector Castro) | México | **31 min** | 0 | 120 | 183 |
 | Eagle Pass | México | **30 min** | 1 | 150 | 177 |
 | Eagle Pass | México | **29 min** | 15 | 60 | 8 |
 | San Luis | México | **27 min** | 5 | 90 | 99 |
@@ -151,8 +151,8 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 128 |
 | Calais | Canadá | **0 min** | 0 | 10 | 72 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 156 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 430 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 430 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 431 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 431 |
 | Massena | Canadá | **0 min** | 0 | 0 | 102 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 83 |
 | Norton | Canadá | **0 min** | 0 | 0 | 63 |
