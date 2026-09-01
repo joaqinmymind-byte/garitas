@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 01/09/2026 15:33 (hora de Tijuana) · 33,372 lecturas archivadas*
+*Actualizado 01/09/2026 15:46 (hora de Tijuana) · 33,390 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -9,7 +9,7 @@
 | San Ysidro | 175 min (7) | 150 min (14) | 20 min (10) | 30 min (21) | — | — |
 | San Ysidro PedWest | — | — | — | 50 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (6) | — | — |
-| Otay Mesa Pasajeros | 155 min (2) | 70 min (5) | 25 min (3) | 5 min (6) | — | — |
+| Otay Mesa Pasajeros | 160 min (2) | 90 min (5) | 40 min (3) | 20 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 50 min (4) | 30 min (3) |
 | Tecate | 60 min (2) | — | — | 5 min (3) | 5 min (2) | — |
 
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 504 · 100.0% exitosas
+- **Capturas:** 505 · 100.0% exitosas
 - **Tamaño:** 4.1 MB · proyección 114 MB al año
 - **Días archivando:** 13
 
 **Horas de actualización distintas entre puertos:**
 - `At 1:00 pm PDT` → 2 series
-- `At 2:00 pm PDT` → 4 series
+- `At 3:00 pm PDT` → 12 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -49,7 +49,7 @@
 | día | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | lun | · | 75 | 165 | 95 | 55 | 60 | 60 | 90 | 110 | 100 | 127 | 160 | 140 | 170 | 120 | · | 110 | 140 | 160 | · | 100 | 140 | 5 | · |
-| mar | · | 140 | · | 90 | · | 160 | · | 130 | 170 | 132 | 155 | 170 | 152 | 155 | 140 | 140 | 140 | · | · | · | 30 | · | 10 | · |
+| mar | · | 140 | · | 90 | · | 160 | · | 130 | 170 | 132 | 155 | 170 | 152 | 155 | 140 | 150 | 140 | · | · | · | 30 | · | 10 | · |
 | mié | · | 20 | · | · | 30 | · | · | 100 | 110 | 110 | 117 | · | 170 | 170 | · | · | · | · | · | · | 70 | · | 20 | · |
 | jue | · | 10 | 35 | · | 60 | 80 | · | 90 | · | 100 | 140 | · | 140 | 140 | · | · | · | · | 110 | · | 110 | · | 10 | · |
 | vie | 35 | · | · | · | · | 90 | · | 110 | 140 | · | 140 | 150 | 150 | 150 | 120 | 110 | 100 | 60 | 90 | 30 | 72 | 35 | · | 30 |
@@ -59,7 +59,7 @@
 **Mejor hora:** sábado a las 03:00 → **2 min** (1 lecturas)  
 **Peor hora:** domingo a las 15:00 → **230 min**  
 **Diferencia:** 228 minutos entre la mejor y la peor.  
-*170 lecturas · faltan 50 de 168 casillas.*
+*171 lecturas · faltan 50 de 168 casillas.*
 
 ## San Ysidro — mediana de espera por hora
 
@@ -95,7 +95,7 @@
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
 | San Ysidro | México | **105 min** | 20 | 200 | 169 |
-| Otay Mesa | México | **104 min** | 2 | 240 | 170 |
+| Otay Mesa | México | **105 min** | 2 | 240 | 171 |
 | Tecate | México | **94 min** | 30 | 210 | 129 |
 | Calexico | México | **55 min** | 5 | 150 | 178 |
 | El Paso | México | **49 min** | 1 | 95 | 195 |
@@ -118,19 +118,19 @@
 | Laredo | México | **23 min** | 0 | 70 | 152 |
 | Del Rio | México | **22 min** | 0 | 120 | 138 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 50 |
-| Andrade | México | **21 min** | 5 | 90 | 110 |
+| Andrade | México | **21 min** | 5 | 90 | 111 |
 | Brownsville | México | **18 min** | 0 | 90 | 127 |
 | Progreso | México | **18 min** | 0 | 60 | 112 |
 | Naco | México | **13 min** | 0 | 85 | 135 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 183 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 499 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 499 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 500 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 500 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 133 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 184 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 125 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 100 |
 | Presidio | México | **9 min** | 0 | 90 | 186 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 63 | 499 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 63 | 500 |
 | Lynden | Canadá | **9 min** | 0 | 40 | 91 |
 | Pembina | Canadá | **7 min** | 0 | 38 | 96 |
 | Port Huron | Canadá | **7 min** | 0 | 36 | 170 |
@@ -154,8 +154,8 @@
 | Jackman | Canadá | **0 min** | 0 | 20 | 136 |
 | Calais | Canadá | **0 min** | 0 | 10 | 80 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 163 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 475 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 475 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 476 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 476 |
 | Massena | Canadá | **0 min** | 0 | 0 | 104 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 92 |
 | Norton | Canadá | **0 min** | 0 | 0 | 65 |

@@ -111,7 +111,7 @@ null,
 "no delay",
 0,
 6,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -123,19 +123,19 @@ null,
 "no delay",
 3,
 2,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090101|pasajeros|general": [
 "no delay",
+2,
 4,
-4,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090101|pasajeros|sentri": [
 "no delay",
 0,
 2,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -147,13 +147,13 @@ null,
 "no delay",
 3,
 4,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090102|pasajeros|general": [
 "no delay",
-2,
+6,
 3,
-"At 6:17 pm EDT"
+"At 6:27 pm EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -606,16 +606,16 @@ null,
 "At 9:00 am MDT"
 ],
 "250201|pasajeros|general": [
-"no delay",
-5,
+"delay",
+10,
 2,
-"At 2:00 pm PDT"
+"At 3:00 pm PDT"
 ],
 "250201|peatones|general": [
 "no delay",
 0,
 2,
-"At 2:00 pm PDT"
+"At 3:00 pm PDT"
 ],
 "250201|carga|general": [
 "Lanes Closed",
@@ -1687,27 +1687,27 @@ null,
 ],
 "250601|pasajeros|general": [
 "delay",
-155,
+160,
 2,
-"At 2:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250601|pasajeros|sentri": [
 "delay",
-25,
+40,
 3,
-"At 2:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250601|pasajeros|ready": [
 "delay",
-70,
+90,
 5,
-"At 2:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250601|peatones|general": [
-"no delay",
-5,
+"delay",
+20,
 6,
-"At 2:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250608|pasajeros|general": [
 "Update Pending",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/01/2026 3:30pm"
+"09/01/2026 3:45pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
