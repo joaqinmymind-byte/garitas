@@ -2384,3 +2384,47 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-01T14:24:00+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 7:20am,,sur
 2026-09-01T14:24:00+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 7:20am,,sur
 2026-09-01T14:24:00+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 7:20am,,sur
+2026-09-01T14:36:25+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,0,6,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,0,2,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,no delay,6,6,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,1,2,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,delay,20,4,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,no delay,6,5,At 10:17 am EDT,Open,norte
+2026-09-01T14:36:25+00:00,070101,Canadian Border,Ogdensburg,,pasajeros,general,no delay,0,2,At Noon EDT,Open,norte
+2026-09-01T14:36:25+00:00,070101,Canadian Border,Ogdensburg,,carga,general,no delay,0,1,At Noon EDT,Open,norte
+2026-09-01T14:36:25+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,pasajeros,general,delay,25,2,At 10:00 am EST,Open,norte
+2026-09-01T14:36:25+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,pasajeros,sentri,no delay,0,1,At 10:00 am EST,Open,norte
+2026-09-01T14:36:25+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,carga,general,delay,45,5,At 10:00 am EST,Open,norte
+2026-09-01T14:36:25+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,carga,fast,no delay,0,1,At 10:00 am EST,Open,norte
+2026-09-01T14:36:25+00:00,250201,Mexican Border,Andrade,,pasajeros,general,delay,20,2,At 7:00 am PDT,Open,norte
+2026-09-01T14:36:25+00:00,250201,Mexican Border,Andrade,,peatones,general,no delay,0,2,At 7:00 am PDT,Open,norte
+2026-09-01T14:36:25+00:00,230201,Mexican Border,Del Rio,,pasajeros,general,delay,30,1,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230201,Mexican Border,Del Rio,,pasajeros,sentri,no delay,0,1,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230201,Mexican Border,Del Rio,,pasajeros,ready,delay,30,2,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230201,Mexican Border,Del Rio,,carga,general,no delay,0,1,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,pasajeros,general,delay,40,4,At 7:00 am PST,Open,norte
+2026-09-01T14:36:25+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,pasajeros,sentri,delay,40,2,At 7:00 am PST,Open,norte
+2026-09-01T14:36:25+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,peatones,general,delay,20,3,At 7:00 am PST,Open,norte
+2026-09-01T14:36:25+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,general,Lanes Closed,,,,Open,norte
+2026-09-01T14:36:25+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,sentri,delay,15,3,At 8:00 am MDT,Open,norte
+2026-09-01T14:36:25+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,pasajeros,general,no delay,5,1,At 10:00 am MDT,Open,norte
+2026-09-01T14:36:25+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,peatones,general,no delay,0,1,At 10:00 am MDT,Open,norte
+2026-09-01T14:36:25+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,general,delay,55,2,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,ready,delay,50,4,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,general,delay,25,1,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,sentri,no delay,5,2,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,ready,delay,20,3,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,peatones,general,no delay,5,5,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,pasajeros,general,Lanes Closed,,,,Open,norte
+2026-09-01T14:36:25+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,pasajeros,ready,Lanes Closed,,,,Open,norte
+2026-09-01T14:36:25+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,general,delay,25,5,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,fast,delay,20,1,At 9:00 am CDT,Open,norte
+2026-09-01T14:36:25+00:00,250501,Mexican Border,Tecate,,pasajeros,general,delay,100,4,At 7:00 am PDT,Open,norte
+2026-09-01T14:36:25+00:00,250501,Mexican Border,Tecate,,peatones,general,delay,30,4,At 7:00 am PDT,Open,norte
+2026-09-01T14:36:25+00:00,250501,Mexican Border,Tecate,,carga,general,Lanes Closed,,,,Open,norte
+2026-09-01T14:36:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/01/2026 7:35am,,sur
+2026-09-01T14:36:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/01/2026 7:35am,,sur
+2026-09-01T14:36:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/01/2026 7:35am,,sur
+2026-09-01T14:36:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 7:35am,,sur
+2026-09-01T14:36:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 7:35am,,sur
+2026-09-01T14:36:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 7:35am,,sur
