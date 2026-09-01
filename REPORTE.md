@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 31/08/2026 23:43 (hora de Tijuana) · 30,554 lecturas archivadas*
+*Actualizado 31/08/2026 23:55 (hora de Tijuana) · 30,567 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 444 · 100.0% exitosas
+- **Capturas:** 445 · 100.0% exitosas
 - **Tamaño:** 3.7 MB · proyección 113 MB al año
 - **Días archivando:** 12
 
@@ -123,14 +123,14 @@
 | Progreso | México | **17 min** | 0 | 60 | 104 |
 | Blaine | Canadá | **13 min** | 0 | 80 | 168 |
 | Naco | México | **13 min** | 0 | 85 | 125 |
-| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 58 | 442 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 442 |
+| Buffalo/Niagara Falls | Canadá | **12 min** | 0 | 58 | 443 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 60 | 443 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 122 |
 | Derby Line | Canadá | **10 min** | 0 | 120 | 86 |
 | Blaine | Canadá | **10 min** | 0 | 60 | 169 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 117 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 63 | 442 |
-| Presidio | México | **9 min** | 0 | 90 | 171 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 63 | 443 |
+| Presidio | México | **9 min** | 0 | 90 | 172 |
 | Lynden | Canadá | **9 min** | 0 | 40 | 90 |
 | Roma | México | **7 min** | 0 | 15 | 74 |
 | Pembina | Canadá | **7 min** | 0 | 38 | 87 |
@@ -154,8 +154,8 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 126 |
 | Calais | Canadá | **1 min** | 0 | 10 | 69 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 152 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 415 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 415 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 416 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 416 |
 | Massena | Canadá | **0 min** | 0 | 0 | 102 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 80 |
 | Norton | Canadá | **0 min** | 0 | 0 | 59 |
