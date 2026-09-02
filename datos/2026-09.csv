@@ -7038,3 +7038,33 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-02T16:36:09+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/02/2026 9:35am,,sur
 2026-09-02T16:36:09+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/02/2026 9:35am,,sur
 2026-09-02T16:36:09+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/02/2026 9:35am,,sur
+2026-09-02T16:50:08+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,0,4,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,delay,10,2,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,no delay,7,7,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,1,1,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,4,4,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,17,5,At 12:37 pm EDT,Open,norte
+2026-09-02T16:50:08+00:00,360401,Canadian Border,International Falls,,pasajeros,general,no delay,0,1,At 1:00 pm CDT,Open,norte
+2026-09-02T16:50:08+00:00,360401,Canadian Border,International Falls,,carga,general,no delay,0,1,At 1:00 pm CDT,Open,norte
+2026-09-02T16:50:08+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,general,delay,10,2,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,ready,delay,10,2,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,535501,Mexican Border,Brownsville,B&M,peatones,general,no delay,5,1,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,240203,Mexican Border,El Paso,Ysleta,pasajeros,sentri,no delay,1,3,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240203,Mexican Border,El Paso,Ysleta,pasajeros,ready,delay,25,3,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240203,Mexican Border,El Paso,Ysleta,peatones,general,no delay,1,2,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240203,Mexican Border,El Paso,Ysleta,carga,general,delay,45,4,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240203,Mexican Border,El Paso,Ysleta,carga,fast,delay,35,3,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,pasajeros,general,no delay,5,1,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,peatones,general,no delay,0,1,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240401,Mexican Border,Marcelino Serna,Tornillo,pasajeros,general,delay,20,2,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240401,Mexican Border,Marcelino Serna,Tornillo,peatones,general,no delay,1,2,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240401,Mexican Border,Marcelino Serna,Tornillo,carga,general,no delay,5,1,At 11:00 am MDT,Open,norte
+2026-09-02T16:50:08+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,pasajeros,general,no delay,5,2,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,peatones,general,no delay,0,1,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,240301,Mexican Border,Presidio,PRESIDIO PORT OF ENTRY,carga,general,no delay,0,1,At Noon CDT,Open,norte
+2026-09-02T16:50:08+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/02/2026 9:50am,,sur
+2026-09-02T16:50:08+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/02/2026 9:50am,,sur
+2026-09-02T16:50:08+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/02/2026 9:50am,,sur
+2026-09-02T16:50:08+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/02/2026 9:50am,,sur
+2026-09-02T16:50:08+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/02/2026 9:50am,,sur
+2026-09-02T16:50:08+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/02/2026 9:50am,,sur
