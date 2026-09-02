@@ -4417,3 +4417,51 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-02T00:31:22+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 5:30pm,,sur
 2026-09-02T00:31:22+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 5:30pm,,sur
 2026-09-02T00:31:22+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 5:30pm,,sur
+2026-09-02T00:51:01+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,0,2,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,2,2,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,no delay,4,3,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,1,1,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,delay,17,4,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,10,3,At 8:37 pm EDT,Open,norte
+2026-09-02T00:51:01+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,general,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,ready,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535501,Mexican Border,Brownsville,B&M,peatones,general,no delay,5,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,general,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,ready,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,general,no delay,0,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,ready,no delay,0,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535503,Mexican Border,Brownsville,Los Indios,pasajeros,general,no delay,5,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535503,Mexican Border,Brownsville,Los Indios,carga,general,no delay,5,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,general,no delay,5,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,sentri,no delay,5,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,ready,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,peatones,general,no delay,0,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,general,no delay,5,2,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,fast,no delay,0,1,At 8:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,sentri,no delay,0,4,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,general,no delay,0,1,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,ready,no delay,0,2,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,general,delay,35,6,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,ready,delay,40,7,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,general,no delay,0,1,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,sentri,no delay,0,1,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,general,no delay,0,3,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,fast,no delay,0,2,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,general,delay,45,13,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,fast,delay,15,4,At 7:00 pm CDT,Open,norte
+2026-09-02T00:51:01+00:00,260201,Mexican Border,Lukeville,,pasajeros,general,Lanes Closed,,,,Open,norte
+2026-09-02T00:51:01+00:00,260201,Mexican Border,Lukeville,,pasajeros,ready,no delay,2,1,At 5:00 pm MST,Open,norte
+2026-09-02T00:51:01+00:00,260301,Mexican Border,Naco,,pasajeros,general,no delay,1,1,At 5:00 pm PST,Open,norte
+2026-09-02T00:51:01+00:00,260301,Mexican Border,Naco,,peatones,general,no delay,1,1,At 5:00 pm PST,Open,norte
+2026-09-02T00:51:01+00:00,260301,Mexican Border,Naco,,carga,general,Lanes Closed,,,,Open,norte
+2026-09-02T00:51:01+00:00,250401,Mexican Border,San Ysidro,,pasajeros,general,delay,45,4,At 5:00 pm PDT,Open,norte
+2026-09-02T00:51:01+00:00,250401,Mexican Border,San Ysidro,,pasajeros,sentri,delay,15,11,At 5:00 pm PDT,Open,norte
+2026-09-02T00:51:01+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,60,11,At 5:00 pm PDT,Open,norte
+2026-09-02T00:51:01+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,15,17,At 5:00 pm PDT,Open,norte
+2026-09-02T00:51:01+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,1,At 5:00 pm PDT,Open,norte
+2026-09-02T00:51:01+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/01/2026 5:50pm,,sur
+2026-09-02T00:51:01+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/01/2026 5:50pm,,sur
+2026-09-02T00:51:01+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/01/2026 5:50pm,,sur
+2026-09-02T00:51:01+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/01/2026 5:50pm,,sur
+2026-09-02T00:51:01+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/01/2026 5:50pm,,sur
+2026-09-02T00:51:01+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/01/2026 5:50pm,,sur
