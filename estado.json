@@ -1687,27 +1687,27 @@ null,
 ],
 "250601|pasajeros|general": [
 "delay",
-70,
+60,
 2,
-"At 5:00 am PDT"
+"At 6:00 am PDT"
 ],
 "250601|pasajeros|sentri": [
 "delay",
-20,
+25,
 3,
-"At 5:00 am PDT"
+"At 6:00 am PDT"
 ],
 "250601|pasajeros|ready": [
 "delay",
 60,
-4,
-"At 5:00 am PDT"
+5,
+"At 6:00 am PDT"
 ],
 "250601|peatones|general": [
 "delay",
 60,
 6,
-"At 5:00 am PDT"
+"At 6:00 am PDT"
 ],
 "250608|pasajeros|general": [
 "Update Pending",
@@ -2011,33 +2011,33 @@ null,
 ],
 "250401|pasajeros|general": [
 "delay",
-90,
+95,
 5,
-"At 5:00 am PDT"
+"At 6:00 am PDT"
 ],
 "250401|pasajeros|sentri": [
 "delay",
 10,
-9,
-"At 5:00 am PDT"
+11,
+"At 6:00 am PDT"
 ],
 "250401|pasajeros|ready": [
 "delay",
-45,
-16,
-"At 5:00 am PDT"
+55,
+12,
+"At 6:00 am PDT"
 ],
 "250401|peatones|general": [
 "delay",
 45,
-16,
-"At 5:00 am PDT"
+19,
+"At 6:00 am PDT"
 ],
 "250401|peatones|ready": [
 "no delay",
 5,
-1,
-"At 5:00 am PDT"
+2,
+"At 6:00 am PDT"
 ],
 "250409|peatones|general": [
 "no delay",
@@ -2065,48 +2065,48 @@ null,
 ],
 "240801|pasajeros|general": [
 "delay",
-35,
+40,
 1,
-"At 6:00 am MDT"
+"At 7:00 am MDT"
 ],
 "240801|pasajeros|ready": [
 "delay",
-30,
+35,
 1,
-"At 6:00 am MDT"
+"At 7:00 am MDT"
 ],
 "240801|peatones|general": [
 "no delay",
 5,
 1,
-"At 6:00 am MDT"
+"At 7:00 am MDT"
 ],
 "240801|carga|general": [
 "delay",
-35,
+15,
 1,
-"At 6:00 am MDT"
+"At 7:00 am MDT"
 ],
 "240801|carga|fast": [
 "delay",
-30,
+10,
 1,
-"At 6:00 am MDT"
+"At 7:00 am MDT"
 ],
 "250501|pasajeros|general": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+60,
+4,
+"At 6:00 am PDT"
 ],
 "250501|peatones|general": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+30,
+4,
+"At 6:00 am PDT"
 ],
 "250501|carga|general": [
-"Update Pending",
+"Lanes Closed",
 null,
 null,
 ""
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/03/2026 5:40am"
+"09/03/2026 5:50am"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",

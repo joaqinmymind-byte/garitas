@@ -9989,3 +9989,26 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-03T12:43:32+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/03/2026 5:40am,,sur
 2026-09-03T12:43:32+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/03/2026 5:40am,,sur
 2026-09-03T12:43:32+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/03/2026 5:40am,,sur
+2026-09-03T12:55:02+00:00,250601,Mexican Border,Otay Mesa,Passenger,pasajeros,general,delay,60,2,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250601,Mexican Border,Otay Mesa,Passenger,pasajeros,sentri,delay,25,3,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250601,Mexican Border,Otay Mesa,Passenger,pasajeros,ready,delay,60,5,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250601,Mexican Border,Otay Mesa,Passenger,peatones,general,delay,60,6,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250401,Mexican Border,San Ysidro,,pasajeros,general,delay,95,5,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250401,Mexican Border,San Ysidro,,pasajeros,sentri,delay,10,11,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,55,12,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,45,19,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,2,At 6:00 am PDT,Open,norte
+2026-09-03T12:55:02+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,general,delay,40,1,At 7:00 am MDT,Open,norte
+2026-09-03T12:55:02+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,ready,delay,35,1,At 7:00 am MDT,Open,norte
+2026-09-03T12:55:02+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,5,1,At 7:00 am MDT,Open,norte
+2026-09-03T12:55:02+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,carga,general,delay,15,1,At 7:00 am MDT,Open,norte
+2026-09-03T12:55:02+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,carga,fast,delay,10,1,At 7:00 am MDT,Open,norte
+2026-09-03T12:55:02+00:00,250501,Mexican Border,Tecate,,pasajeros,general,delay,60,4,At 6:00 am PDT,Closed,norte
+2026-09-03T12:55:02+00:00,250501,Mexican Border,Tecate,,peatones,general,delay,30,4,At 6:00 am PDT,Closed,norte
+2026-09-03T12:55:02+00:00,250501,Mexican Border,Tecate,,carga,general,Lanes Closed,,,,Closed,norte
+2026-09-03T12:55:02+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/03/2026 5:50am,,sur
+2026-09-03T12:55:02+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/03/2026 5:50am,,sur
+2026-09-03T12:55:02+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/03/2026 5:50am,,sur
+2026-09-03T12:55:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/03/2026 5:50am,,sur
+2026-09-03T12:55:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/03/2026 5:50am,,sur
+2026-09-03T12:55:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/03/2026 5:50am,,sur
