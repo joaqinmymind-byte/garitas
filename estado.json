@@ -111,7 +111,7 @@ null,
 "no delay",
 0,
 1,
-"At 2:17 am EDT"
+"At 2:37 am EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -121,15 +121,15 @@ null,
 ],
 "090104|carga|general": [
 "no delay",
-0,
+3,
 2,
-"At 2:17 am EDT"
+"At 2:37 am EDT"
 ],
 "090101|pasajeros|general": [
 "no delay",
-2,
 1,
-"At 2:17 am EDT"
+1,
+"At 2:37 am EDT"
 ],
 "090101|pasajeros|sentri": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-3,
 4,
-"At 2:17 am EDT"
+4,
+"At 2:37 am EDT"
 ],
 "090102|pasajeros|general": [
 "no delay",
-2,
+0,
 1,
-"At 2:17 am EDT"
+"At 2:37 am EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -1797,13 +1797,13 @@ null,
 "no delay",
 0,
 1,
-"At 1:00 am CDT"
+"At 3:00 am CDT"
 ],
 "240301|peatones|general": [
 "no delay",
 0,
 1,
-"At 1:00 am CDT"
+"At 3:00 am CDT"
 ],
 "240301|peatones|ready": [
 "Lanes Closed",
@@ -2013,31 +2013,31 @@ null,
 "delay",
 60,
 4,
-"At 10:00 pm PDT"
+"At 11:00 pm PDT"
 ],
 "250401|pasajeros|sentri": [
 "delay",
-20,
-11,
-"At 10:00 pm PDT"
+10,
+3,
+"At 11:00 pm PDT"
 ],
 "250401|pasajeros|ready": [
 "delay",
 30,
-16,
-"At 10:00 pm PDT"
+11,
+"At 11:00 pm PDT"
 ],
 "250401|peatones|general": [
 "no delay",
 5,
-14,
-"At 10:00 pm PDT"
+13,
+"At 11:00 pm PDT"
 ],
 "250401|peatones|ready": [
 "no delay",
 5,
 1,
-"At 10:00 pm PDT"
+"At 11:00 pm PDT"
 ],
 "250409|peatones|general": [
 "no delay",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/02/2026 11:25pm"
+"09/02/2026 11:40pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
