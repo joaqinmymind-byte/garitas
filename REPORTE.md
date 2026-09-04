@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 04/09/2026 07:35 (hora de Tijuana) · 43,768 lecturas archivadas*
+*Actualizado 04/09/2026 07:50 (hora de Tijuana) · 43,799 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 743 · 100.0% exitosas
+- **Capturas:** 744 · 100.0% exitosas
 - **Tamaño:** 5.3 MB · proyección 122 MB al año
 - **Días archivando:** 16
 
@@ -103,7 +103,7 @@
 | Calexico | México | **40 min** | 5 | 90 | 128 |
 | Progreso | México | **39 min** | 0 | 90 | 68 |
 | Brownsville | México | **36 min** | 0 | 120 | 215 |
-| Santa Teresa | México | **34 min** | 1 | 60 | 149 |
+| Santa Teresa | México | **34 min** | 1 | 60 | 150 |
 | Nogales | México | **33 min** | 0 | 150 | 158 |
 | Hidalgo/Pharr | México | **32 min** | 3 | 90 | 143 |
 | Hidalgo/Pharr | México | **32 min** | 0 | 80 | 193 |
@@ -113,8 +113,8 @@
 | Douglas (Raul Hector Castro) | México | **28 min** | 0 | 120 | 262 |
 | Eagle Pass | México | **27 min** | 1 | 150 | 250 |
 | Brownsville | México | **27 min** | 0 | 120 | 196 |
-| San Luis | México | **26 min** | 5 | 90 | 145 |
-| Laredo | México | **23 min** | 0 | 70 | 193 |
+| San Luis | México | **26 min** | 5 | 90 | 146 |
+| Laredo | México | **23 min** | 0 | 70 | 194 |
 | Del Rio | México | **23 min** | 0 | 120 | 166 |
 | Marcelino Serna | México | **23 min** | 1 | 45 | 177 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 57 |
@@ -124,15 +124,15 @@
 | Naco | México | **12 min** | 0 | 85 | 170 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 231 |
 | Highgate Springs | Canadá | **9 min** | 0 | 60 | 162 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 729 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 730 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 730 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 731 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 235 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 118 |
 | Champlain | Canadá | **8 min** | 0 | 60 | 152 |
 | Presidio | México | **8 min** | 0 | 90 | 243 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 113 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 200 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 730 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 731 |
 | Roma | México | **6 min** | 0 | 15 | 92 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 120 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 219 |
@@ -143,7 +143,7 @@
 | Detroit | Canadá | **5 min** | 0 | 35 | 269 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 268 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 231 |
-| Laredo | México | **4 min** | 0 | 35 | 92 |
+| Laredo | México | **4 min** | 0 | 35 | 93 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 102 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 86 |
 | Lukeville | México | **2 min** | 0 | 15 | 99 |
