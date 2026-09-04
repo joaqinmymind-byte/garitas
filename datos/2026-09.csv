@@ -14644,3 +14644,43 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-04T15:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/04/2026 8:35am,,sur
 2026-09-04T15:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/04/2026 8:35am,,sur
 2026-09-04T15:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/04/2026 8:35am,,sur
+2026-09-04T15:48:21+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,0,7,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,2,2,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,no delay,5,9,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,0,2,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,delay,15,4,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,no delay,2,9,At 11:28 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,010601,Canadian Border,Houlton,,pasajeros,general,delay,20,1,At 11:00 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,010601,Canadian Border,Houlton,,carga,general,no delay,2,1,At 11:00 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,L01901,Canadian Border,Madawaska,,pasajeros,general,no delay,0,1,At 11:00 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,L01901,Canadian Border,Madawaska,,carga,general,no delay,0,1,At 11:00 am EDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,pasajeros,general,delay,30,1,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,pasajeros,sentri,no delay,5,3,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,pasajeros,ready,delay,30,3,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,peatones,general,no delay,5,2,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,carga,general,no delay,5,2,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250301,Mexican Border,Calexico,East,carga,fast,no delay,5,1,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250302,Mexican Border,Calexico,West,pasajeros,general,delay,45,3,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250302,Mexican Border,Calexico,West,pasajeros,sentri,delay,15,4,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250302,Mexican Border,Calexico,West,pasajeros,ready,delay,45,3,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250302,Mexican Border,Calexico,West,peatones,general,delay,30,2,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,250302,Mexican Border,Calexico,West,peatones,ready,delay,30,2,At 9:00 am PDT,Open,norte
+2026-09-04T15:48:21+00:00,240601,Mexican Border,Columbus,,pasajeros,general,no delay,5,1,At 10:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240601,Mexican Border,Columbus,,peatones,general,no delay,5,1,At 10:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240601,Mexican Border,Columbus,,carga,general,no delay,5,1,At 10:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240202,Mexican Border,El Paso,Paso Del Norte (PDN),pasajeros,general,delay,25,1,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240202,Mexican Border,El Paso,Paso Del Norte (PDN),pasajeros,sentri,no delay,5,1,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240202,Mexican Border,El Paso,Paso Del Norte (PDN),pasajeros,ready,delay,20,3,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240202,Mexican Border,El Paso,Paso Del Norte (PDN),peatones,general,delay,15,3,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240202,Mexican Border,El Paso,Paso Del Norte (PDN),peatones,ready,delay,15,4,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,general,no delay,0,3,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,sentri,no delay,0,1,At 9:00 am MDT,Open,norte
+2026-09-04T15:48:21+00:00,260801,Mexican Border,San Luis,San Luis I,pasajeros,general,delay,15,5,At 9:00 am MST,Open,norte
+2026-09-04T15:48:21+00:00,260801,Mexican Border,San Luis,San Luis I,pasajeros,sentri,no delay,5,3,At 9:00 am MST,Open,norte
+2026-09-04T15:48:21+00:00,260801,Mexican Border,San Luis,San Luis I,peatones,general,no delay,5,2,At 9:00 am MST,Open,norte
+2026-09-04T15:48:21+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/04/2026 8:45am,,sur
+2026-09-04T15:48:21+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/04/2026 8:45am,,sur
+2026-09-04T15:48:21+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/04/2026 8:45am,,sur
+2026-09-04T15:48:21+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/04/2026 8:45am,,sur
+2026-09-04T15:48:21+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/04/2026 8:45am,,sur
+2026-09-04T15:48:21+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/04/2026 8:45am,,sur
