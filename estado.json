@@ -109,9 +109,9 @@ null,
 ],
 "090104|pasajeros|general": [
 "no delay",
-3,
-6,
-"At 3:07 pm EDT"
+2,
+7,
+"At 3:17 pm EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -123,19 +123,19 @@ null,
 "no delay",
 2,
 2,
-"At 3:07 pm EDT"
+"At 3:17 pm EDT"
 ],
 "090101|pasajeros|general": [
 "no delay",
-5,
 7,
-"At 3:07 pm EDT"
+8,
+"At 3:17 pm EDT"
 ],
 "090101|pasajeros|sentri": [
 "no delay",
-0,
+1,
 2,
-"At 3:07 pm EDT"
+"At 3:17 pm EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-3,
+2,
 4,
-"At 3:07 pm EDT"
+"At 3:17 pm EDT"
 ],
 "090102|pasajeros|general": [
 "delay",
-11,
+13,
 7,
-"At 3:07 pm EDT"
+"At 3:17 pm EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -501,13 +501,13 @@ null,
 "no delay",
 0,
 3,
-"At 1:00 pm EDT"
+"At 2:00 pm EDT"
 ],
 "070101|carga|general": [
 "no delay",
-0,
+2,
 1,
-"At 1:00 pm EDT"
+"At 2:00 pm EDT"
 ],
 "340101|pasajeros|general": [
 "no delay",
@@ -530,20 +530,20 @@ null,
 "380201|pasajeros|general": [
 "no delay",
 0,
-7,
-"At 2:00 pm EST"
+4,
+"At 3:00 pm EST"
 ],
 "380201|pasajeros|sentri": [
-"no delay",
-0,
-1,
-"At 2:00 pm EST"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "380201|carga|general": [
 "no delay",
 0,
-2,
-"At 2:00 pm EST"
+4,
+"At 3:00 pm EST"
 ],
 "380201|carga|fast": [
 "Lanes Closed",
@@ -555,7 +555,7 @@ null,
 "no delay",
 0,
 2,
-"At 3:00 pm EDT"
+"At 5:00 pm EDT"
 ],
 "380301|pasajeros|sentri": [
 "Lanes Closed",
@@ -567,7 +567,7 @@ null,
 "no delay",
 0,
 1,
-"At 3:00 pm EDT"
+"At 5:00 pm EDT"
 ],
 "300901|pasajeros|general": [
 "no delay",
@@ -943,27 +943,27 @@ null,
 ],
 "230201|pasajeros|general": [
 "delay",
-60,
+120,
 1,
-"At 1:00 pm CDT"
+"At 2:00 pm CDT"
 ],
 "230201|pasajeros|sentri": [
 "no delay",
 0,
 1,
-"At 1:00 pm CDT"
+"At 2:00 pm CDT"
 ],
 "230201|pasajeros|ready": [
 "delay",
-60,
+120,
 2,
-"At 1:00 pm CDT"
+"At 2:00 pm CDT"
 ],
 "230201|carga|general": [
 "no delay",
 0,
 1,
-"At 1:00 pm CDT"
+"At 2:00 pm CDT"
 ],
 "260101|pasajeros|general": [
 "delay",
@@ -1567,27 +1567,27 @@ null,
 ],
 "260402|pasajeros|general": [
 "delay",
-30,
+25,
 6,
-"At 11:00 am MST"
+"At Noon MST"
 ],
 "260402|peatones|general": [
 "no delay",
 0,
 2,
-"At 11:00 am MST"
+"At Noon MST"
 ],
 "260402|carga|general": [
 "no delay",
 0,
 3,
-"At 11:00 am MST"
+"At Noon MST"
 ],
 "260402|carga|fast": [
 "no delay",
 0,
 2,
-"At 11:00 am MST"
+"At Noon MST"
 ],
 "260403|pasajeros|general": [
 "Update Pending",
@@ -1611,7 +1611,7 @@ null,
 "no delay",
 0,
 2,
-"At 11:00 am MST"
+"At Noon MST"
 ],
 "260403|peatones|ready": [
 "Update Pending",
@@ -1675,39 +1675,39 @@ null,
 ],
 "250602|carga|general": [
 "delay",
-25,
+10,
 5,
-"At 11:00 am PDT"
+"At Noon PDT"
 ],
 "250602|carga|fast": [
-"delay",
-20,
+"no delay",
+5,
 3,
-"At 11:00 am PDT"
+"At Noon PDT"
 ],
 "250601|pasajeros|general": [
 "delay",
-100,
-2,
-"At 11:00 am PDT"
+80,
+3,
+"At Noon PDT"
 ],
 "250601|pasajeros|sentri": [
 "delay",
-25,
+35,
 4,
-"At 11:00 am PDT"
+"At Noon PDT"
 ],
 "250601|pasajeros|ready": [
 "delay",
-100,
+80,
 5,
-"At 11:00 am PDT"
+"At Noon PDT"
 ],
 "250601|peatones|general": [
 "delay",
 30,
 6,
-"At 11:00 am PDT"
+"At Noon PDT"
 ],
 "250608|pasajeros|general": [
 "Update Pending",
@@ -1866,10 +1866,10 @@ null,
 ""
 ],
 "230701|pasajeros|general": [
-"no delay",
-0,
+"delay",
+10,
 2,
-"At 1:00 pm CDT"
+"At 2:00 pm CDT"
 ],
 "230701|carga|general": [
 "Lanes Closed",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/05/2026 12:15pm"
+"09/05/2026 12:30pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
