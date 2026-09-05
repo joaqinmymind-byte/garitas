@@ -109,9 +109,9 @@ null,
 ],
 "090104|pasajeros|general": [
 "no delay",
-5,
+0,
 8,
-"At 8:17 am EDT"
+"At 8:37 am EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -120,22 +120,22 @@ null,
 ""
 ],
 "090104|carga|general": [
-"delay",
-14,
+"no delay",
+6,
 2,
-"At 8:17 am EDT"
+"At 8:37 am EDT"
 ],
 "090101|pasajeros|general": [
 "delay",
-18,
-6,
-"At 8:17 am EDT"
+24,
+4,
+"At 8:37 am EDT"
 ],
 "090101|pasajeros|sentri": [
 "no delay",
-1,
+0,
 2,
-"At 8:17 am EDT"
+"At 8:37 am EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-1,
+2,
 4,
-"At 8:17 am EDT"
+"At 8:37 am EDT"
 ],
 "090102|pasajeros|general": [
 "delay",
-31,
-8,
-"At 8:17 am EDT"
+18,
+9,
+"At 8:37 am EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -399,13 +399,13 @@ null,
 "no delay",
 0,
 1,
-"At 6:00 am CDT"
+"At 9:00 am CDT"
 ],
 "360401|carga|general": [
 "no delay",
 0,
 1,
-"At 6:00 am CDT"
+"At 9:00 am CDT"
 ],
 "010401|pasajeros|general": [
 "no delay",
@@ -1200,31 +1200,31 @@ null,
 "At 6:00 am MDT"
 ],
 "l24501|pasajeros|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+5,
+1,
+"At 6:00 am MDT"
 ],
 "l24501|pasajeros|sentri": [
-"Update Pending",
+"Lanes Closed",
 null,
 null,
 ""
 ],
 "l24501|pasajeros|ready": [
-"Update Pending",
+"Lanes Closed",
 null,
 null,
 ""
 ],
 "l24501|peatones|general": [
-"Update Pending",
+"Lanes Closed",
 null,
 null,
 ""
 ],
 "l24501|peatones|ready": [
-"Update Pending",
+"Lanes Closed",
 null,
 null,
 ""
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/05/2026 5:35am"
+"09/05/2026 5:50am"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
