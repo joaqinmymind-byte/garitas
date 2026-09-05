@@ -1,15 +1,15 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 15:20 (hora de Tijuana) · 49,399 lecturas archivadas*
+*Actualizado 05/09/2026 15:31 (hora de Tijuana) · 49,420 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
 | cruce | autos | Ready | SENTRI | peatonal | carga | FAST |
 |---|---:|---:|---:|---:|---:|---:|
-| San Ysidro | 165 min (4) | 135 min (11) | 15 min (12) | 10 min (21) | — | — |
+| San Ysidro | 150 min (7) | 90 min (9) | 20 min (15) | 10 min (19) | — | — |
 | San Ysidro PedWest | — | — | — | 30 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (5) | — | — |
-| Otay Mesa Pasajeros | 100 min (3) | 90 min (5) | 35 min (4) | 40 min (6) | — | — |
+| Otay Mesa Pasajeros | 100 min (3) | 100 min (5) | 25 min (4) | 5 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 5 min (5) | 5 min (3) |
 | Tecate | 150 min (2) | — | — | 5 min (3) | — | — |
 
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 869 · 100.0% exitosas
+- **Capturas:** 870 · 100.0% exitosas
 - **Tamaño:** 6.0 MB · proyección 129 MB al año
 - **Días archivando:** 17
 
 **Horas de actualización distintas entre puertos:**
 - `At 1:00 pm PDT` → 2 series
-- `At 2:00 pm PDT` → 11 series
+- `At 2:00 pm PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -53,13 +53,13 @@
 | mié | 15 | 15 | 25 | 40 | 45 | 75 | · | 100 | 100 | 110 | 105 | 80 | 170 | 110 | · | 110 | 90 | 15 | 15 | · | 70 | · | 10 | · |
 | jue | · | 27 | 35 | · | 60 | 70 | · | 90 | 150 | 130 | 150 | 160 | 147 | 150 | · | 150 | · | · | 125 | 110 | 110 | 65 | 10 | · |
 | vie | 35 | 3 | · | 30 | 50 | 90 | · | 115 | 140 | 75 | 140 | 90 | 150 | 30 | 120 | 110 | 100 | 30 | 60 | 60 | 75 | 60 | 42 | 25 |
-| sáb | 3 | 13 | 10 | 2 | 25 | 70 | 90 | 60 | 105 | 110 | 110 | 100 | 105 | 90 | 72 | 75 | 100 | 100 | 110 | 110 | 85 | 105 | · | 67 |
+| sáb | 3 | 13 | 10 | 2 | 25 | 70 | 90 | 60 | 105 | 110 | 110 | 100 | 105 | 90 | 72 | 90 | 100 | 100 | 110 | 110 | 85 | 105 | · | 67 |
 | dom | 55 | 50 | 45 | 10 | 20 | 75 | 50 | 60 | 90 | 95 | 110 | 140 | 150 | 162 | 162 | 230 | 210 | 230 | 230 | 230 | 230 | 225 | 190 | · |
 
 **Mejor hora:** sábado a las 03:00 → **2 min** (2 lecturas)  
 **Peor hora:** domingo a las 15:00 → **230 min**  
 **Diferencia:** 227 minutos entre la mejor y la peor.  
-*243 lecturas · faltan 25 de 168 casillas.*
+*244 lecturas · faltan 25 de 168 casillas.*
 
 ## San Ysidro — mediana de espera por hora
 
@@ -72,17 +72,17 @@
 | mié | 30 | 35 | 65 | 55 | 70 | 90 | 95 | 100 | 100 | 110 | 115 | 100 | 112 | 115 | · | 90 | 80 | 80 | · | · | 45 | · | 52 | 60 |
 | jue | 60 | 60 | 62 | 65 | 90 | 95 | · | 100 | 115 | 115 | 120 | · | 137 | 132 | 160 | 150 | 120 | 150 | 80 | 135 | 115 | 105 | 75 | · |
 | vie | 60 | 60 | 70 | 65 | 75 | 85 | 95 | 95 | 105 | · | 95 | 90 | 100 | 115 | 90 | 120 | 90 | 140 | 92 | 45 | 77 | 45 | 45 | · |
-| sáb | 62 | 30 | 45 | 30 | 30 | 60 | 85 | 100 | 100 | 110 | 110 | 122 | 105 | 135 | 130 | 120 | 140 | 130 | 140 | · | 150 | 120 | 160 | 120 |
+| sáb | 62 | 30 | 45 | 30 | 30 | 60 | 85 | 100 | 100 | 110 | 110 | 122 | 105 | 135 | 130 | 135 | 140 | 130 | 140 | · | 150 | 120 | 160 | 120 |
 | dom | · | 120 | 95 | 40 | 22 | · | 70 | 90 | 90 | 100 | 110 | 105 | 135 | 120 | · | 160 | 120 | 120 | 120 | 120 | 160 | 120 | 160 | · |
 
 **Mejor hora:** domingo a las 04:00 → **22 min** (2 lecturas)  
 **Peor hora:** martes a las 13:00 → **175 min**  
 **Diferencia:** 152 minutos entre la mejor y la peor.  
-*245 lecturas · faltan 22 de 168 casillas.*
+*246 lecturas · faltan 22 de 168 casillas.*
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **0%** esta semana contra la anterior: de 90 a 90 minutos de mediana.
+> La espera en **Otay Mesa** subió **6%** esta semana contra la anterior: de 90 a 95 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -94,8 +94,8 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| San Ysidro | México | **105 min** | 20 | 1000 | 245 |
-| Otay Mesa | México | **95 min** | 0 | 240 | 243 |
+| San Ysidro | México | **106 min** | 20 | 1000 | 246 |
+| Otay Mesa | México | **95 min** | 0 | 240 | 244 |
 | Tecate | México | **90 min** | 30 | 210 | 183 |
 | Calexico | México | **54 min** | 5 | 150 | 259 |
 | El Paso | México | **44 min** | 1 | 95 | 283 |
@@ -124,16 +124,16 @@
 | Blaine | Canadá | **11 min** | 0 | 80 | 259 |
 | Naco | México | **11 min** | 0 | 85 | 189 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 176 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 853 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 854 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 175 |
 | Derby Line | Canadá | **10 min** | 0 | 120 | 131 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 854 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 855 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 263 |
 | Presidio | México | **8 min** | 0 | 90 | 271 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 136 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 229 |
 | Roma | México | **7 min** | 0 | 15 | 103 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 854 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 855 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 240 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 140 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 139 |
@@ -153,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 195 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 837 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 838 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 225 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 837 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 838 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 126 |
 | Norton | Canadá | **0 min** | 0 | 0 | 86 |
