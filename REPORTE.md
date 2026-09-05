@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 05:50 (hora de Tijuana) · 47,622 lecturas archivadas*
+*Actualizado 05/09/2026 06:02 (hora de Tijuana) · 47,652 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -9,6 +9,7 @@
 | San Ysidro | 40 min (2) | 30 min (11) | 0 min (3) | 5 min (11) | — | — |
 | San Ysidro CBX | — | — | — | 0 min (5) | — | — |
 | Otay Mesa Pasajeros | 10 min (1) | 10 min (1) | 5 min (1) | 0 min (3) | — | — |
+| Tecate | 30 min (2) | — | — | 60 min (2) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
 
@@ -28,13 +29,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 831 · 100.0% exitosas
-- **Tamaño:** 5.8 MB · proyección 132 MB al año
+- **Capturas:** 832 · 100.0% exitosas
+- **Tamaño:** 5.8 MB · proyección 133 MB al año
 - **Días archivando:** 16
 
 **Horas de actualización distintas entre puertos:**
 - `At 4:00 am PDT` → 9 series
-- `At 5:00 am PDT` → 2 series
+- `At 5:00 am PDT` → 4 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -93,14 +94,14 @@
 |---|---|---:|---:|---:|---:|
 | San Ysidro | México | **105 min** | 20 | 1000 | 236 |
 | Otay Mesa | México | **95 min** | 0 | 240 | 238 |
-| Tecate | México | **90 min** | 30 | 210 | 176 |
-| Calexico | México | **54 min** | 5 | 150 | 251 |
+| Tecate | México | **90 min** | 30 | 210 | 177 |
+| Calexico | México | **54 min** | 5 | 150 | 252 |
 | El Paso | México | **44 min** | 1 | 95 | 273 |
 | El Paso | México | **42 min** | 0 | 105 | 259 |
-| Calexico | México | **41 min** | 5 | 90 | 138 |
+| Calexico | México | **40 min** | 5 | 90 | 139 |
 | Progreso | México | **40 min** | 0 | 90 | 73 |
 | Brownsville | México | **35 min** | 0 | 120 | 231 |
-| Santa Teresa | México | **34 min** | 1 | 60 | 163 |
+| Santa Teresa | México | **34 min** | 1 | 60 | 164 |
 | Eagle Pass | México | **33 min** | 15 | 60 | 21 |
 | Hidalgo/Pharr | México | **31 min** | 3 | 90 | 155 |
 | Nogales | México | **31 min** | 0 | 150 | 174 |
@@ -121,20 +122,20 @@
 | Naco | México | **12 min** | 0 | 85 | 180 |
 | Blaine | Canadá | **11 min** | 0 | 80 | 248 |
 | Highgate Springs | Canadá | **10 min** | 0 | 60 | 170 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 816 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 817 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 166 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 129 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 817 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 818 |
 | Blaine | Canadá | **8 min** | 0 | 60 | 253 |
 | Presidio | México | **8 min** | 0 | 90 | 262 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 128 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 219 |
 | Roma | México | **6 min** | 0 | 15 | 99 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 817 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 818 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 130 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 233 |
-| Rio Grande City | México | **5 min** | 0 | 20 | 134 |
-| Fort Hancock | México | **5 min** | 5 | 20 | 132 |
+| Rio Grande City | México | **5 min** | 0 | 20 | 135 |
+| Fort Hancock | México | **5 min** | 5 | 20 | 133 |
 | Columbus | México | **5 min** | 0 | 30 | 265 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 287 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 290 |
@@ -150,9 +151,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 190 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 800 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 801 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 218 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 800 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 801 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 121 |
 | Norton | Canadá | **0 min** | 0 | 0 | 86 |
