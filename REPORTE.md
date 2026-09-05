@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 14:31 (hora de Tijuana) · 49,235 lecturas archivadas*
+*Actualizado 05/09/2026 14:48 (hora de Tijuana) · 49,245 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 866 · 100.0% exitosas
+- **Capturas:** 867 · 100.0% exitosas
 - **Tamaño:** 6.0 MB · proyección 129 MB al año
 - **Días archivando:** 17
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** subió **6%** esta semana contra la anterior: de 85 a 90 minutos de mediana.
+> La espera en **Otay Mesa** bajó **0%** esta semana contra la anterior: de 90 a 90 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -98,7 +98,7 @@
 | Otay Mesa | México | **95 min** | 0 | 240 | 243 |
 | Tecate | México | **90 min** | 30 | 210 | 182 |
 | Calexico | México | **54 min** | 5 | 150 | 258 |
-| El Paso | México | **44 min** | 1 | 95 | 282 |
+| El Paso | México | **44 min** | 1 | 95 | 283 |
 | El Paso | México | **42 min** | 0 | 105 | 268 |
 | Progreso | México | **41 min** | 0 | 90 | 76 |
 | Calexico | México | **41 min** | 5 | 90 | 145 |
@@ -124,21 +124,21 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 258 |
 | Naco | México | **11 min** | 0 | 85 | 189 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 176 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 850 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 851 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 174 |
 | Derby Line | Canadá | **10 min** | 0 | 120 | 131 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 851 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 852 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 262 |
 | Presidio | México | **8 min** | 0 | 90 | 270 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 135 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 228 |
 | Roma | México | **7 min** | 0 | 15 | 103 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 851 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 852 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 240 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 139 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 138 |
 | Columbus | México | **5 min** | 0 | 30 | 275 |
-| Rio Grande City | México | **5 min** | 0 | 20 | 142 |
+| Rio Grande City | México | **5 min** | 0 | 20 | 143 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 296 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 299 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 265 |

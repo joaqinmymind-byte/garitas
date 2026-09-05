@@ -19910,3 +19910,13 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-05T21:31:43+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/05/2026 2:30pm,,sur
 2026-09-05T21:31:43+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/05/2026 2:30pm,,sur
 2026-09-05T21:31:43+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/05/2026 2:30pm,,sur
+2026-09-05T21:46:36+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,delay,11,6,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,5,2,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,11,7,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,0,2,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,6,4,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,18,6,At 5:37 pm EDT,Open,norte
+2026-09-05T21:46:36+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,general,delay,75,3,At 4:00 pm MDT,Open,norte
+2026-09-05T21:46:36+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),pasajeros,ready,delay,75,8,At 4:00 pm MDT,Open,norte
+2026-09-05T21:46:36+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),peatones,general,delay,10,3,At 4:00 pm MDT,Open,norte
+2026-09-05T21:46:36+00:00,230701,Mexican Border,Rio Grande City,,pasajeros,general,delay,10,2,At 4:00 pm CDT,Open,norte
