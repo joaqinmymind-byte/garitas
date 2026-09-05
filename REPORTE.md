@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 10:31 (hora de Tijuana) · 48,439 lecturas archivadas*
+*Actualizado 05/09/2026 10:46 (hora de Tijuana) · 48,486 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -10,7 +10,7 @@
 | San Ysidro PedWest | — | — | — | 15 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (6) | — | — |
 | Otay Mesa Pasajeros | 90 min (3) | 50 min (4) | 10 min (3) | 10 min (6) | — | — |
-| Otay Mesa Comercial | — | — | — | — | 40 min (5) | 50 min (3) |
+| Otay Mesa Comercial | — | — | — | — | 20 min (5) | 20 min (3) |
 | Tecate | 60 min (2) | — | — | 5 min (4) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
@@ -31,12 +31,12 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 850 · 100.0% exitosas
+- **Capturas:** 851 · 100.0% exitosas
 - **Tamaño:** 5.9 MB · proyección 127 MB al año
 - **Días archivando:** 17
 
 **Horas de actualización distintas entre puertos:**
-- `At 10:00 am PDT` → 7 series
+- `At 10:00 am PDT` → 9 series
 - `At 11:00 am PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** subió **6%** esta semana contra la anterior: de 85 a 90 minutos de mediana.
+> La espera en **Otay Mesa** subió **12%** esta semana contra la anterior: de 80 a 90 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -102,48 +102,48 @@
 | El Paso | México | **41 min** | 0 | 105 | 264 |
 | Calexico | México | **40 min** | 5 | 90 | 142 |
 | Progreso | México | **40 min** | 0 | 90 | 74 |
-| Brownsville | México | **35 min** | 0 | 120 | 233 |
+| Brownsville | México | **35 min** | 0 | 120 | 234 |
 | Santa Teresa | México | **34 min** | 1 | 60 | 168 |
 | Eagle Pass | México | **33 min** | 15 | 60 | 21 |
 | Hidalgo/Pharr | México | **32 min** | 3 | 90 | 160 |
 | Hidalgo/Pharr | México | **31 min** | 0 | 80 | 215 |
 | Nogales | México | **31 min** | 0 | 150 | 174 |
-| Brownsville | México | **30 min** | 0 | 120 | 258 |
+| Brownsville | México | **30 min** | 0 | 120 | 259 |
 | Douglas (Raul Hector Castro) | México | **27 min** | 0 | 120 | 291 |
 | Eagle Pass | México | **27 min** | 1 | 150 | 272 |
+| Brownsville | México | **27 min** | 0 | 120 | 215 |
 | Nogales | México | **26 min** | 0 | 455 | 192 |
-| Brownsville | México | **26 min** | 0 | 120 | 214 |
 | San Luis | México | **25 min** | 5 | 90 | 171 |
-| Laredo | México | **22 min** | 0 | 70 | 212 |
+| Laredo | México | **23 min** | 0 | 70 | 213 |
 | Marcelino Serna | México | **22 min** | 1 | 45 | 195 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 61 |
 | Del Rio | México | **22 min** | 0 | 120 | 178 |
-| Andrade | México | **19 min** | 5 | 90 | 152 |
-| Brownsville | México | **17 min** | 0 | 90 | 166 |
+| Andrade | México | **19 min** | 5 | 90 | 153 |
+| Brownsville | México | **18 min** | 0 | 90 | 167 |
 | Progreso | México | **17 min** | 0 | 60 | 144 |
 | Naco | México | **11 min** | 0 | 85 | 185 |
 | Blaine | Canadá | **11 min** | 0 | 80 | 254 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 175 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 835 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 836 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 171 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 130 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 836 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 837 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 258 |
 | Presidio | México | **8 min** | 0 | 90 | 266 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 131 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 224 |
 | Roma | México | **6 min** | 0 | 15 | 101 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 836 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 837 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 236 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 135 |
-| Fort Hancock | México | **5 min** | 5 | 20 | 135 |
+| Fort Hancock | México | **5 min** | 5 | 20 | 136 |
 | Rio Grande City | México | **5 min** | 0 | 20 | 139 |
 | Columbus | México | **5 min** | 0 | 30 | 270 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 292 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 295 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 261 |
+| Laredo | México | **4 min** | 0 | 35 | 106 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 294 |
-| Laredo | México | **4 min** | 0 | 35 | 105 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 110 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 100 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 253 |
@@ -153,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 192 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 819 |
-| International Falls | Canadá | **0 min** | 0 | 1 | 220 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 819 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 820 |
+| International Falls | Canadá | **0 min** | 0 | 1 | 221 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 820 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 122 |
 | Norton | Canadá | **0 min** | 0 | 0 | 86 |
