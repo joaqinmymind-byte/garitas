@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 04/09/2026 19:21 (hora de Tijuana) · 46,065 lecturas archivadas*
+*Actualizado 04/09/2026 19:34 (hora de Tijuana) · 46,087 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -8,9 +8,9 @@
 |---|---:|---:|---:|---:|---:|---:|
 | San Ysidro | 140 min (4) | 100 min (16) | 10 min (10) | 50 min (17) | — | — |
 | San Ysidro PedWest | — | — | — | 5 min (3) | — | — |
-| San Ysidro CBX | — | — | — | 20 min (5) | — | — |
+| San Ysidro CBX | — | — | — | 5 min (5) | — | — |
 | Otay Mesa Pasajeros | 75 min (2) | 75 min (5) | 15 min (3) | 60 min (6) | — | — |
-| Otay Mesa Comercial | — | — | — | — | 20 min (6) | 5 min (1) |
+| Otay Mesa Comercial | — | — | — | — | 10 min (6) | 5 min (1) |
 | Tecate | 120 min (2) | — | — | 5 min (3) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 789 · 100.0% exitosas
+- **Capturas:** 790 · 100.0% exitosas
 - **Tamaño:** 5.6 MB · proyección 128 MB al año
 - **Días archivando:** 16
 
 **Horas de actualización distintas entre puertos:**
 - `At 2:00 pm PDT` → 2 series
-- `At 6:00 pm PDT` → 6 series
+- `At 6:00 pm PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -124,16 +124,16 @@
 | Naco | México | **12 min** | 0 | 85 | 178 |
 | Blaine | Canadá | **11 min** | 0 | 80 | 241 |
 | Highgate Springs | Canadá | **10 min** | 0 | 60 | 165 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 774 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 119 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 775 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 162 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 775 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 776 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 245 |
 | Presidio | México | **8 min** | 0 | 90 | 255 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 125 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 209 |
 | Roma | México | **7 min** | 0 | 15 | 98 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 775 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 776 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 229 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 130 |
 | Rio Grande City | México | **5 min** | 0 | 20 | 133 |
@@ -141,21 +141,21 @@
 | Fort Hancock | México | **5 min** | 5 | 20 | 131 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 278 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 281 |
-| Houlton | Canadá | **4 min** | 0 | 45 | 245 |
+| Houlton | Canadá | **4 min** | 0 | 45 | 246 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 280 |
 | Laredo | México | **4 min** | 0 | 35 | 101 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 106 |
 | Sumas | Canadá | **4 min** | 0 | 30 | 93 |
 | Lukeville | México | **2 min** | 0 | 15 | 99 |
-| Madawaska | Canadá | **2 min** | 0 | 30 | 238 |
+| Madawaska | Canadá | **2 min** | 0 | 30 | 239 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 222 |
 | Calais | Canadá | **1 min** | 0 | 10 | 122 |
 | Jackman | Canadá | **1 min** | 0 | 20 | 184 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 122 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 758 |
-| International Falls | Canadá | **0 min** | 0 | 1 | 215 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 758 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 759 |
+| International Falls | Canadá | **0 min** | 0 | 1 | 216 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 759 |
 | Massena | Canadá | **0 min** | 0 | 0 | 123 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 115 |
 | Norton | Canadá | **0 min** | 0 | 0 | 76 |
