@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 11:36 (hora de Tijuana) · 48,668 lecturas archivadas*
+*Actualizado 05/09/2026 11:49 (hora de Tijuana) · 48,681 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 854 · 100.0% exitosas
+- **Capturas:** 855 · 100.0% exitosas
 - **Tamaño:** 5.9 MB · proyección 127 MB al año
 - **Días archivando:** 17
 
@@ -153,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 193 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 823 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 824 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 222 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 823 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 824 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 122 |
 | Norton | Canadá | **0 min** | 0 | 0 | 86 |
