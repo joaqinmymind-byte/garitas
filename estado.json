@@ -111,7 +111,7 @@ null,
 "no delay",
 0,
 1,
-"At 5:47 am EDT"
+"At 6:09 am EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -123,19 +123,19 @@ null,
 "no delay",
 0,
 2,
-"At 5:47 am EDT"
+"At 6:09 am EDT"
 ],
 "090101|pasajeros|general": [
-"delay",
-13,
-1,
-"At 5:47 am EDT"
+"no delay",
+8,
+3,
+"At 6:09 am EDT"
 ],
 "090101|pasajeros|sentri": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+1,
+1,
+"At 6:09 am EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -147,13 +147,13 @@ null,
 "no delay",
 0,
 4,
-"At 5:47 am EDT"
+"At 6:09 am EDT"
 ],
 "090102|pasajeros|general": [
-"no delay",
-2,
+"delay",
+12,
 1,
-"At 5:47 am EDT"
+"At 6:09 am EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -573,7 +573,7 @@ null,
 "no delay",
 0,
 1,
-"At 2:00 am PDT"
+"At 5:00 am PDT"
 ],
 "300901|pasajeros|sentri": [
 "Lanes Closed",
@@ -591,19 +591,19 @@ null,
 "no delay",
 0,
 1,
-"At 2:00 am PDT"
+"At 5:00 am PDT"
 ],
 "331001|pasajeros|general": [
 "no delay",
 5,
 1,
-"At 3:00 am MDT"
+"At 4:00 am MDT"
 ],
 "331001|carga|general": [
 "no delay",
 5,
 1,
-"At 3:00 am MDT"
+"At 4:00 am MDT"
 ],
 "250201|pasajeros|general": [
 "Update Pending",
@@ -751,9 +751,9 @@ null,
 ],
 "535501|pasajeros|general": [
 "delay",
-35,
+10,
 1,
-"At 4:00 am CDT"
+"At 5:00 am CDT"
 ],
 "535501|pasajeros|ready": [
 "Lanes Closed",
@@ -769,9 +769,9 @@ null,
 ],
 "535504|pasajeros|general": [
 "delay",
-30,
+10,
 1,
-"At 4:00 am CDT"
+"At 5:00 am CDT"
 ],
 "535504|pasajeros|ready": [
 "Lanes Closed",
@@ -783,7 +783,7 @@ null,
 "no delay",
 0,
 1,
-"At 4:00 am CDT"
+"At 5:00 am CDT"
 ],
 "535504|peatones|ready": [
 "Lanes Closed",
@@ -1014,16 +1014,16 @@ null,
 ""
 ],
 "230302|pasajeros|general": [
-"no delay",
-5,
-1,
-"At 4:00 am CDT"
+"delay",
+10,
+2,
+"At 5:00 am CDT"
 ],
 "230302|pasajeros|sentri": [
 "no delay",
 1,
 1,
-"At 4:00 am CDT"
+"At 5:00 am CDT"
 ],
 "230302|pasajeros|ready": [
 "Lanes Closed",
@@ -1352,8 +1352,8 @@ null,
 "230401|pasajeros|sentri": [
 "no delay",
 0,
-1,
-"At 3:00 am CDT"
+4,
+"At 7:00 am CDT"
 ],
 "230401|pasajeros|ready": [
 "Lanes Closed",
@@ -1362,28 +1362,28 @@ null,
 ""
 ],
 "230401|peatones|general": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+0,
+3,
+"At 7:00 am CDT"
 ],
 "230401|peatones|ready": [
 "no delay",
 0,
-1,
-"At 3:00 am CDT"
+3,
+"At 7:00 am CDT"
 ],
 "230402|pasajeros|general": [
-"no delay",
-0,
-1,
-"At 3:00 am CDT"
+"delay",
+10,
+3,
+"At 7:00 am CDT"
 ],
 "230402|pasajeros|ready": [
 "no delay",
-0,
-2,
-"At 3:00 am CDT"
+5,
+3,
+"At 7:00 am CDT"
 ],
 "230403|pasajeros|general": [
 "Lanes Closed",
@@ -1551,7 +1551,7 @@ null,
 "delay",
 10,
 3,
-"At 2:00 am MST"
+"At 3:00 am MST"
 ],
 "260401|pasajeros|sentri": [
 "Lanes Closed",
@@ -1561,9 +1561,9 @@ null,
 ],
 "260401|peatones|general": [
 "no delay",
-0,
+5,
 1,
-"At 2:00 am MST"
+"At 3:00 am MST"
 ],
 "260402|pasajeros|general": [
 "Update Pending",
@@ -1839,7 +1839,7 @@ null,
 "no delay",
 5,
 1,
-"At 4:00 am CDT"
+"At 5:00 am CDT"
 ],
 "230901|pasajeros|ready": [
 "Lanes Closed",
@@ -1938,16 +1938,16 @@ null,
 ""
 ],
 "260801|pasajeros|general": [
-"delay",
-35,
-4,
-"At 2:00 am MST"
+"no delay",
+5,
+3,
+"At 3:00 am MST"
 ],
 "260801|pasajeros|sentri": [
 "no delay",
 5,
 1,
-"At 2:00 am MST"
+"At 3:00 am MST"
 ],
 "260801|pasajeros|ready": [
 "Lanes Closed",
@@ -1959,7 +1959,7 @@ null,
 "no delay",
 5,
 2,
-"At 2:00 am MST"
+"At 3:00 am MST"
 ],
 "260801|peatones|ready": [
 "Lanes Closed",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/06/2026 3:00am"
+"09/06/2026 3:20am"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
