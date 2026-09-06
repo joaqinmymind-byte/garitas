@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 23:39 (hora de Tijuana) · 50,745 lecturas archivadas*
+*Actualizado 05/09/2026 23:50 (hora de Tijuana) · 50,758 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 901 · 100.0% exitosas
+- **Capturas:** 902 · 100.0% exitosas
 - **Tamaño:** 6.2 MB · proyección 133 MB al año
 - **Días archivando:** 17
 
@@ -124,16 +124,16 @@
 | Naco | México | **11 min** | 0 | 85 | 194 |
 | Blaine | Canadá | **11 min** | 0 | 80 | 267 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 183 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 885 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 886 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 176 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 886 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 887 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 136 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 271 |
-| Presidio | México | **8 min** | 0 | 90 | 280 |
+| Presidio | México | **8 min** | 0 | 90 | 281 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 143 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 237 |
 | Roma | México | **7 min** | 0 | 15 | 104 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 886 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 887 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 245 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 140 |
 | Rio Grande City | México | **6 min** | 0 | 25 | 148 |
@@ -153,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 198 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 869 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 870 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 231 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 869 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 870 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 132 |
 | Norton | Canadá | **0 min** | 0 | 0 | 91 |
