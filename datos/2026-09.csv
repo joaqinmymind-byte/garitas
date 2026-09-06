@@ -23367,3 +23367,14 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-06T18:35:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/06/2026 11:35am,,sur
 2026-09-06T18:35:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/06/2026 11:35am,,sur
 2026-09-06T18:35:29+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/06/2026 11:35am,,sur
+2026-09-06T18:47:16+00:00,360401,Canadian Border,International Falls,,pasajeros,general,no delay,0,1,At 3:00 pm CDT,Open,norte
+2026-09-06T18:47:16+00:00,360401,Canadian Border,International Falls,,carga,general,no delay,0,1,At 3:00 pm CDT,Open,norte
+2026-09-06T18:47:16+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,pasajeros,general,no delay,1,5,At 3:00 pm EST,Open,norte
+2026-09-06T18:47:16+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,pasajeros,sentri,no delay,0,1,At 3:00 pm EST,Open,norte
+2026-09-06T18:47:16+00:00,380201,Canadian Border,Port Huron,Bluewater Bridge,carga,general,no delay,2,3,At 3:00 pm EST,Open,norte
+2026-09-06T18:47:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/06/2026 11:45am,,sur
+2026-09-06T18:47:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/06/2026 11:45am,,sur
+2026-09-06T18:47:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/06/2026 11:45am,,sur
+2026-09-06T18:47:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/06/2026 11:45am,,sur
+2026-09-06T18:47:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/06/2026 11:45am,,sur
+2026-09-06T18:47:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/06/2026 11:45am,,sur
