@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 05/09/2026 17:34 (hora de Tijuana) · 49,763 lecturas archivadas*
+*Actualizado 05/09/2026 17:53 (hora de Tijuana) · 49,784 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -9,7 +9,7 @@
 | San Ysidro | 150 min (7) | 78 min (9) | 20 min (15) | 30 min (15) | — | — |
 | San Ysidro PedWest | — | — | — | 30 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (5) | — | — |
-| Otay Mesa Pasajeros | 100 min (3) | 100 min (6) | 10 min (3) | 5 min (6) | — | — |
+| Otay Mesa Pasajeros | 110 min (3) | 110 min (6) | 20 min (3) | 5 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 5 min (5) | 5 min (3) |
 | Tecate | 120 min (2) | — | — | 5 min (3) | — | — |
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 877 · 100.0% exitosas
+- **Capturas:** 878 · 100.0% exitosas
 - **Tamaño:** 6.1 MB · proyección 130 MB al año
 - **Días archivando:** 17
 
@@ -59,7 +59,7 @@
 **Mejor hora:** sábado a las 03:00 → **2 min** (2 lecturas)  
 **Peor hora:** domingo a las 15:00 → **230 min**  
 **Diferencia:** 227 minutos entre la mejor y la peor.  
-*245 lecturas · faltan 25 de 168 casillas.*
+*246 lecturas · faltan 25 de 168 casillas.*
 
 ## San Ysidro — mediana de espera por hora
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **0%** esta semana contra la anterior: de 90 a 90 minutos de mediana.
+> La espera en **Otay Mesa** subió **6%** esta semana contra la anterior: de 90 a 95 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -95,7 +95,7 @@
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
 | San Ysidro | México | **106 min** | 20 | 1000 | 248 |
-| Otay Mesa | México | **95 min** | 0 | 240 | 245 |
+| Otay Mesa | México | **95 min** | 0 | 240 | 246 |
 | Tecate | México | **90 min** | 30 | 210 | 185 |
 | Calexico | México | **54 min** | 5 | 150 | 261 |
 | El Paso | México | **45 min** | 1 | 95 | 285 |
@@ -124,16 +124,16 @@
 | Naco | México | **11 min** | 0 | 85 | 191 |
 | Blaine | Canadá | **11 min** | 0 | 80 | 261 |
 | Highgate Springs | Canadá | **11 min** | 0 | 60 | 178 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 861 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 862 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 176 |
 | Derby Line | Canadá | **10 min** | 0 | 120 | 131 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 862 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 60 | 863 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 265 |
 | Presidio | México | **8 min** | 0 | 90 | 274 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 138 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 231 |
 | Roma | México | **7 min** | 0 | 15 | 104 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 862 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 863 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 243 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 140 |
 | Rio Grande City | México | **5 min** | 0 | 20 | 145 |
@@ -145,17 +145,17 @@
 | Houlton | Canadá | **4 min** | 0 | 45 | 268 |
 | Laredo | México | **4 min** | 0 | 35 | 110 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 110 |
-| Sumas | Canadá | **3 min** | 0 | 30 | 100 |
+| Sumas | Canadá | **4 min** | 0 | 30 | 101 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 260 |
 | Lukeville | México | **2 min** | 0 | 15 | 106 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 235 |
 | Calais | Canadá | **1 min** | 0 | 10 | 123 |
-| Jackman | Canadá | **1 min** | 0 | 20 | 195 |
+| Jackman | Canadá | **1 min** | 0 | 20 | 196 |
 | Calais | Canadá | **0 min** | 0 | 5 | 55 |
 | Calais | Canadá | **0 min** | 0 | 10 | 123 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 845 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 846 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 227 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 845 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 846 |
 | Massena | Canadá | **0 min** | 0 | 0 | 124 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 128 |
 | Norton | Canadá | **0 min** | 0 | 0 | 86 |
