@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 06/09/2026 21:23 (hora de Tijuana) · 54,462 lecturas archivadas*
+*Actualizado 06/09/2026 21:38 (hora de Tijuana) · 54,473 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 987 · 100.0% exitosas
+- **Capturas:** 988 · 100.0% exitosas
 - **Tamaño:** 6.6 MB · proyección 135 MB al año
 - **Días archivando:** 18
 
@@ -108,10 +108,10 @@
 | Hidalgo/Pharr | México | **31 min** | 3 | 90 | 181 |
 | Hidalgo/Pharr | México | **30 min** | 0 | 80 | 242 |
 | Brownsville | México | **30 min** | 0 | 120 | 292 |
-| Nogales | México | **29 min** | 0 | 150 | 197 |
+| Nogales | México | **29 min** | 0 | 150 | 198 |
 | Eagle Pass | México | **27 min** | 1 | 150 | 300 |
 | Brownsville | México | **27 min** | 0 | 120 | 244 |
-| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 323 |
+| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 324 |
 | Nogales | México | **25 min** | 0 | 455 | 218 |
 | San Luis | México | **25 min** | 5 | 90 | 207 |
 | Del Rio | México | **24 min** | 0 | 120 | 203 |
@@ -122,13 +122,13 @@
 | Brownsville | México | **19 min** | 0 | 90 | 192 |
 | Progreso | México | **17 min** | 0 | 60 | 160 |
 | Highgate Springs | Canadá | **12 min** | 0 | 60 | 199 |
-| Blaine | Canadá | **11 min** | 0 | 80 | 284 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 285 |
 | Naco | México | **11 min** | 0 | 85 | 210 |
 | Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 966 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 186 |
 | Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 967 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 147 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 288 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 289 |
 | Presidio | México | **8 min** | 0 | 90 | 302 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 151 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 257 |
