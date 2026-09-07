@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 07/09/2026 07:36 (hora de Tijuana) · 56,041 lecturas archivadas*
+*Actualizado 07/09/2026 07:50 (hora de Tijuana) · 56,078 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -10,6 +10,7 @@
 | San Ysidro PedWest | — | — | — | 5 min (5) | — | — |
 | San Ysidro CBX | — | — | — | 0 min (7) | — | — |
 | Otay Mesa Pasajeros | 5 min (3) | 5 min (4) | 1 min (3) | 5 min (6) | — | — |
+| Otay Mesa Comercial | — | — | — | — | 30 min (6) | 20 min (4) |
 | Tecate | 60 min (4) | — | — | 5 min (3) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
@@ -30,8 +31,8 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,026 · 100.0% exitosas
-- **Tamaño:** 6.8 MB · proyección 131 MB al año
+- **Capturas:** 1,027 · 100.0% exitosas
+- **Tamaño:** 6.8 MB · proyección 132 MB al año
 - **Días archivando:** 19
 
 **Horas de actualización distintas entre puertos:**
@@ -97,7 +98,7 @@
 | Tecate | México | **97 min** | 30 | 240 | 201 |
 | Otay Mesa | México | **92 min** | 0 | 240 | 278 |
 | Calexico | México | **54 min** | 5 | 150 | 299 |
-| Calexico | México | **43 min** | 5 | 100 | 170 |
+| Calexico | México | **43 min** | 5 | 100 | 171 |
 | El Paso | México | **43 min** | 1 | 95 | 321 |
 | El Paso | México | **41 min** | 0 | 105 | 306 |
 | Progreso | México | **41 min** | 0 | 90 | 88 |
@@ -108,13 +109,13 @@
 | Hidalgo/Pharr | México | **30 min** | 0 | 80 | 249 |
 | Brownsville | México | **29 min** | 0 | 120 | 296 |
 | Nogales | México | **28 min** | 0 | 150 | 206 |
-| Eagle Pass | México | **27 min** | 1 | 150 | 307 |
+| Eagle Pass | México | **27 min** | 1 | 150 | 308 |
 | Brownsville | México | **27 min** | 0 | 120 | 248 |
 | Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 333 |
 | Nogales | México | **25 min** | 0 | 455 | 220 |
 | San Luis | México | **25 min** | 5 | 90 | 209 |
 | Del Rio | México | **24 min** | 0 | 120 | 207 |
-| Laredo | México | **23 min** | 0 | 70 | 247 |
+| Laredo | México | **23 min** | 0 | 70 | 248 |
 | Marcelino Serna | México | **22 min** | 0 | 45 | 225 |
 | Hidalgo/Pharr | México | **21 min** | 0 | 65 | 74 |
 | Andrade | México | **19 min** | 0 | 90 | 177 |
@@ -123,8 +124,8 @@
 | Highgate Springs | Canadá | **12 min** | 0 | 120 | 203 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 292 |
 | Naco | México | **11 min** | 0 | 85 | 212 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,003 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,004 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,004 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,005 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 189 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 298 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 156 |
@@ -132,10 +133,10 @@
 | Lynden | Canadá | **7 min** | 0 | 40 | 153 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 265 |
 | Roma | México | **6 min** | 0 | 15 | 113 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,004 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,005 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 269 |
 | Pembina | Canadá | **5 min** | 0 | 38 | 155 |
-| Rio Grande City | México | **5 min** | 0 | 25 | 160 |
+| Rio Grande City | México | **5 min** | 0 | 25 | 161 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 152 |
 | Columbus | México | **5 min** | 0 | 30 | 313 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 340 |
@@ -152,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 213 |
 | Calais | Canadá | **0 min** | 0 | 5 | 62 |
 | Calais | Canadá | **0 min** | 0 | 10 | 135 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 993 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 994 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 256 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 993 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 994 |
 | Massena | Canadá | **0 min** | 0 | 0 | 134 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 152 |
 | Norton | Canadá | **0 min** | 0 | 0 | 105 |
