@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 07/09/2026 10:22 (hora de Tijuana) · 56,614 lecturas archivadas*
+*Actualizado 07/09/2026 10:34 (hora de Tijuana) · 56,624 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,037 · 100.0% exitosas
+- **Capturas:** 1,038 · 100.0% exitosas
 - **Tamaño:** 6.9 MB · proyección 133 MB al año
 - **Días archivando:** 19
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **11%** esta semana contra la anterior: de 95 a 85 minutos de mediana.
+> La espera en **Otay Mesa** bajó **20%** esta semana contra la anterior: de 100 a 80 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -133,15 +133,15 @@
 | Lynden | Canadá | **7 min** | 0 | 40 | 157 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 265 |
 | Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,014 |
-| Roma | México | **6 min** | 0 | 15 | 113 |
-| Port Huron | Canadá | **6 min** | 0 | 36 | 272 |
+| Roma | México | **6 min** | 0 | 15 | 114 |
+| Port Huron | Canadá | **6 min** | 0 | 36 | 273 |
 | Pembina | Canadá | **6 min** | 0 | 38 | 157 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 343 |
 | Rio Grande City | México | **5 min** | 0 | 25 | 163 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 154 |
 | Columbus | México | **5 min** | 0 | 30 | 316 |
+| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 126 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 340 |
-| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 125 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 342 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 307 |
 | Laredo | México | **4 min** | 0 | 35 | 124 |
@@ -153,9 +153,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 139 |
 | Calais | Canadá | **0 min** | 0 | 5 | 65 |
 | Calais | Canadá | **0 min** | 0 | 10 | 138 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,004 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,005 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 258 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,004 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,005 |
 | Massena | Canadá | **0 min** | 0 | 0 | 135 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 152 |
 | Norton | Canadá | **0 min** | 0 | 0 | 105 |
