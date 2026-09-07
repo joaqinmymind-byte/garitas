@@ -1,12 +1,12 @@
 # Garitas — reporte automático
 
-*Actualizado 07/09/2026 15:33 (hora de Tijuana) · 57,586 lecturas archivadas*
+*Actualizado 07/09/2026 15:48 (hora de Tijuana) · 57,605 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
 | cruce | autos | Ready | SENTRI | peatonal | carga | FAST |
 |---|---:|---:|---:|---:|---:|---:|
-| San Ysidro | 115 min (5) | 95 min (11) | 25 min (14) | 30 min (22) | — | — |
+| San Ysidro | 130 min (7) | 100 min (10) | 20 min (14) | 45 min (21) | — | — |
 | San Ysidro PedWest | — | — | — | 5 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 5 min (8) | — | — |
 | Otay Mesa Pasajeros | 80 min (2) | 90 min (6) | 40 min (4) | 20 min (6) | — | — |
@@ -30,13 +30,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,058 · 100.0% exitosas
+- **Capturas:** 1,059 · 100.0% exitosas
 - **Tamaño:** 7.0 MB · proyección 135 MB al año
 - **Días archivando:** 19
 
 **Horas de actualización distintas entre puertos:**
 - `At 1:00 pm PDT` → 2 series
-- `At 2:00 pm PDT` → 5 series
+- `At 3:00 pm PDT` → 11 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -66,7 +66,7 @@
 
 | día | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| lun | 120 | 200 | 55 | 120 | 105 | 65 | 67 | 100 | · | 120 | 105 | 160 | 100 | 170 | 120 | · | 120 | 170 | 170 | · | 130 | 140 | 87 | 125 |
+| lun | 120 | 200 | 55 | 120 | 105 | 65 | 67 | 100 | · | 120 | 105 | 160 | 100 | 170 | 120 | 130 | 120 | 170 | 170 | · | 130 | 140 | 87 | 125 |
 | mar | · | 80 | 100 | 100 | 100 | 95 | · | 115 | 130 | 140 | 140 | · | 160 | 175 | 175 | · | 45 | 45 | 60 | 60 | 60 | 60 | · | 45 |
 | mié | 30 | 35 | 65 | 55 | 70 | 90 | 95 | 100 | 100 | 110 | 115 | 100 | 112 | 115 | · | 90 | 80 | 80 | · | · | 45 | · | 52 | 60 |
 | jue | 60 | 60 | 62 | 65 | 90 | 95 | · | 100 | 115 | 115 | 120 | · | 137 | 132 | 160 | 150 | 120 | 150 | 80 | 135 | 115 | 105 | 75 | · |
@@ -77,7 +77,7 @@
 **Mejor hora:** domingo a las 04:00 → **20 min** (3 lecturas)  
 **Peor hora:** lunes a las 01:00 → **200 min**  
 **Diferencia:** 180 minutos entre la mejor y la peor.  
-*282 lecturas · faltan 19 de 168 casillas.*
+*283 lecturas · faltan 18 de 168 casillas.*
 
 ## Titular de la semana
 
@@ -93,7 +93,7 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| San Ysidro | México | **103 min** | 10 | 1000 | 282 |
+| San Ysidro | México | **103 min** | 10 | 1000 | 283 |
 | Tecate | México | **98 min** | 30 | 240 | 205 |
 | Otay Mesa | México | **91 min** | 0 | 240 | 286 |
 | Calexico | México | **54 min** | 5 | 150 | 306 |
@@ -122,16 +122,16 @@
 | Progreso | México | **16 min** | 0 | 60 | 167 |
 | Highgate Springs | Canadá | **14 min** | 0 | 170 | 206 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 299 |
-| Naco | México | **11 min** | 0 | 85 | 219 |
+| Naco | México | **11 min** | 0 | 85 | 220 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 194 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,033 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,034 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,034 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,035 |
 | Presidio | México | **9 min** | 0 | 90 | 318 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 160 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 305 |
-| Lynden | Canadá | **7 min** | 0 | 40 | 160 |
+| Lynden | Canadá | **8 min** | 0 | 40 | 161 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 265 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,034 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,035 |
 | Roma | México | **7 min** | 0 | 25 | 119 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 277 |
 | Detroit | Canadá | **6 min** | 0 | 45 | 348 |
@@ -139,7 +139,7 @@
 | Pembina | Canadá | **6 min** | 0 | 38 | 161 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 156 |
 | Columbus | México | **5 min** | 0 | 30 | 320 |
-| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 128 |
+| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 129 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 345 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 347 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 309 |
