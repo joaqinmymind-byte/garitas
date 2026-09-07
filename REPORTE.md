@@ -1,13 +1,13 @@
 # Garitas — reporte automático
 
-*Actualizado 07/09/2026 08:23 (hora de Tijuana) · 56,218 lecturas archivadas*
+*Actualizado 07/09/2026 08:36 (hora de Tijuana) · 56,231 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
 | cruce | autos | Ready | SENTRI | peatonal | carga | FAST |
 |---|---:|---:|---:|---:|---:|---:|
 | San Ysidro | 20 min (8) | 100 min (15) | 5 min (9) | 5 min (16) | — | — |
-| San Ysidro PedWest | — | — | — | 5 min (5) | — | — |
+| San Ysidro PedWest | — | — | — | 5 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 0 min (7) | — | — |
 | Otay Mesa Pasajeros | 15 min (3) | 15 min (4) | 5 min (3) | 5 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 30 min (6) | 20 min (4) |
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,029 · 100.0% exitosas
+- **Capturas:** 1,030 · 100.0% exitosas
 - **Tamaño:** 6.9 MB · proyección 132 MB al año
 - **Días archivando:** 19
 
 **Horas de actualización distintas entre puertos:**
 - `At 1:00 pm PDT` → 2 series
-- `At 7:00 am PDT` → 4 series
+- `At 7:00 am PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -97,7 +97,7 @@
 | San Ysidro | México | **104 min** | 10 | 1000 | 277 |
 | Tecate | México | **97 min** | 30 | 240 | 201 |
 | Otay Mesa | México | **92 min** | 0 | 240 | 279 |
-| Calexico | México | **54 min** | 5 | 150 | 299 |
+| Calexico | México | **54 min** | 5 | 150 | 300 |
 | Calexico | México | **43 min** | 5 | 100 | 171 |
 | El Paso | México | **43 min** | 1 | 95 | 322 |
 | Progreso | México | **41 min** | 0 | 90 | 88 |
@@ -153,9 +153,9 @@
 | Jackman | Canadá | **1 min** | 0 | 20 | 213 |
 | Calais | Canadá | **0 min** | 0 | 5 | 63 |
 | Calais | Canadá | **0 min** | 0 | 10 | 136 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 996 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 997 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 257 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 996 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 997 |
 | Massena | Canadá | **0 min** | 0 | 0 | 134 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 152 |
 | Norton | Canadá | **0 min** | 0 | 0 | 105 |
