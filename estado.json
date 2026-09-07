@@ -109,9 +109,9 @@ null,
 ],
 "090104|pasajeros|general": [
 "delay",
-11,
-4,
-"At 10:17 pm EDT"
+12,
+5,
+"At 10:37 pm EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -120,22 +120,22 @@ null,
 ""
 ],
 "090104|carga|general": [
-"no delay",
-6,
+"delay",
+20,
 2,
-"At 10:17 pm EDT"
+"At 10:37 pm EDT"
 ],
 "090101|pasajeros|general": [
 "delay",
-21,
+20,
 5,
-"At 10:17 pm EDT"
+"At 10:37 pm EDT"
 ],
 "090101|pasajeros|sentri": [
-"no delay",
-3,
-1,
-"At 10:17 pm EDT"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-1,
+2,
 4,
-"At 10:17 pm EDT"
+"At 10:37 pm EDT"
 ],
 "090102|pasajeros|general": [
 "delay",
-64,
+47,
 3,
-"At 10:17 pm EDT"
+"At 10:37 pm EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -919,9 +919,9 @@ null,
 ],
 "240601|pasajeros|general": [
 "delay",
-15,
+10,
 1,
-"At 8:00 pm MDT"
+"At 9:00 pm MDT"
 ],
 "240601|pasajeros|ready": [
 "Lanes Closed",
@@ -933,7 +933,7 @@ null,
 "no delay",
 0,
 1,
-"At 8:00 pm MDT"
+"At 9:00 pm MDT"
 ],
 "240601|carga|general": [
 "Lanes Closed",
@@ -2067,19 +2067,19 @@ null,
 "delay",
 55,
 1,
-"At 8:00 pm MDT"
+"At 9:00 pm MDT"
 ],
 "240801|pasajeros|ready": [
 "delay",
 50,
 1,
-"At 8:00 pm MDT"
+"At 9:00 pm MDT"
 ],
 "240801|peatones|general": [
 "no delay",
 5,
 1,
-"At 8:00 pm MDT"
+"At 9:00 pm MDT"
 ],
 "240801|carga|general": [
 "Lanes Closed",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/06/2026 7:35pm"
+"09/06/2026 7:45pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
