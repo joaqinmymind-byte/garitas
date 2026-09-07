@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 06/09/2026 21:50 (hora de Tijuana) · 54,491 lecturas archivadas*
+*Actualizado 06/09/2026 22:02 (hora de Tijuana) · 54,527 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 989 · 100.0% exitosas
+- **Capturas:** 990 · 100.0% exitosas
 - **Tamaño:** 6.7 MB · proyección 135 MB al año
 - **Días archivando:** 18
 
@@ -97,10 +97,10 @@
 | San Ysidro | México | **105 min** | 20 | 1000 | 271 |
 | Tecate | México | **97 min** | 30 | 240 | 199 |
 | Otay Mesa | México | **93 min** | 0 | 240 | 272 |
-| Calexico | México | **55 min** | 5 | 150 | 289 |
+| Calexico | México | **55 min** | 5 | 150 | 290 |
 | El Paso | México | **44 min** | 1 | 95 | 312 |
 | Calexico | México | **43 min** | 5 | 100 | 168 |
-| El Paso | México | **42 min** | 0 | 105 | 297 |
+| El Paso | México | **42 min** | 0 | 105 | 298 |
 | Progreso | México | **42 min** | 0 | 90 | 85 |
 | Santa Teresa | México | **36 min** | 1 | 60 | 194 |
 | Eagle Pass | México | **33 min** | 15 | 60 | 21 |
@@ -111,7 +111,7 @@
 | Nogales | México | **29 min** | 0 | 150 | 198 |
 | Eagle Pass | México | **27 min** | 1 | 150 | 300 |
 | Brownsville | México | **27 min** | 0 | 120 | 244 |
-| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 324 |
+| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 325 |
 | Nogales | México | **25 min** | 0 | 455 | 218 |
 | San Luis | México | **25 min** | 5 | 90 | 208 |
 | Del Rio | México | **24 min** | 0 | 120 | 203 |
@@ -124,16 +124,16 @@
 | Highgate Springs | Canadá | **12 min** | 0 | 60 | 199 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 285 |
 | Naco | México | **11 min** | 0 | 85 | 210 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 967 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 968 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 968 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 969 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 186 |
-| Derby Line | Canadá | **9 min** | 0 | 120 | 147 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 289 |
+| Derby Line | Canadá | **9 min** | 0 | 120 | 148 |
 | Presidio | México | **8 min** | 0 | 90 | 302 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 152 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 258 |
 | Roma | México | **6 min** | 0 | 15 | 112 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 968 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 969 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 263 |
 | Rio Grande City | México | **6 min** | 0 | 25 | 159 |
 | Pembina | Canadá | **5 min** | 0 | 38 | 152 |
@@ -143,22 +143,22 @@
 | Detroit | Canadá | **5 min** | 0 | 20 | 327 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 120 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 329 |
-| Houlton | Canadá | **4 min** | 0 | 45 | 295 |
+| Houlton | Canadá | **4 min** | 0 | 45 | 296 |
 | Laredo | México | **4 min** | 0 | 35 | 124 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 111 |
 | Lukeville | México | **2 min** | 0 | 15 | 123 |
-| Madawaska | Canadá | **2 min** | 0 | 30 | 285 |
+| Madawaska | Canadá | **2 min** | 0 | 30 | 286 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 250 |
 | Calais | Canadá | **1 min** | 0 | 10 | 133 |
 | Jackman | Canadá | **1 min** | 0 | 20 | 207 |
 | Calais | Canadá | **0 min** | 0 | 5 | 60 |
 | Calais | Canadá | **0 min** | 0 | 10 | 132 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 956 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 957 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 247 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 956 |
-| Massena | Canadá | **0 min** | 0 | 0 | 130 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 957 |
+| Massena | Canadá | **0 min** | 0 | 0 | 131 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 146 |
-| Norton | Canadá | **0 min** | 0 | 0 | 98 |
+| Norton | Canadá | **0 min** | 0 | 0 | 99 |
 
 *65 cruces. Este cuadro no existe en ninguna otra parte.*
 
