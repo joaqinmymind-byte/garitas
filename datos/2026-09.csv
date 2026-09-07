@@ -28398,3 +28398,24 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-07T23:21:04+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/07/2026 4:20pm,,sur
 2026-09-07T23:21:04+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/07/2026 4:20pm,,sur
 2026-09-07T23:21:04+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/07/2026 4:20pm,,sur
+2026-09-07T23:32:46+00:00,535503,Mexican Border,Brownsville,Los Indios,carga,general,no delay,0,1,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,general,delay,45,1,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,sentri,delay,15,1,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,pasajeros,ready,delay,45,2,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,peatones,general,no delay,0,1,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,general,no delay,0,2,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,535502,Mexican Border,Brownsville,Veterans International,carga,fast,Lanes Closed,,,,Open,norte
+2026-09-07T23:32:46+00:00,230401,Mexican Border,Laredo,Bridge I,pasajeros,sentri,delay,25,4,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,general,delay,30,2,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,230401,Mexican Border,Laredo,Bridge I,peatones,ready,delay,30,2,At 6:00 pm CDT,Open,norte
+2026-09-07T23:32:46+00:00,250401,Mexican Border,San Ysidro,,pasajeros,general,delay,150,6,At 4:00 pm PDT,Open,norte
+2026-09-07T23:32:46+00:00,250401,Mexican Border,San Ysidro,,pasajeros,sentri,delay,25,15,At 4:00 pm PDT,Open,norte
+2026-09-07T23:32:46+00:00,250401,Mexican Border,San Ysidro,,pasajeros,ready,delay,120,11,At 4:00 pm PDT,Open,norte
+2026-09-07T23:32:46+00:00,250401,Mexican Border,San Ysidro,,peatones,general,delay,45,16,At 4:00 pm PDT,Open,norte
+2026-09-07T23:32:46+00:00,250401,Mexican Border,San Ysidro,,peatones,ready,no delay,5,1,At 4:00 pm PDT,Open,norte
+2026-09-07T23:32:46+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/07/2026 4:30pm,,sur
+2026-09-07T23:32:46+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/07/2026 4:30pm,,sur
+2026-09-07T23:32:46+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/07/2026 4:30pm,,sur
+2026-09-07T23:32:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/07/2026 4:30pm,,sur
+2026-09-07T23:32:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/07/2026 4:30pm,,sur
+2026-09-07T23:32:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/07/2026 4:30pm,,sur
