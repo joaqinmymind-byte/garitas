@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 07/09/2026 20:50 (hora de Tijuana) · 58,476 lecturas archivadas*
+*Actualizado 07/09/2026 21:02 (hora de Tijuana) · 58,492 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,7 +30,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,078 · 100.0% exitosas
+- **Capturas:** 1,079 · 100.0% exitosas
 - **Tamaño:** 7.1 MB · proyección 137 MB al año
 - **Días archivando:** 19
 
@@ -124,14 +124,14 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 304 |
 | Naco | México | **12 min** | 0 | 85 | 225 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 196 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,051 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,052 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,052 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,053 |
 | Presidio | México | **10 min** | 0 | 90 | 327 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 310 |
 | Derby Line | Canadá | **9 min** | 0 | 120 | 163 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 164 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 269 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,052 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,053 |
 | Roma | México | **7 min** | 0 | 30 | 121 |
 | Laredo | México | **6 min** | 0 | 60 | 130 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 281 |
@@ -152,9 +152,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 141 |
 | Calais | Canadá | **0 min** | 0 | 5 | 65 |
 | Calais | Canadá | **0 min** | 0 | 10 | 140 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,042 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,043 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 268 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,042 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,043 |
 | Massena | Canadá | **0 min** | 0 | 0 | 141 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 152 |
 | Norton | Canadá | **0 min** | 0 | 0 | 108 |
