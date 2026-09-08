@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 08/09/2026 07:25 (hora de Tijuana) · 60,172 lecturas archivadas*
+*Actualizado 08/09/2026 07:38 (hora de Tijuana) · 60,202 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,13 +30,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,119 · 100.0% exitosas
-- **Tamaño:** 7.3 MB · proyección 134 MB al año
+- **Capturas:** 1,120 · 100.0% exitosas
+- **Tamaño:** 7.4 MB · proyección 134 MB al año
 - **Días archivando:** 20
 
 **Horas de actualización distintas entre puertos:**
-- `At 6:00 am PDT` → 4 series
-- `At 7:00 am PDT` → 9 series
+- `At 6:00 am PDT` → 2 series
+- `At 7:00 am PDT` → 11 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -94,7 +94,7 @@
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
 | San Ysidro | México | **107 min** | 10 | 1000 | 296 |
-| Tecate | México | **104 min** | 30 | 380 | 211 |
+| Tecate | México | **103 min** | 30 | 380 | 212 |
 | Otay Mesa | México | **93 min** | 0 | 240 | 299 |
 | Calexico | México | **58 min** | 5 | 240 | 321 |
 | Calexico | México | **47 min** | 5 | 180 | 185 |
@@ -102,21 +102,21 @@
 | El Paso | México | **42 min** | 0 | 105 | 321 |
 | Progreso | México | **42 min** | 0 | 90 | 93 |
 | Santa Teresa | México | **37 min** | 1 | 80 | 212 |
-| Brownsville | México | **36 min** | 0 | 180 | 286 |
+| Brownsville | México | **36 min** | 0 | 180 | 287 |
 | Eagle Pass | México | **33 min** | 15 | 60 | 21 |
 | Hidalgo/Pharr | México | **32 min** | 3 | 90 | 198 |
-| Brownsville | México | **32 min** | 0 | 120 | 312 |
+| Brownsville | México | **32 min** | 0 | 120 | 313 |
 | Nogales | México | **32 min** | 0 | 150 | 221 |
 | Eagle Pass | México | **32 min** | 1 | 180 | 330 |
 | Hidalgo/Pharr | México | **30 min** | 0 | 80 | 266 |
 | Del Rio | México | **30 min** | 0 | 180 | 223 |
-| Brownsville | México | **28 min** | 0 | 120 | 264 |
+| Brownsville | México | **28 min** | 0 | 120 | 265 |
 | Nogales | México | **27 min** | 0 | 455 | 235 |
 | Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 356 |
 | San Luis | México | **25 min** | 5 | 90 | 217 |
 | Laredo | México | **24 min** | 0 | 70 | 264 |
 | Marcelino Serna | México | **23 min** | 0 | 45 | 241 |
-| Brownsville | México | **22 min** | 0 | 120 | 210 |
+| Brownsville | México | **22 min** | 0 | 120 | 211 |
 | Andrade | México | **22 min** | 0 | 110 | 193 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 79 |
 | Progreso | México | **17 min** | 0 | 60 | 174 |
@@ -124,15 +124,15 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 312 |
 | Naco | México | **12 min** | 0 | 85 | 228 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 199 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,091 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,092 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,092 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,093 |
 | Presidio | México | **10 min** | 0 | 90 | 334 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 319 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 172 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 166 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 279 |
 | Roma | México | **7 min** | 0 | 30 | 122 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,092 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,093 |
 | Laredo | México | **6 min** | 0 | 60 | 131 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 173 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 290 |
@@ -152,9 +152,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 146 |
 | Calais | Canadá | **0 min** | 0 | 5 | 68 |
 | Calais | Canadá | **0 min** | 0 | 10 | 146 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,083 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,084 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 277 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,083 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,084 |
 | Massena | Canadá | **0 min** | 0 | 0 | 150 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 156 |
 | Norton | Canadá | **0 min** | 0 | 0 | 117 |
