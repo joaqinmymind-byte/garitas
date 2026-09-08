@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 08/09/2026 00:36 (hora de Tijuana) · 59,144 lecturas archivadas*
+*Actualizado 08/09/2026 00:51 (hora de Tijuana) · 59,159 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -26,7 +26,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,093 · 100.0% exitosas
+- **Capturas:** 1,094 · 100.0% exitosas
 - **Tamaño:** 7.2 MB · proyección 139 MB al año
 - **Días archivando:** 19
 
@@ -114,14 +114,14 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 308 |
 | Naco | México | **12 min** | 0 | 85 | 226 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 196 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,065 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,066 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,066 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,067 |
 | Presidio | México | **10 min** | 0 | 90 | 329 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 313 |
-| Derby Line | Canadá | **9 min** | 0 | 120 | 166 |
+| Derby Line | Canadá | **9 min** | 0 | 120 | 167 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 166 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 272 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,066 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,067 |
 | Roma | México | **7 min** | 0 | 30 | 122 |
 | Laredo | México | **6 min** | 0 | 60 | 131 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 284 |
@@ -142,12 +142,12 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 142 |
 | Calais | Canadá | **0 min** | 0 | 5 | 65 |
 | Calais | Canadá | **0 min** | 0 | 10 | 141 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,057 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,058 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 271 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,057 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,058 |
 | Massena | Canadá | **0 min** | 0 | 0 | 144 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 153 |
-| Norton | Canadá | **0 min** | 0 | 0 | 111 |
+| Norton | Canadá | **0 min** | 0 | 0 | 112 |
 
 *65 cruces. Este cuadro no existe en ninguna otra parte.*
 
