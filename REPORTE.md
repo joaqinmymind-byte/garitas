@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 08/09/2026 03:50 (hora de Tijuana) · 59,517 lecturas archivadas*
+*Actualizado 08/09/2026 04:02 (hora de Tijuana) · 59,530 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,106 · 100.0% exitosas
+- **Capturas:** 1,107 · 100.0% exitosas
 - **Tamaño:** 7.3 MB · proyección 140 MB al año
 - **Días archivando:** 19
 
@@ -122,15 +122,15 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 310 |
 | Naco | México | **12 min** | 0 | 85 | 226 |
 | Champlain | Canadá | **11 min** | 0 | 60 | 196 |
-| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,078 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,079 |
+| Buffalo/Niagara Falls | Canadá | **11 min** | 0 | 58 | 1,079 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,080 |
 | Presidio | México | **10 min** | 0 | 90 | 331 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 315 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 170 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 166 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 275 |
 | Roma | México | **7 min** | 0 | 30 | 122 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,079 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,080 |
 | Laredo | México | **6 min** | 0 | 60 | 131 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 286 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 170 |
@@ -150,9 +150,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 142 |
 | Calais | Canadá | **0 min** | 0 | 5 | 65 |
 | Calais | Canadá | **0 min** | 0 | 10 | 141 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,070 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,071 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 274 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,070 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,071 |
 | Massena | Canadá | **0 min** | 0 | 0 | 146 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 155 |
 | Norton | Canadá | **0 min** | 0 | 0 | 115 |
