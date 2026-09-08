@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 08/09/2026 11:26 (hora de Tijuana) · 60,940 lecturas archivadas*
+*Actualizado 08/09/2026 11:41 (hora de Tijuana) · 60,975 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -9,7 +9,7 @@
 | San Ysidro | 200 min (7) | 180 min (12) | 20 min (14) | 60 min (18) | — | — |
 | San Ysidro PedWest | — | — | — | 30 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 1 min (7) | — | — |
-| Otay Mesa Pasajeros | 230 min (4) | 190 min (5) | 5 min (3) | 20 min (6) | — | — |
+| Otay Mesa Pasajeros | 210 min (4) | 200 min (6) | 15 min (3) | 15 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 40 min (5) | 20 min (3) |
 | Tecate | 300 min (2) | — | — | 5 min (3) | 15 min (2) | — |
 
@@ -31,15 +31,9 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,135 · 100.0% exitosas
+- **Capturas:** 1,136 · 100.0% exitosas
 - **Tamaño:** 7.4 MB · proyección 136 MB al año
 - **Días archivando:** 20
-
-**Horas de actualización distintas entre puertos:**
-- `At 10:00 am PDT` → 4 series
-- `At 11:00 am PDT` → 14 series
-
-*Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
 
 ## Otay Mesa Pasajeros — mediana de espera por hora
@@ -49,7 +43,7 @@
 | día | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | lun | 150 | 45 | 165 | 95 | 30 | 35 | 60 | 80 | 62 | 60 | 105 | 97 | 120 | 170 | 87 | 80 | 110 | 150 | 170 | · | 100 | 185 | 5 | 200 |
-| mar | 170 | 120 | · | 75 | 95 | 135 | · | 170 | 190 | 165 | 160 | 170 | 152 | 155 | 140 | 150 | 140 | 140 | 105 | · | 30 | 30 | 20 | 20 |
+| mar | 170 | 120 | · | 75 | 95 | 135 | · | 170 | 190 | 165 | 160 | 190 | 152 | 155 | 140 | 150 | 140 | 140 | 105 | · | 30 | 30 | 20 | 20 |
 | mié | 15 | 15 | 25 | 40 | 45 | 75 | · | 100 | 100 | 110 | 105 | 80 | 170 | 110 | · | 110 | 90 | 15 | 15 | · | 70 | · | 10 | · |
 | jue | · | 27 | 35 | · | 60 | 70 | · | 90 | 150 | 130 | 150 | 160 | 147 | 150 | · | 150 | · | · | 125 | 110 | 110 | 65 | 10 | · |
 | vie | 35 | 3 | · | 30 | 50 | 90 | · | 115 | 140 | 75 | 140 | 90 | 150 | 30 | 120 | 110 | 100 | 30 | 60 | 60 | 75 | 60 | 42 | 25 |
@@ -59,7 +53,7 @@
 **Mejor hora:** sábado a las 03:00 → **2 min** (2 lecturas)  
 **Peor hora:** domingo a las 18:00 → **230 min**  
 **Diferencia:** 227 minutos entre la mejor y la peor.  
-*302 lecturas · faltan 20 de 168 casillas.*
+*303 lecturas · faltan 20 de 168 casillas.*
 
 ## San Ysidro — mediana de espera por hora
 
@@ -96,11 +90,11 @@
 |---|---|---:|---:|---:|---:|
 | San Ysidro | México | **109 min** | 10 | 1000 | 300 |
 | Tecate | México | **105 min** | 30 | 380 | 216 |
-| Otay Mesa | México | **94 min** | 0 | 240 | 302 |
-| Calexico | México | **59 min** | 5 | 240 | 324 |
-| Calexico | México | **48 min** | 5 | 180 | 188 |
+| Otay Mesa | México | **95 min** | 0 | 240 | 303 |
+| Calexico | México | **59 min** | 5 | 240 | 325 |
+| Calexico | México | **48 min** | 5 | 180 | 189 |
 | El Paso | México | **44 min** | 1 | 95 | 347 |
-| El Paso | México | **42 min** | 0 | 105 | 325 |
+| El Paso | México | **42 min** | 0 | 105 | 326 |
 | Progreso | México | **42 min** | 0 | 90 | 93 |
 | Santa Teresa | México | **37 min** | 1 | 80 | 216 |
 | Brownsville | México | **36 min** | 0 | 180 | 290 |
@@ -125,22 +119,22 @@
 | Naco | México | **12 min** | 0 | 85 | 232 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 316 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 203 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,104 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,105 |
 | Presidio | México | **10 min** | 0 | 90 | 338 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,106 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 64 | 1,107 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 323 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 172 |
 | Lynden | Canadá | **8 min** | 0 | 40 | 166 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 279 |
 | Roma | México | **7 min** | 0 | 30 | 122 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,105 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 63 | 1,106 |
 | Laredo | México | **6 min** | 0 | 60 | 131 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 174 |
 | Port Huron | Canadá | **6 min** | 0 | 36 | 294 |
 | Detroit | Canadá | **6 min** | 0 | 45 | 367 |
 | Pembina | Canadá | **5 min** | 0 | 38 | 167 |
 | Columbus | México | **5 min** | 0 | 30 | 340 |
-| Fort Hancock | México | **5 min** | 5 | 20 | 160 |
+| Fort Hancock | México | **5 min** | 5 | 20 | 161 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 364 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 136 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 367 |
@@ -153,9 +147,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 150 |
 | Calais | Canadá | **0 min** | 0 | 5 | 70 |
 | Calais | Canadá | **0 min** | 0 | 10 | 150 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,099 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,100 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 281 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,099 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,100 |
 | Massena | Canadá | **0 min** | 0 | 0 | 154 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 156 |
 | Norton | Canadá | **0 min** | 0 | 0 | 117 |
