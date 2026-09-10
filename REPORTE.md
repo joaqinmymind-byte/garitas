@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 10/09/2026 12:31 (hora de Tijuana) · 69,710 lecturas archivadas*
+*Actualizado 10/09/2026 12:46 (hora de Tijuana) · 69,734 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,330 · 100.0% exitosas
+- **Capturas:** 1,331 · 100.0% exitosas
 - **Tamaño:** 8.5 MB · proyección 141 MB al año
 - **Días archivando:** 22
 
 **Horas de actualización distintas entre puertos:**
 - `At 11:00 am PDT` → 5 series
-- `At 1:00 pm PDT` → 2 series
+- `At 1:00 pm PDT` → 4 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **15%** esta semana contra la anterior: de 100 a 85 minutos de mediana.
+> La espera en **Otay Mesa** bajó **20%** esta semana contra la anterior: de 100 a 80 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -102,7 +102,7 @@
 | El Paso | México | **44 min** | 1 | 95 | 393 |
 | Progreso | México | **42 min** | 0 | 90 | 103 |
 | El Paso | México | **41 min** | 0 | 105 | 368 |
-| Santa Teresa | México | **36 min** | 1 | 80 | 247 |
+| Santa Teresa | México | **36 min** | 1 | 80 | 248 |
 | Eagle Pass | México | **36 min** | 15 | 90 | 22 |
 | Brownsville | México | **35 min** | 0 | 180 | 326 |
 | Hidalgo/Pharr | México | **32 min** | 3 | 90 | 230 |
@@ -123,19 +123,19 @@
 | Progreso | México | **17 min** | 0 | 60 | 200 |
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 218 |
 | Naco | México | **12 min** | 0 | 85 | 264 |
-| Blaine | Canadá | **12 min** | 0 | 80 | 357 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 358 |
 | Presidio | México | **11 min** | 0 | 90 | 378 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 234 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,294 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,295 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 367 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,295 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,296 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 368 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 176 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 313 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 186 |
 | Roma | México | **7 min** | 0 | 30 | 142 |
 | Laredo | México | **6 min** | 0 | 60 | 148 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 191 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,294 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,295 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 335 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 416 |
 | Columbus | México | **5 min** | 0 | 30 | 384 |
@@ -153,9 +153,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 176 |
 | Calais | Canadá | **0 min** | 0 | 5 | 80 |
 | Calais | Canadá | **0 min** | 0 | 10 | 175 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,293 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,294 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 320 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,293 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,294 |
 | Massena | Canadá | **0 min** | 0 | 0 | 163 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 179 |
 | Norton | Canadá | **0 min** | 0 | 0 | 121 |
