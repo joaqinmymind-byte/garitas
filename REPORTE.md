@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 10/09/2026 13:21 (hora de Tijuana) · 69,889 lecturas archivadas*
+*Actualizado 10/09/2026 13:34 (hora de Tijuana) · 69,925 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,333 · 100.0% exitosas
+- **Capturas:** 1,334 · 100.0% exitosas
 - **Tamaño:** 8.5 MB · proyección 142 MB al año
 - **Días archivando:** 22
 
 **Horas de actualización distintas entre puertos:**
-- `At 1:00 pm PDT` → 10 series
-- `At Noon PDT` → 8 series
+- `At 1:00 pm PDT` → 13 series
+- `At Noon PDT` → 5 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **15%** esta semana contra la anterior: de 100 a 85 minutos de mediana.
+> La espera en **Otay Mesa** bajó **20%** esta semana contra la anterior: de 100 a 80 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -94,7 +94,7 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| Tecate | México | **115 min** | 30 | 380 | 247 |
+| Tecate | México | **115 min** | 30 | 380 | 248 |
 | San Ysidro | México | **109 min** | 10 | 1000 | 336 |
 | Otay Mesa | México | **94 min** | 0 | 240 | 342 |
 | Calexico | México | **63 min** | 5 | 240 | 373 |
@@ -115,7 +115,7 @@
 | San Luis | México | **26 min** | 5 | 90 | 251 |
 | Nogales | México | **25 min** | 0 | 455 | 273 |
 | Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 409 |
-| Laredo | México | **24 min** | 0 | 70 | 305 |
+| Laredo | México | **24 min** | 0 | 70 | 306 |
 | Marcelino Serna | México | **23 min** | 0 | 45 | 278 |
 | Andrade | México | **22 min** | 0 | 110 | 223 |
 | Brownsville | México | **22 min** | 0 | 120 | 246 |
@@ -123,21 +123,21 @@
 | Progreso | México | **17 min** | 0 | 60 | 200 |
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 218 |
 | Naco | México | **12 min** | 0 | 85 | 265 |
-| Blaine | Canadá | **12 min** | 0 | 80 | 358 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 359 |
 | Presidio | México | **11 min** | 0 | 90 | 379 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 235 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,297 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,298 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 368 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,298 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,299 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 369 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 176 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 313 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 186 |
 | Roma | México | **7 min** | 0 | 30 | 142 |
-| Laredo | México | **6 min** | 0 | 60 | 148 |
+| Laredo | México | **6 min** | 0 | 60 | 149 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 192 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,297 |
-| Port Huron | Canadá | **5 min** | 0 | 36 | 335 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,298 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 417 |
+| Port Huron | Canadá | **5 min** | 0 | 36 | 336 |
 | Columbus | México | **5 min** | 0 | 30 | 385 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 179 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 152 |
@@ -153,9 +153,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 176 |
 | Calais | Canadá | **0 min** | 0 | 5 | 80 |
 | Calais | Canadá | **0 min** | 0 | 10 | 175 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,296 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,297 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 320 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,296 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,297 |
 | Massena | Canadá | **0 min** | 0 | 0 | 163 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 179 |
 | Norton | Canadá | **0 min** | 0 | 0 | 121 |
