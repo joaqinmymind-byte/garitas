@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 10/09/2026 10:22 (hora de Tijuana) · 69,278 lecturas archivadas*
+*Actualizado 10/09/2026 10:34 (hora de Tijuana) · 69,311 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -11,7 +11,7 @@
 | San Ysidro CBX | — | — | — | 0 min (3) | — | — |
 | Otay Mesa Pasajeros | 130 min (4) | 130 min (5) | 15 min (3) | 45 min (6) | — | — |
 | Otay Mesa Comercial | — | — | — | — | 35 min (5) | 20 min (3) |
-| Tecate | 90 min (2) | — | — | 5 min (4) | 30 min (2) | — |
+| Tecate | 120 min (2) | — | — | 5 min (3) | 15 min (2) | — |
 
 *Entre paréntesis, carriles abiertos.*
 
@@ -31,12 +31,12 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,321 · 100.0% exitosas
+- **Capturas:** 1,322 · 100.0% exitosas
 - **Tamaño:** 8.5 MB · proyección 141 MB al año
 - **Días archivando:** 22
 
 **Horas de actualización distintas entre puertos:**
-- `At 10:00 am PDT` → 8 series
+- `At 10:00 am PDT` → 11 series
 - `At 5:00 am PDT` → 2 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **15%** esta semana contra la anterior: de 100 a 85 minutos de mediana.
+> La espera en **Otay Mesa** bajó **20%** esta semana contra la anterior: de 100 a 80 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -94,12 +94,12 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| Tecate | México | **115 min** | 30 | 380 | 244 |
+| Tecate | México | **115 min** | 30 | 380 | 245 |
 | San Ysidro | México | **108 min** | 10 | 1000 | 334 |
 | Otay Mesa | México | **94 min** | 0 | 240 | 339 |
 | Calexico | México | **63 min** | 5 | 240 | 371 |
 | Calexico | México | **51 min** | 5 | 180 | 215 |
-| El Paso | México | **43 min** | 1 | 95 | 390 |
+| El Paso | México | **44 min** | 1 | 95 | 391 |
 | Progreso | México | **42 min** | 0 | 90 | 102 |
 | El Paso | México | **41 min** | 0 | 105 | 366 |
 | Santa Teresa | México | **36 min** | 1 | 80 | 245 |
@@ -115,7 +115,7 @@
 | San Luis | México | **26 min** | 5 | 90 | 251 |
 | Nogales | México | **25 min** | 0 | 455 | 270 |
 | Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 406 |
-| Laredo | México | **24 min** | 0 | 70 | 302 |
+| Laredo | México | **24 min** | 0 | 70 | 303 |
 | Marcelino Serna | México | **23 min** | 0 | 45 | 275 |
 | Brownsville | México | **22 min** | 0 | 120 | 243 |
 | Andrade | México | **22 min** | 0 | 110 | 220 |
@@ -136,14 +136,14 @@
 | Laredo | México | **6 min** | 0 | 60 | 148 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 189 |
 | Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,286 |
-| Detroit | Canadá | **5 min** | 0 | 45 | 413 |
-| Port Huron | Canadá | **5 min** | 0 | 36 | 332 |
+| Port Huron | Canadá | **5 min** | 0 | 36 | 333 |
+| Detroit | Canadá | **5 min** | 0 | 45 | 414 |
 | Columbus | México | **5 min** | 0 | 30 | 382 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 177 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 151 |
 | Pembina | Canadá | **5 min** | 0 | 38 | 189 |
-| Detroit | Canadá | **5 min** | 0 | 20 | 410 |
-| Detroit | Canadá | **5 min** | 0 | 35 | 413 |
+| Detroit | Canadá | **5 min** | 0 | 20 | 411 |
+| Detroit | Canadá | **5 min** | 0 | 35 | 414 |
 | Lukeville | México | **4 min** | 0 | 90 | 163 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 348 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 137 |
@@ -153,9 +153,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 174 |
 | Calais | Canadá | **0 min** | 0 | 5 | 78 |
 | Calais | Canadá | **0 min** | 0 | 10 | 173 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,284 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,285 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 319 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,284 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,285 |
 | Massena | Canadá | **0 min** | 0 | 0 | 163 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 177 |
 | Norton | Canadá | **0 min** | 0 | 0 | 121 |
