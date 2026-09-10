@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 10/09/2026 04:22 (hora de Tijuana) · 68,119 lecturas archivadas*
+*Actualizado 10/09/2026 04:35 (hora de Tijuana) · 68,137 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,298 · 100.0% exitosas
+- **Capturas:** 1,299 · 100.0% exitosas
 - **Tamaño:** 8.3 MB · proyección 145 MB al año
 - **Días archivando:** 21
 
@@ -119,20 +119,20 @@
 | Hidalgo/Pharr | México | **21 min** | 0 | 65 | 87 |
 | Progreso | México | **17 min** | 0 | 60 | 197 |
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 218 |
-| Blaine | Canadá | **12 min** | 0 | 80 | 349 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 350 |
 | Naco | México | **12 min** | 0 | 85 | 257 |
 | Presidio | México | **11 min** | 0 | 90 | 370 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 226 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,263 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,264 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 359 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,264 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,265 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 360 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 176 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 309 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 186 |
 | Roma | México | **7 min** | 0 | 30 | 139 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 185 |
 | Laredo | México | **6 min** | 0 | 60 | 147 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,263 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,264 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 407 |
 | Columbus | México | **5 min** | 0 | 30 | 376 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 327 |
@@ -150,10 +150,10 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 169 |
 | Calais | Canadá | **0 min** | 0 | 10 | 168 |
 | Calais | Canadá | **0 min** | 0 | 5 | 73 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,261 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,262 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 315 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,261 |
-| Massena | Canadá | **0 min** | 0 | 0 | 160 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,262 |
+| Massena | Canadá | **0 min** | 0 | 0 | 161 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 174 |
 | Norton | Canadá | **0 min** | 0 | 0 | 121 |
 
