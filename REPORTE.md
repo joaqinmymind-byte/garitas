@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 09/09/2026 19:23 (hora de Tijuana) · 66,737 lecturas archivadas*
+*Actualizado 09/09/2026 19:36 (hora de Tijuana) · 66,747 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,262 · 100.0% exitosas
+- **Capturas:** 1,263 · 100.0% exitosas
 - **Tamaño:** 8.2 MB · proyección 142 MB al año
 - **Días archivando:** 21
 
@@ -132,7 +132,7 @@
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 300 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 175 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 182 |
-| Roma | México | **7 min** | 0 | 30 | 137 |
+| Roma | México | **7 min** | 0 | 30 | 138 |
 | Laredo | México | **6 min** | 0 | 60 | 144 |
 | Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,230 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 184 |
@@ -148,14 +148,14 @@
 | Houlton | Canadá | **4 min** | 0 | 45 | 339 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 133 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 328 |
-| Jackman | Canadá | **2 min** | 0 | 45 | 255 |
+| Jackman | Canadá | **2 min** | 0 | 45 | 256 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 302 |
 | Calais | Canadá | **1 min** | 0 | 10 | 166 |
 | Calais | Canadá | **0 min** | 0 | 10 | 165 |
 | Calais | Canadá | **0 min** | 0 | 5 | 73 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,226 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,227 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 308 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,226 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,227 |
 | Massena | Canadá | **0 min** | 0 | 0 | 156 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 169 |
 | Norton | Canadá | **0 min** | 0 | 0 | 120 |
