@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 09/09/2026 20:50 (hora de Tijuana) · 66,941 lecturas archivadas*
+*Actualizado 09/09/2026 21:02 (hora de Tijuana) · 67,018 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,7 +30,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,268 · 100.0% exitosas
+- **Capturas:** 1,269 · 100.0% exitosas
 - **Tamaño:** 8.2 MB · proyección 142 MB al año
 - **Días archivando:** 21
 
@@ -107,12 +107,12 @@
 | Hidalgo/Pharr | México | **33 min** | 3 | 90 | 221 |
 | Hidalgo/Pharr | México | **32 min** | 0 | 85 | 293 |
 | Eagle Pass | México | **32 min** | 1 | 180 | 365 |
-| Nogales | México | **31 min** | 0 | 150 | 232 |
+| Nogales | México | **31 min** | 0 | 150 | 233 |
 | Brownsville | México | **31 min** | 0 | 120 | 342 |
 | Del Rio | México | **30 min** | 0 | 180 | 245 |
 | Brownsville | México | **29 min** | 0 | 120 | 294 |
-| San Luis | México | **26 min** | 5 | 90 | 248 |
-| Nogales | México | **26 min** | 0 | 455 | 264 |
+| San Luis | México | **26 min** | 5 | 90 | 249 |
+| Nogales | México | **26 min** | 0 | 455 | 265 |
 | Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 392 |
 | Laredo | México | **24 min** | 0 | 70 | 292 |
 | Marcelino Serna | México | **23 min** | 0 | 45 | 269 |
@@ -139,7 +139,7 @@
 | Port Huron | Canadá | **5 min** | 0 | 36 | 321 |
 | Columbus | México | **5 min** | 0 | 30 | 371 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 173 |
-| Pembina | Canadá | **5 min** | 0 | 38 | 178 |
+| Pembina | Canadá | **5 min** | 0 | 38 | 179 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 397 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 147 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 400 |
@@ -152,9 +152,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 167 |
 | Calais | Canadá | **0 min** | 0 | 10 | 166 |
 | Calais | Canadá | **0 min** | 0 | 5 | 73 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,231 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,232 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 309 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,231 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,232 |
 | Massena | Canadá | **0 min** | 0 | 0 | 156 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 169 |
 | Norton | Canadá | **0 min** | 0 | 0 | 120 |
