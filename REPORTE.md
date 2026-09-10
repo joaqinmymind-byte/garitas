@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 09/09/2026 20:23 (hora de Tijuana) · 66,895 lecturas archivadas*
+*Actualizado 09/09/2026 20:38 (hora de Tijuana) · 66,903 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -10,7 +10,7 @@
 | San Ysidro PedWest | — | — | — | 0 min (4) | — | — |
 | San Ysidro CBX | — | — | — | 0 min (5) | — | — |
 | Otay Mesa Pasajeros | 60 min (2) | 60 min (5) | 5 min (3) | 5 min (6) | — | — |
-| Otay Mesa Comercial | — | — | — | — | 40 min (6) | 10 min (1) |
+| Otay Mesa Comercial | — | — | — | — | 30 min (6) | 5 min (1) |
 | Tecate | 150 min (2) | — | — | 5 min (3) | — | — |
 
 *Entre paréntesis, carriles abiertos.*
@@ -31,13 +31,13 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,266 · 100.0% exitosas
+- **Capturas:** 1,267 · 100.0% exitosas
 - **Tamaño:** 8.2 MB · proyección 142 MB al año
 - **Días archivando:** 21
 
 **Horas de actualización distintas entre puertos:**
 - `At 2:00 pm PDT` → 2 series
-- `At 7:00 pm PDT` → 13 series
+- `At 7:00 pm PDT` → 11 series
 
 *Si un puerto se queda con la misma hora varias capturas seguidas, CBP dejó de actualizarlo. Vale más decirlo que fingir que el dato es fresco.*
 
@@ -125,17 +125,17 @@
 | Blaine | Canadá | **12 min** | 0 | 80 | 342 |
 | Naco | México | **12 min** | 0 | 85 | 256 |
 | Presidio | México | **11 min** | 0 | 90 | 365 |
-| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,233 |
+| Buffalo/Niagara Falls | Canadá | **10 min** | 0 | 58 | 1,234 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 226 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,234 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,235 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 352 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 301 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 175 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 183 |
 | Roma | México | **7 min** | 0 | 30 | 139 |
 | Laredo | México | **6 min** | 0 | 60 | 145 |
-| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,233 |
-| Rio Grande City | México | **6 min** | 0 | 30 | 184 |
+| Buffalo/Niagara Falls | Canadá | **6 min** | 0 | 63 | 1,234 |
+| Rio Grande City | México | **6 min** | 0 | 30 | 185 |
 | Detroit | Canadá | **6 min** | 0 | 45 | 400 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 321 |
 | Columbus | México | **5 min** | 0 | 30 | 371 |
