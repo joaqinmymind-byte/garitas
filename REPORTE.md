@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 10/09/2026 18:34 (hora de Tijuana) · 70,816 lecturas archivadas*
+*Actualizado 10/09/2026 18:49 (hora de Tijuana) · 70,823 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,353 · 100.0% exitosas
+- **Capturas:** 1,354 · 100.0% exitosas
 - **Tamaño:** 8.7 MB · proyección 144 MB al año
 - **Días archivando:** 22
 
@@ -120,7 +120,7 @@
 | Andrade | México | **22 min** | 0 | 110 | 227 |
 | Hidalgo/Pharr | México | **21 min** | 0 | 65 | 91 |
 | Brownsville | México | **21 min** | 0 | 120 | 251 |
-| Progreso | México | **17 min** | 0 | 60 | 203 |
+| Progreso | México | **17 min** | 0 | 60 | 204 |
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 218 |
 | Naco | México | **12 min** | 0 | 85 | 270 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 364 |
@@ -153,9 +153,9 @@
 | Calais | Canadá | **1 min** | 0 | 10 | 177 |
 | Calais | Canadá | **0 min** | 0 | 5 | 80 |
 | Calais | Canadá | **0 min** | 0 | 10 | 176 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,316 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,317 |
 | International Falls | Canadá | **0 min** | 0 | 1 | 325 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,316 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,317 |
 | Massena | Canadá | **0 min** | 0 | 0 | 165 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 183 |
 | Norton | Canadá | **0 min** | 0 | 0 | 122 |
