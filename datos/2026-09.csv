@@ -43434,3 +43434,18 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-11T13:49:40+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/11/2026 6:45am,,sur
 2026-09-11T13:49:40+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/11/2026 6:45am,,sur
 2026-09-11T13:49:40+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/11/2026 6:45am,,sur
+2026-09-11T14:02:19+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,pasajeros,general,no delay,0,2,At 10:00 am EDT,Open,norte
+2026-09-11T14:02:19+00:00,380301,Canadian Border,Sault Ste. Marie,International Bridge - SSM,carga,general,no delay,0,1,At 10:00 am EDT,Open,norte
+2026-09-11T14:02:19+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,general,no delay,0,1,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,sentri,no delay,0,1,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,pasajeros,ready,no delay,0,1,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,general,delay,20,3,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230403,Mexican Border,Laredo,Colombia Solidarity,carga,fast,no delay,5,2,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,general,delay,20,11,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,230404,Mexican Border,Laredo,World Trade Bridge,carga,fast,no delay,0,4,At 8:00 am CDT,Open,norte
+2026-09-11T14:02:19+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/11/2026 7:00am,,sur
+2026-09-11T14:02:19+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/11/2026 7:00am,,sur
+2026-09-11T14:02:19+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/11/2026 7:00am,,sur
+2026-09-11T14:02:19+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/11/2026 7:00am,,sur
+2026-09-11T14:02:19+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/11/2026 7:00am,,sur
+2026-09-11T14:02:19+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/11/2026 7:00am,,sur
