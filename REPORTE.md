@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 11/09/2026 19:22 (hora de Tijuana) · 75,315 lecturas archivadas*
+*Actualizado 11/09/2026 19:34 (hora de Tijuana) · 75,329 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,452 · 100.0% exitosas
+- **Capturas:** 1,453 · 100.0% exitosas
 - **Tamaño:** 9.2 MB · proyección 146 MB al año
 - **Días archivando:** 23
 
@@ -126,16 +126,16 @@
 | Naco | México | **11 min** | 0 | 85 | 284 |
 | Presidio | México | **10 min** | 0 | 90 | 405 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 248 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,412 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,413 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 397 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,413 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,414 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 182 |
-| Sweetgrass | Canadá | **8 min** | 0 | 90 | 332 |
+| Sweetgrass | Canadá | **8 min** | 0 | 90 | 333 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 198 |
 | Roma | México | **6 min** | 0 | 30 | 153 |
 | Laredo | México | **6 min** | 0 | 60 | 165 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 210 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,411 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,412 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 190 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 447 |
 | Columbus | México | **5 min** | 0 | 30 | 413 |
@@ -154,8 +154,8 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 87 |
 | Calais | Canadá | **0 min** | 0 | 10 | 190 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 345 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,414 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,414 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,415 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,415 |
 | Massena | Canadá | **0 min** | 0 | 0 | 177 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 190 |
 | Norton | Canadá | **0 min** | 0 | 0 | 124 |
