@@ -45668,3 +45668,13 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-12T00:53:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/11/2026 5:50pm,,sur
 2026-09-12T00:53:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/11/2026 5:50pm,,sur
 2026-09-12T00:53:02+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/11/2026 5:50pm,,sur
+2026-09-12T01:02:15+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,pasajeros,general,no delay,0,1,At 11:00 pm EDT,Open,norte
+2026-09-12T01:02:15+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,carga,general,no delay,0,1,At 11:00 pm EDT,Open,norte
+2026-09-12T01:02:15+00:00,240601,Mexican Border,Columbus,,pasajeros,general,no delay,5,2,At 7:00 pm MDT,Open,norte
+2026-09-12T01:02:15+00:00,240601,Mexican Border,Columbus,,peatones,general,no delay,0,1,At 7:00 pm MDT,Open,norte
+2026-09-12T01:02:15+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/11/2026 6:00pm,,sur
+2026-09-12T01:02:15+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/11/2026 6:00pm,,sur
+2026-09-12T01:02:15+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/11/2026 6:00pm,,sur
+2026-09-12T01:02:15+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/11/2026 6:00pm,,sur
+2026-09-12T01:02:15+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/11/2026 6:00pm,,sur
+2026-09-12T01:02:15+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/11/2026 6:00pm,,sur

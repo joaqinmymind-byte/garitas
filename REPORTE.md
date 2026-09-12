@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 11/09/2026 17:53 (hora de Tijuana) · 74,993 lecturas archivadas*
+*Actualizado 11/09/2026 18:02 (hora de Tijuana) · 75,003 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,446 · 100.0% exitosas
+- **Capturas:** 1,447 · 100.0% exitosas
 - **Tamaño:** 9.2 MB · proyección 146 MB al año
 - **Días archivando:** 23
 
@@ -129,7 +129,7 @@
 | Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,407 |
 | Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 64 | 1,408 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 396 |
-| Derby Line | Canadá | **8 min** | 0 | 120 | 181 |
+| Derby Line | Canadá | **8 min** | 0 | 120 | 182 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 331 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 196 |
 | Roma | México | **7 min** | 0 | 30 | 152 |
@@ -139,7 +139,7 @@
 | Fort Hancock | México | **5 min** | 5 | 20 | 190 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 445 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 359 |
-| Columbus | México | **5 min** | 0 | 30 | 411 |
+| Columbus | México | **5 min** | 0 | 30 | 412 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 159 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 442 |
 | Pembina | Canadá | **5 min** | 0 | 38 | 212 |
@@ -154,8 +154,8 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 87 |
 | Calais | Canadá | **0 min** | 0 | 10 | 189 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 343 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,408 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,408 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,409 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,409 |
 | Massena | Canadá | **0 min** | 0 | 0 | 177 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 190 |
 | Norton | Canadá | **0 min** | 0 | 0 | 123 |
