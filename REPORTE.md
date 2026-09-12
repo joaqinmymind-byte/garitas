@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 12/09/2026 05:38 (hora de Tijuana) · 76,920 lecturas archivadas*
+*Actualizado 12/09/2026 05:50 (hora de Tijuana) · 76,931 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,493 · 100.0% exitosas
+- **Capturas:** 1,494 · 100.0% exitosas
 - **Tamaño:** 9.4 MB · proyección 149 MB al año
 - **Días archivando:** 23
 
@@ -100,7 +100,7 @@
 | Progreso | México | **40 min** | 0 | 90 | 109 |
 | El Paso | México | **40 min** | 0 | 105 | 401 |
 | Eagle Pass | México | **36 min** | 15 | 90 | 22 |
-| Santa Teresa | México | **36 min** | 1 | 80 | 271 |
+| Santa Teresa | México | **36 min** | 1 | 80 | 272 |
 | Brownsville | México | **34 min** | 0 | 180 | 359 |
 | Hidalgo/Pharr | México | **31 min** | 0 | 85 | 342 |
 | Hidalgo/Pharr | México | **31 min** | 3 | 90 | 252 |
@@ -127,7 +127,7 @@
 | Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,453 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 408 |
 | Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,454 |
-| Derby Line | Canadá | **8 min** | 0 | 120 | 183 |
+| Derby Line | Canadá | **8 min** | 0 | 120 | 184 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 342 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 201 |
 | Roma | México | **6 min** | 0 | 30 | 155 |
@@ -152,8 +152,8 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 88 |
 | Calais | Canadá | **0 min** | 0 | 10 | 191 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 351 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,454 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,454 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,455 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,455 |
 | Massena | Canadá | **0 min** | 0 | 0 | 184 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 193 |
 | Norton | Canadá | **0 min** | 0 | 0 | 125 |

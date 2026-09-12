@@ -47595,3 +47595,14 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-12T12:38:37+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/12/2026 5:35am,,sur
 2026-09-12T12:38:37+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/12/2026 5:35am,,sur
 2026-09-12T12:38:37+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/12/2026 5:35am,,sur
+2026-09-12T12:50:39+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,pasajeros,general,delay,10,1,At 9:00 am EDT,Open,norte
+2026-09-12T12:50:39+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,carga,general,no delay,0,1,At 9:00 am EDT,Open,norte
+2026-09-12T12:50:39+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,general,delay,40,1,At 7:00 am MDT,Open,norte
+2026-09-12T12:50:39+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,ready,delay,35,2,At 7:00 am MDT,Open,norte
+2026-09-12T12:50:39+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,5,1,At 7:00 am MDT,Open,norte
+2026-09-12T12:50:39+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/12/2026 5:50am,,sur
+2026-09-12T12:50:39+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/12/2026 5:50am,,sur
+2026-09-12T12:50:39+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/12/2026 5:50am,,sur
+2026-09-12T12:50:39+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/12/2026 5:50am,,sur
+2026-09-12T12:50:39+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/12/2026 5:50am,,sur
+2026-09-12T12:50:39+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/12/2026 5:50am,,sur
