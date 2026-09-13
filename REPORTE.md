@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 12/09/2026 17:02 (hora de Tijuana) · 79,083 lecturas archivadas*
+*Actualizado 12/09/2026 17:30 (hora de Tijuana) · 79,168 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -32,7 +32,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,539 · 100.0% exitosas
+- **Capturas:** 1,540 · 100.0% exitosas
 - **Tamaño:** 9.7 MB · proyección 147 MB al año
 - **Días archivando:** 24
 
@@ -83,7 +83,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** bajó **0%** esta semana contra la anterior: de 90 a 90 minutos de mediana.
+> La espera en **Otay Mesa** bajó **5%** esta semana contra la anterior: de 95 a 90 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -95,69 +95,69 @@
 
 | cruce | frontera | promedio | mínimo | máximo | lecturas |
 |---|---|---:|---:|---:|---:|
-| Tecate | México | **117 min** | 30 | 380 | 281 |
+| Tecate | México | **117 min** | 30 | 380 | 282 |
 | San Ysidro | México | **105 min** | 10 | 1000 | 378 |
 | Otay Mesa | México | **93 min** | 0 | 240 | 382 |
 | Calexico | México | **63 min** | 5 | 240 | 422 |
 | Calexico | México | **53 min** | 5 | 180 | 241 |
 | El Paso | México | **44 min** | 1 | 95 | 443 |
-| El Paso | México | **41 min** | 0 | 105 | 412 |
-| Progreso | México | **40 min** | 0 | 90 | 110 |
+| El Paso | México | **41 min** | 0 | 105 | 413 |
+| Progreso | México | **40 min** | 0 | 90 | 111 |
 | Eagle Pass | México | **36 min** | 15 | 90 | 22 |
-| Santa Teresa | México | **36 min** | 0 | 80 | 283 |
+| Santa Teresa | México | **36 min** | 0 | 80 | 284 |
 | Brownsville | México | **33 min** | 0 | 180 | 371 |
-| Hidalgo/Pharr | México | **31 min** | 3 | 90 | 261 |
-| Hidalgo/Pharr | México | **31 min** | 0 | 85 | 351 |
+| Hidalgo/Pharr | México | **31 min** | 3 | 90 | 262 |
+| Hidalgo/Pharr | México | **31 min** | 0 | 85 | 352 |
 | Eagle Pass | México | **30 min** | 1 | 180 | 431 |
 | Brownsville | México | **29 min** | 0 | 120 | 389 |
 | Nogales | México | **29 min** | 0 | 150 | 275 |
 | Brownsville | México | **28 min** | 0 | 120 | 345 |
-| Del Rio | México | **28 min** | 0 | 180 | 282 |
+| Del Rio | México | **28 min** | 0 | 180 | 283 |
 | San Luis | México | **26 min** | 5 | 90 | 253 |
-| Nogales | México | **26 min** | 0 | 455 | 307 |
-| Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 459 |
+| Nogales | México | **26 min** | 0 | 455 | 308 |
+| Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 460 |
 | Laredo | México | **24 min** | 0 | 70 | 349 |
-| Andrade | México | **23 min** | 0 | 110 | 251 |
-| Marcelino Serna | México | **22 min** | 0 | 45 | 313 |
-| Hidalgo/Pharr | México | **21 min** | 0 | 65 | 101 |
+| Andrade | México | **24 min** | 0 | 110 | 252 |
+| Marcelino Serna | México | **22 min** | 0 | 45 | 314 |
+| Hidalgo/Pharr | México | **21 min** | 0 | 65 | 102 |
 | Brownsville | México | **20 min** | 0 | 120 | 276 |
 | Otay Mesa Port of Entry | México | **20 min** | 5 | 50 | 5 |
 | Progreso | México | **18 min** | 0 | 60 | 225 |
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 239 |
-| Blaine | Canadá | **12 min** | 0 | 80 | 409 |
-| Naco | México | **11 min** | 0 | 85 | 297 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 410 |
+| Naco | México | **11 min** | 0 | 85 | 298 |
 | Presidio | México | **10 min** | 0 | 90 | 423 |
 | Champlain | Canadá | **10 min** | 0 | 60 | 266 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 419 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,498 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,499 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 420 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,499 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,500 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 186 |
-| Sweetgrass | Canadá | **7 min** | 0 | 90 | 354 |
-| Lynden | Canadá | **7 min** | 0 | 40 | 211 |
-| Roma | México | **7 min** | 0 | 30 | 160 |
+| Sweetgrass | Canadá | **7 min** | 0 | 90 | 355 |
+| Lynden | Canadá | **7 min** | 0 | 40 | 212 |
+| Roma | México | **7 min** | 0 | 30 | 161 |
 | Laredo | México | **6 min** | 0 | 60 | 176 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 221 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 197 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,497 |
-| Detroit | Canadá | **5 min** | 0 | 45 | 468 |
-| Columbus | México | **5 min** | 0 | 30 | 430 |
-| Port Huron | Canadá | **5 min** | 0 | 36 | 381 |
-| Detroit | Canadá | **5 min** | 0 | 20 | 465 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,498 |
+| Detroit | Canadá | **5 min** | 0 | 45 | 469 |
+| Columbus | México | **5 min** | 0 | 30 | 431 |
+| Port Huron | Canadá | **5 min** | 0 | 36 | 382 |
+| Detroit | Canadá | **5 min** | 0 | 20 | 466 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 169 |
-| Detroit | Canadá | **4 min** | 0 | 35 | 468 |
-| Pembina | Canadá | **4 min** | 0 | 38 | 228 |
-| Houlton | Canadá | **4 min** | 0 | 45 | 390 |
+| Detroit | Canadá | **4 min** | 0 | 35 | 469 |
+| Pembina | Canadá | **4 min** | 0 | 38 | 229 |
+| Houlton | Canadá | **4 min** | 0 | 45 | 391 |
 | Lukeville | México | **4 min** | 0 | 90 | 178 |
-| Sumas | Canadá | **3 min** | 0 | 30 | 159 |
-| Madawaska | Canadá | **2 min** | 0 | 30 | 380 |
+| Sumas | Canadá | **3 min** | 0 | 30 | 160 |
+| Madawaska | Canadá | **2 min** | 0 | 30 | 381 |
 | Jackman | Canadá | **1 min** | 0 | 45 | 299 |
 | Calais | Canadá | **1 min** | 0 | 10 | 201 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 362 |
 | Calais | Canadá | **1 min** | 0 | 5 | 91 |
 | Calais | Canadá | **0 min** | 0 | 10 | 196 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 359 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,500 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,500 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,501 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,501 |
 | Massena | Canadá | **0 min** | 0 | 0 | 194 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 194 |
 | Norton | Canadá | **0 min** | 0 | 0 | 125 |
