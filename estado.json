@@ -3,7 +3,7 @@
 "no delay",
 0,
 1,
-"At 2:00 am EDT"
+"At 3:00 am EDT"
 ],
 "070801|pasajeros|sentri": [
 "Lanes Closed",
@@ -15,7 +15,7 @@ null,
 "no delay",
 0,
 1,
-"At 2:00 am EDT"
+"At 3:00 am EDT"
 ],
 "300401|pasajeros|general": [
 "delay",
@@ -1374,16 +1374,16 @@ null,
 "At Midnight CDT"
 ],
 "230402|pasajeros|general": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+45,
+2,
+"At Midnight CDT"
 ],
 "230402|pasajeros|ready": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+40,
+3,
+"At Midnight CDT"
 ],
 "230403|pasajeros|general": [
 "Lanes Closed",

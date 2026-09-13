@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 12/09/2026 22:33 (hora de Tijuana) · 79,986 lecturas archivadas*
+*Actualizado 12/09/2026 22:48 (hora de Tijuana) · 79,990 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -32,7 +32,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,560 · 100.0% exitosas
+- **Capturas:** 1,561 · 100.0% exitosas
 - **Tamaño:** 9.8 MB · proyección 149 MB al año
 - **Días archivando:** 24
 
@@ -116,7 +116,7 @@
 | San Luis | México | **26 min** | 5 | 90 | 253 |
 | Nogales | México | **25 min** | 0 | 455 | 311 |
 | Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 465 |
-| Laredo | México | **24 min** | 0 | 70 | 353 |
+| Laredo | México | **24 min** | 0 | 70 | 354 |
 | Andrade | México | **24 min** | 0 | 110 | 254 |
 | Marcelino Serna | México | **22 min** | 0 | 45 | 317 |
 | Hidalgo/Pharr | México | **21 min** | 0 | 65 | 104 |
@@ -143,7 +143,7 @@
 | Columbus | México | **5 min** | 0 | 30 | 436 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 386 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 471 |
-| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 171 |
+| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 172 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 474 |
 | Pembina | Canadá | **4 min** | 0 | 38 | 233 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 394 |

@@ -50661,3 +50661,7 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-13T05:33:49+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/12/2026 10:30pm,,sur
 2026-09-13T05:33:49+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/12/2026 10:30pm,,sur
 2026-09-13T05:33:49+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/12/2026 10:30pm,,sur
+2026-09-13T05:46:46+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,pasajeros,general,no delay,0,1,At 3:00 am EDT,Open,norte
+2026-09-13T05:46:46+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,carga,general,no delay,0,1,At 3:00 am EDT,Open,norte
+2026-09-13T05:46:46+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,general,delay,45,2,At Midnight CDT,Open,norte
+2026-09-13T05:46:46+00:00,230402,Mexican Border,Laredo,Bridge II,pasajeros,ready,delay,40,3,At Midnight CDT,Open,norte
