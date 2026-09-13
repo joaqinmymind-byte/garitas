@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 13/09/2026 04:33 (hora de Tijuana) · 80,762 lecturas archivadas*
+*Actualizado 13/09/2026 04:46 (hora de Tijuana) · 80,774 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,580 · 100.0% exitosas
+- **Capturas:** 1,581 · 100.0% exitosas
 - **Tamaño:** 9.9 MB · proyección 150 MB al año
 - **Días archivando:** 24
 
@@ -125,15 +125,15 @@
 | Presidio | México | **10 min** | 0 | 90 | 433 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 268 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 431 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,537 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,538 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,538 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,539 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 188 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 363 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 218 |
 | Roma | México | **7 min** | 0 | 30 | 165 |
 | Laredo | México | **6 min** | 0 | 60 | 180 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 224 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,536 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,537 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 197 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 480 |
 | Columbus | México | **5 min** | 0 | 30 | 439 |
@@ -152,8 +152,8 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 92 |
 | Calais | Canadá | **0 min** | 0 | 10 | 203 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 367 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,540 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,540 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,541 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,541 |
 | Massena | Canadá | **0 min** | 0 | 0 | 199 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 198 |
 | Norton | Canadá | **0 min** | 0 | 0 | 127 |
