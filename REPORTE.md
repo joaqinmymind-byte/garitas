@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 13/09/2026 00:34 (hora de Tijuana) · 80,305 lecturas archivadas*
+*Actualizado 13/09/2026 00:48 (hora de Tijuana) · 80,318 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -27,7 +27,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,567 · 100.0% exitosas
+- **Capturas:** 1,568 · 100.0% exitosas
 - **Tamaño:** 9.8 MB · proyección 149 MB al año
 - **Días archivando:** 24
 
@@ -121,18 +121,18 @@
 | Highgate Springs | Canadá | **13 min** | 0 | 170 | 242 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 417 |
 | Naco | México | **11 min** | 0 | 85 | 300 |
-| Presidio | México | **10 min** | 0 | 90 | 428 |
+| Presidio | México | **10 min** | 0 | 90 | 429 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 268 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 427 |
-| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,525 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,526 |
+| Buffalo/Niagara Falls | Canadá | **9 min** | 0 | 58 | 1,526 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,527 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 188 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 361 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 218 |
 | Roma | México | **7 min** | 0 | 30 | 164 |
 | Laredo | México | **6 min** | 0 | 60 | 180 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 224 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,524 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,525 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 197 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 476 |
 | Columbus | México | **5 min** | 0 | 30 | 437 |
@@ -151,8 +151,8 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 91 |
 | Calais | Canadá | **0 min** | 0 | 10 | 199 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 363 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,527 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,527 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,528 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,528 |
 | Massena | Canadá | **0 min** | 0 | 0 | 197 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 196 |
 | Norton | Canadá | **0 min** | 0 | 0 | 127 |
