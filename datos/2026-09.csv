@@ -55863,3 +55863,18 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-14T13:51:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/14/2026 6:50am,,sur
 2026-09-14T13:51:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/14/2026 6:50am,,sur
 2026-09-14T13:51:46+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/14/2026 6:50am,,sur
+2026-09-14T14:02:35+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,general,delay,40,1,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535501,Mexican Border,Brownsville,B&M,pasajeros,ready,delay,40,3,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535501,Mexican Border,Brownsville,B&M,peatones,general,delay,60,2,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,general,delay,20,1,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535504,Mexican Border,Brownsville,Gateway,pasajeros,ready,delay,20,3,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,general,delay,15,1,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,535504,Mexican Border,Brownsville,Gateway,peatones,ready,no delay,0,1,At 9:00 am CDT,Open,norte
+2026-09-14T14:02:35+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),carga,general,no delay,2,2,At 8:00 am MDT,Open,norte
+2026-09-14T14:02:35+00:00,240201,Mexican Border,El Paso,Bridge of the Americas (BOTA),carga,fast,no delay,2,2,At 8:00 am MDT,Open,norte
+2026-09-14T14:02:35+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/14/2026 7:00am,,sur
+2026-09-14T14:02:35+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/14/2026 7:00am,,sur
+2026-09-14T14:02:35+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/14/2026 7:00am,,sur
+2026-09-14T14:02:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/14/2026 7:00am,,sur
+2026-09-14T14:02:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/14/2026 7:00am,,sur
+2026-09-14T14:02:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/14/2026 7:00am,,sur
