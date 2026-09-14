@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 14/09/2026 12:23 (hora de Tijuana) · 86,297 lecturas archivadas*
+*Actualizado 14/09/2026 12:35 (hora de Tijuana) · 86,346 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,704 · 100.0% exitosas
+- **Capturas:** 1,705 · 100.0% exitosas
 - **Tamaño:** 10.6 MB · proyección 148 MB al año
 - **Días archivando:** 26
 
@@ -103,7 +103,7 @@
 | El Paso | México | **44 min** | 1 | 95 | 483 |
 | El Paso | México | **41 min** | 0 | 105 | 453 |
 | Progreso | México | **40 min** | 0 | 90 | 119 |
-| Santa Teresa | México | **36 min** | 0 | 80 | 310 |
+| Santa Teresa | México | **36 min** | 0 | 80 | 311 |
 | Eagle Pass | México | **36 min** | 1 | 180 | 471 |
 | Hidalgo/Pharr | México | **32 min** | 0 | 90 | 386 |
 | Brownsville | México | **32 min** | 0 | 180 | 408 |
@@ -113,8 +113,8 @@
 | Nogales | México | **29 min** | 0 | 150 | 277 |
 | Del Rio | México | **29 min** | 0 | 180 | 312 |
 | Brownsville | México | **29 min** | 0 | 120 | 372 |
-| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 502 |
-| Laredo | México | **26 min** | 0 | 70 | 386 |
+| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 503 |
+| Laredo | México | **26 min** | 0 | 70 | 387 |
 | San Luis | México | **25 min** | 5 | 90 | 291 |
 | Nogales | México | **25 min** | 0 | 455 | 333 |
 | Andrade | México | **25 min** | 0 | 110 | 270 |
@@ -124,40 +124,40 @@
 | Otay Mesa Port of Entry | México | **20 min** | 5 | 50 | 5 |
 | Progreso | México | **19 min** | 0 | 60 | 235 |
 | Highgate Springs | Canadá | **12 min** | 0 | 170 | 263 |
-| Blaine | Canadá | **12 min** | 0 | 80 | 450 |
+| Blaine | Canadá | **12 min** | 0 | 80 | 451 |
 | Naco | México | **11 min** | 0 | 85 | 305 |
 | Presidio | México | **10 min** | 0 | 90 | 464 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 285 |
-| Blaine | Canadá | **9 min** | 0 | 60 | 460 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,654 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,656 |
+| Blaine | Canadá | **9 min** | 0 | 60 | 461 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,655 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,657 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 389 |
 | Derby Line | Canadá | **8 min** | 0 | 120 | 208 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 233 |
 | Roma | México | **7 min** | 0 | 30 | 177 |
-| Laredo | México | **6 min** | 0 | 60 | 193 |
+| Laredo | México | **6 min** | 0 | 60 | 194 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 245 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 212 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 511 |
 | Columbus | México | **5 min** | 0 | 30 | 467 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,654 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,655 |
 | Port Huron | Canadá | **5 min** | 0 | 36 | 412 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 508 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 511 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 195 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 424 |
-| Pembina | Canadá | **4 min** | 0 | 38 | 255 |
+| Pembina | Canadá | **4 min** | 0 | 38 | 256 |
 | Lukeville | México | **4 min** | 0 | 90 | 199 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 180 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 411 |
 | Jackman | Canadá | **1 min** | 0 | 45 | 322 |
 | Calais | Canadá | **1 min** | 0 | 10 | 212 |
-| Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 399 |
+| Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 400 |
 | Calais | Canadá | **1 min** | 0 | 5 | 94 |
 | Calais | Canadá | **0 min** | 0 | 10 | 209 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 391 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,663 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,663 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,664 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,664 |
 | Massena | Canadá | **0 min** | 0 | 0 | 222 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 203 |
 | Norton | Canadá | **0 min** | 0 | 0 | 139 |
