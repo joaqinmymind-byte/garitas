@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 13/09/2026 21:37 (hora de Tijuana) · 83,774 lecturas archivadas*
+*Actualizado 13/09/2026 21:50 (hora de Tijuana) · 83,791 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,7 +30,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,647 · 100.0% exitosas
+- **Capturas:** 1,648 · 100.0% exitosas
 - **Tamaño:** 10.3 MB · proyección 150 MB al año
 - **Días archivando:** 25
 
@@ -96,7 +96,7 @@
 | Tecate | México | **121 min** | 30 | 380 | 299 |
 | San Ysidro | México | **107 min** | 10 | 1000 | 402 |
 | Otay Mesa | México | **96 min** | 0 | 240 | 409 |
-| Calexico | México | **64 min** | 5 | 240 | 449 |
+| Calexico | México | **64 min** | 5 | 240 | 450 |
 | Calexico | México | **54 min** | 5 | 180 | 260 |
 | El Paso | México | **44 min** | 1 | 95 | 470 |
 | El Paso | México | **41 min** | 0 | 105 | 441 |
@@ -112,7 +112,7 @@
 | Nogales | México | **29 min** | 0 | 150 | 276 |
 | Del Rio | México | **29 min** | 0 | 180 | 303 |
 | Brownsville | México | **28 min** | 0 | 120 | 363 |
-| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 487 |
+| Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 488 |
 | San Luis | México | **26 min** | 5 | 90 | 276 |
 | Laredo | México | **26 min** | 0 | 70 | 375 |
 | Nogales | México | **25 min** | 0 | 455 | 326 |
@@ -143,7 +143,7 @@
 | Port Huron | Canadá | **5 min** | 0 | 36 | 404 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 494 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 497 |
-| Alexandria Bay | Canadá | **4 min** | 0 | 25 | 188 |
+| Alexandria Bay | Canadá | **4 min** | 0 | 25 | 189 |
 | Pembina | Canadá | **4 min** | 0 | 38 | 245 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 414 |
 | Lukeville | México | **4 min** | 0 | 90 | 192 |
@@ -155,8 +155,8 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 94 |
 | Calais | Canadá | **0 min** | 0 | 10 | 209 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 378 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,607 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,607 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,608 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,608 |
 | Massena | Canadá | **0 min** | 0 | 0 | 213 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 199 |
 | Norton | Canadá | **0 min** | 0 | 0 | 130 |

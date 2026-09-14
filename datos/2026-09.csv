@@ -54449,3 +54449,20 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-14T04:37:36+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/13/2026 9:35pm,,sur
 2026-09-14T04:37:36+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/13/2026 9:35pm,,sur
 2026-09-14T04:37:36+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/13/2026 9:35pm,,sur
+2026-09-14T04:50:55+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,pasajeros,general,no delay,0,1,At 2:00 am EDT,Open,norte
+2026-09-14T04:50:55+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,pasajeros,sentri,Lanes Closed,,,,Open,norte
+2026-09-14T04:50:55+00:00,070801,Canadian Border,Alexandria Bay,Thousand Islands Bridge,carga,general,no delay,0,1,At 2:00 am EDT,Open,norte
+2026-09-14T04:50:55+00:00,250302,Mexican Border,Calexico,West,pasajeros,general,delay,75,2,At 10:00 pm PDT,Open,norte
+2026-09-14T04:50:55+00:00,250302,Mexican Border,Calexico,West,pasajeros,sentri,delay,25,4,At 10:00 pm PDT,Open,norte
+2026-09-14T04:50:55+00:00,250302,Mexican Border,Calexico,West,pasajeros,ready,delay,75,3,At 10:00 pm PDT,Open,norte
+2026-09-14T04:50:55+00:00,250302,Mexican Border,Calexico,West,peatones,general,delay,15,3,At 10:00 pm PDT,Open,norte
+2026-09-14T04:50:55+00:00,250302,Mexican Border,Calexico,West,peatones,ready,delay,15,3,At 10:00 pm PDT,Open,norte
+2026-09-14T04:50:55+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,pasajeros,general,delay,60,4,At 10:00 pm PST,Open,norte
+2026-09-14T04:50:55+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,pasajeros,sentri,no delay,1,1,At 10:00 pm PST,Open,norte
+2026-09-14T04:50:55+00:00,260101,Mexican Border,Douglas (Raul Hector Castro),,peatones,general,no delay,3,2,At 10:00 pm PST,Open,norte
+2026-09-14T04:50:55+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/13/2026 9:50pm,,sur
+2026-09-14T04:50:55+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/13/2026 9:50pm,,sur
+2026-09-14T04:50:55+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/13/2026 9:50pm,,sur
+2026-09-14T04:50:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/13/2026 9:50pm,,sur
+2026-09-14T04:50:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/13/2026 9:50pm,,sur
+2026-09-14T04:50:55+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/13/2026 9:50pm,,sur
