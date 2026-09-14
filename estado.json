@@ -111,7 +111,7 @@ null,
 "no delay",
 0,
 4,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -123,19 +123,19 @@ null,
 "no delay",
 0,
 2,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090101|pasajeros|general": [
 "no delay",
-5,
+1,
 4,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090101|pasajeros|sentri": [
 "no delay",
-1,
+0,
 2,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-5,
+3,
 4,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090102|pasajeros|general": [
 "no delay",
-2,
+1,
 4,
-"At 7:17 pm EDT"
+"At 7:27 pm EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -1878,10 +1878,10 @@ null,
 "At 5:00 pm CDT"
 ],
 "231001|pasajeros|general": [
-"no delay",
-0,
-2,
-"At 5:00 pm CDT"
+"delay",
+10,
+3,
+"At 6:00 pm CDT"
 ],
 "231001|pasajeros|ready": [
 "Lanes Closed",
@@ -1893,7 +1893,7 @@ null,
 "no delay",
 0,
 1,
-"At 5:00 pm CDT"
+"At 6:00 pm CDT"
 ],
 "231002|pasajeros|general": [
 "Update Pending",
@@ -2001,7 +2001,7 @@ null,
 "no delay",
 5,
 2,
-"At 2:00 pm MST"
+"At 4:00 pm MST"
 ],
 "260802|carga|fast": [
 "Update Pending",
@@ -2097,19 +2097,19 @@ null,
 "delay",
 240,
 2,
-"At 3:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250501|peatones|general": [
 "no delay",
 5,
 3,
-"At 3:00 pm PDT"
+"At 4:00 pm PDT"
 ],
 "250501|carga|general": [
-"delay",
-15,
-2,
-"At 3:00 pm PDT"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "240104|pasajeros|general": [
 "Update Pending",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/14/2026 4:30pm"
+"09/14/2026 4:45pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
