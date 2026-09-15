@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 15:34 (hora de Tijuana) · 91,194 lecturas archivadas*
+*Actualizado 15/09/2026 15:46 (hora de Tijuana) · 91,208 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,811 · 100.0% exitosas
+- **Capturas:** 1,812 · 100.0% exitosas
 - **Tamaño:** 11.2 MB · proyección 151 MB al año
 - **Días archivando:** 27
 
@@ -129,8 +129,8 @@
 | Presidio | México | **10 min** | 0 | 90 | 487 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 482 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 299 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,758 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,760 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,759 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,761 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 412 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 220 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 235 |
@@ -141,7 +141,7 @@
 | Columbus | México | **5 min** | 0 | 30 | 492 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 538 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 432 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,757 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,758 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 535 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 204 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 538 |
@@ -156,10 +156,10 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 102 |
 | Calais | Canadá | **0 min** | 0 | 10 | 221 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 408 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,769 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,769 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,770 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,770 |
 | Massena | Canadá | **0 min** | 0 | 0 | 228 |
-| Ogdensburg | Canadá | **0 min** | 0 | 0 | 219 |
+| Ogdensburg | Canadá | **0 min** | 0 | 0 | 220 |
 | Norton | Canadá | **0 min** | 0 | 0 | 149 |
 
 *67 cruces. Este cuadro no existe en ninguna otra parte.*
