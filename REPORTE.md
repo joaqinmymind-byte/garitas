@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 02:53 (hora de Tijuana) · 88,728 lecturas archivadas*
+*Actualizado 15/09/2026 03:03 (hora de Tijuana) · 88,756 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,760 · 100.0% exitosas
+- **Capturas:** 1,761 · 100.0% exitosas
 - **Tamaño:** 10.9 MB · proyección 153 MB al año
 - **Días archivando:** 26
 
@@ -97,10 +97,10 @@
 | Calexico | México | **65 min** | 5 | 240 | 480 |
 | Calexico | México | **53 min** | 5 | 180 | 276 |
 | Eagle Pass | México | **46 min** | 15 | 120 | 28 |
-| El Paso | México | **44 min** | 1 | 95 | 495 |
-| El Paso | México | **41 min** | 0 | 105 | 466 |
+| El Paso | México | **44 min** | 1 | 95 | 496 |
+| El Paso | México | **41 min** | 0 | 105 | 467 |
 | Progreso | México | **39 min** | 0 | 90 | 123 |
-| Eagle Pass | México | **39 min** | 1 | 210 | 483 |
+| Eagle Pass | México | **39 min** | 1 | 210 | 484 |
 | Santa Teresa | México | **36 min** | 0 | 80 | 318 |
 | Brownsville | México | **32 min** | 0 | 180 | 417 |
 | Hidalgo/Pharr | México | **32 min** | 0 | 90 | 395 |
@@ -126,8 +126,8 @@
 | Presidio | México | **10 min** | 0 | 90 | 477 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 288 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 471 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,708 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,710 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,709 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,711 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 400 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 217 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 234 |
@@ -137,8 +137,8 @@
 | Fort Hancock | México | **5 min** | 5 | 20 | 216 |
 | Columbus | México | **5 min** | 0 | 30 | 480 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 525 |
-| Port Huron | Canadá | **5 min** | 0 | 36 | 421 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,708 |
+| Port Huron | Canadá | **5 min** | 0 | 36 | 422 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,709 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 522 |
 | Detroit | Canadá | **5 min** | 0 | 35 | 525 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 200 |
@@ -147,14 +147,14 @@
 | Lukeville | México | **4 min** | 0 | 90 | 206 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 187 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 419 |
-| Jackman | Canadá | **1 min** | 0 | 45 | 327 |
+| Jackman | Canadá | **1 min** | 0 | 45 | 328 |
 | Calais | Canadá | **1 min** | 0 | 10 | 215 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 407 |
 | Calais | Canadá | **1 min** | 0 | 5 | 94 |
 | Calais | Canadá | **0 min** | 0 | 10 | 212 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 398 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,719 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,719 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,720 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,720 |
 | Massena | Canadá | **0 min** | 0 | 0 | 227 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 213 |
 | Norton | Canadá | **0 min** | 0 | 0 | 146 |
