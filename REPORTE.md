@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 14:21 (hora de Tijuana) · 90,984 lecturas archivadas*
+*Actualizado 15/09/2026 14:35 (hora de Tijuana) · 91,005 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,806 · 100.0% exitosas
+- **Capturas:** 1,807 · 100.0% exitosas
 - **Tamaño:** 11.1 MB · proyección 151 MB al año
 - **Días archivando:** 27
 
@@ -125,27 +125,27 @@
 | Progreso | México | **19 min** | 0 | 60 | 246 |
 | Blaine | Canadá | **12 min** | 0 | 80 | 472 |
 | Naco | México | **11 min** | 0 | 85 | 324 |
-| Highgate Springs | Canadá | **11 min** | 0 | 170 | 276 |
+| Highgate Springs | Canadá | **11 min** | 0 | 170 | 277 |
 | Presidio | México | **10 min** | 0 | 90 | 486 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 482 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 298 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,753 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,755 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,754 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,756 |
 | Sweetgrass | Canadá | **7 min** | 0 | 90 | 411 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 220 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 234 |
 | Roma | México | **7 min** | 0 | 30 | 184 |
 | Laredo | México | **6 min** | 0 | 60 | 205 |
-| Rio Grande City | México | **6 min** | 0 | 30 | 257 |
+| Rio Grande City | México | **6 min** | 0 | 30 | 258 |
 | Columbus | México | **5 min** | 0 | 30 | 491 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 225 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 537 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 431 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,752 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,753 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 534 |
-| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 203 |
+| Alexandria Bay | Canadá | **5 min** | 0 | 25 | 204 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 537 |
-| Pembina | Canadá | **4 min** | 0 | 38 | 259 |
+| Pembina | Canadá | **4 min** | 0 | 38 | 260 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 442 |
 | Lukeville | México | **4 min** | 0 | 90 | 209 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 191 |
