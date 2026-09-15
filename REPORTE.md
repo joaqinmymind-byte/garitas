@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 02:29 (hora de Tijuana) · 88,699 lecturas archivadas*
+*Actualizado 15/09/2026 02:41 (hora de Tijuana) · 88,711 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,758 · 100.0% exitosas
+- **Capturas:** 1,759 · 100.0% exitosas
 - **Tamaño:** 10.9 MB · proyección 152 MB al año
 - **Días archivando:** 26
 
@@ -129,7 +129,7 @@
 | Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,707 |
 | Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,709 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 400 |
-| Derby Line | Canadá | **7 min** | 0 | 120 | 216 |
+| Derby Line | Canadá | **7 min** | 0 | 120 | 217 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 234 |
 | Roma | México | **6 min** | 0 | 30 | 180 |
 | Laredo | México | **6 min** | 0 | 60 | 201 |
@@ -143,7 +143,7 @@
 | Detroit | Canadá | **5 min** | 0 | 35 | 525 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 200 |
 | Pembina | Canadá | **4 min** | 0 | 38 | 256 |
-| Houlton | Canadá | **4 min** | 0 | 45 | 431 |
+| Houlton | Canadá | **4 min** | 0 | 45 | 432 |
 | Lukeville | México | **4 min** | 0 | 90 | 206 |
 | Sumas | Canadá | **3 min** | 0 | 30 | 187 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 418 |
@@ -153,11 +153,11 @@
 | Calais | Canadá | **1 min** | 0 | 5 | 94 |
 | Calais | Canadá | **0 min** | 0 | 10 | 212 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 398 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,717 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,717 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,718 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,718 |
 | Massena | Canadá | **0 min** | 0 | 0 | 226 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 213 |
-| Norton | Canadá | **0 min** | 0 | 0 | 145 |
+| Norton | Canadá | **0 min** | 0 | 0 | 146 |
 
 *67 cruces. Este cuadro no existe en ninguna otra parte.*
 

@@ -59374,3 +59374,15 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-15T09:29:41+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/15/2026 2:25am,,sur
 2026-09-15T09:29:41+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/15/2026 2:25am,,sur
 2026-09-15T09:29:41+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/15/2026 2:25am,,sur
+2026-09-15T09:41:25+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,pasajeros,general,no delay,0,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,020901,Canadian Border,Derby Line,Derby Line I-91,carga,general,no delay,0,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,010601,Canadian Border,Houlton,,pasajeros,general,no delay,1,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,010601,Canadian Border,Houlton,,carga,general,no delay,3,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,021101,Canadian Border,Norton,,pasajeros,general,no delay,0,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,021101,Canadian Border,Norton,,carga,general,no delay,0,1,At 5:00 am EDT,Open,norte
+2026-09-15T09:41:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/15/2026 2:40am,,sur
+2026-09-15T09:41:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/15/2026 2:40am,,sur
+2026-09-15T09:41:25+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/15/2026 2:40am,,sur
+2026-09-15T09:41:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/15/2026 2:40am,,sur
+2026-09-15T09:41:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/15/2026 2:40am,,sur
+2026-09-15T09:41:25+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/15/2026 2:40am,,sur
