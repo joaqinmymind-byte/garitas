@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 10:21 (hora de Tijuana) · 90,176 lecturas archivadas*
+*Actualizado 15/09/2026 10:33 (hora de Tijuana) · 90,218 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,790 · 100.0% exitosas
+- **Capturas:** 1,791 · 100.0% exitosas
 - **Tamaño:** 11.0 MB · proyección 149 MB al año
 - **Días archivando:** 27
 
@@ -97,8 +97,8 @@
 | Tecate | México | **124 min** | 30 | 380 | 319 |
 | San Ysidro | México | **108 min** | 10 | 1000 | 425 |
 | Otay Mesa | México | **96 min** | 0 | 240 | 446 |
-| Calexico | México | **65 min** | 5 | 240 | 488 |
-| Calexico | México | **53 min** | 5 | 180 | 280 |
+| Calexico | México | **65 min** | 5 | 240 | 489 |
+| Calexico | México | **54 min** | 5 | 180 | 281 |
 | Eagle Pass | México | **51 min** | 15 | 120 | 34 |
 | El Paso | México | **44 min** | 1 | 95 | 503 |
 | El Paso | México | **41 min** | 0 | 105 | 474 |
@@ -110,14 +110,14 @@
 | Hidalgo/Pharr | México | **30 min** | 3 | 90 | 301 |
 | Brownsville | México | **29 min** | 0 | 120 | 430 |
 | Brownsville | México | **29 min** | 0 | 150 | 389 |
-| Nogales | México | **29 min** | 0 | 150 | 287 |
 | Naco | México | **29 min** | 2 | 90 | 16 |
+| Nogales | México | **29 min** | 0 | 150 | 288 |
 | Del Rio | México | **28 min** | 0 | 180 | 326 |
 | Douglas (Raul Hector Castro) | México | **26 min** | 0 | 120 | 524 |
 | Laredo | México | **25 min** | 0 | 70 | 402 |
 | San Luis | México | **25 min** | 5 | 90 | 311 |
-| Nogales | México | **25 min** | 0 | 455 | 346 |
-| Andrade | México | **24 min** | 0 | 110 | 278 |
+| Nogales | México | **25 min** | 0 | 455 | 347 |
+| Andrade | México | **24 min** | 0 | 110 | 279 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 120 |
 | Marcelino Serna | México | **22 min** | 0 | 50 | 351 |
 | Otay Mesa Port of Entry | México | **20 min** | 5 | 50 | 5 |
@@ -129,19 +129,19 @@
 | Presidio | México | **10 min** | 0 | 90 | 484 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 294 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 479 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,738 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,740 |
-| Sweetgrass | Canadá | **7 min** | 0 | 90 | 406 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,739 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,741 |
+| Sweetgrass | Canadá | **7 min** | 0 | 90 | 407 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 220 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 234 |
 | Roma | México | **6 min** | 0 | 30 | 182 |
 | Laredo | México | **6 min** | 0 | 60 | 203 |
 | Rio Grande City | México | **6 min** | 0 | 30 | 255 |
+| Columbus | México | **5 min** | 0 | 30 | 487 |
 | Fort Hancock | México | **5 min** | 5 | 20 | 222 |
-| Columbus | México | **5 min** | 0 | 30 | 486 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 533 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 426 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,737 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,738 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 530 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 202 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 533 |
@@ -151,13 +151,13 @@
 | Sumas | Canadá | **3 min** | 0 | 30 | 190 |
 | Madawaska | Canadá | **2 min** | 0 | 30 | 426 |
 | Jackman | Canadá | **1 min** | 0 | 45 | 334 |
-| Calais | Canadá | **1 min** | 0 | 10 | 220 |
+| Calais | Canadá | **1 min** | 0 | 10 | 221 |
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 415 |
-| Calais | Canadá | **0 min** | 0 | 5 | 99 |
-| Calais | Canadá | **0 min** | 0 | 10 | 217 |
+| Calais | Canadá | **0 min** | 0 | 5 | 100 |
+| Calais | Canadá | **0 min** | 0 | 10 | 218 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 403 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,749 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,749 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,750 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,750 |
 | Massena | Canadá | **0 min** | 0 | 0 | 228 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 215 |
 | Norton | Canadá | **0 min** | 0 | 0 | 149 |
