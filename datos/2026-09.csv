@@ -64893,3 +64893,29 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-16T16:23:26+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/16/2026 9:20am,,sur
 2026-09-16T16:23:26+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/16/2026 9:20am,,sur
 2026-09-16T16:23:26+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/16/2026 9:20am,,sur
+2026-09-16T16:35:23+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,pasajeros,general,no delay,4,4,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090104,Canadian Border,Buffalo/Niagara Falls,Lewiston Bridge,carga,general,no delay,2,2,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,general,delay,10,5,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,sentri,no delay,3,1,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,pasajeros,ready,no delay,0,1,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090101,Canadian Border,Buffalo/Niagara Falls,Peace Bridge,carga,general,no delay,6,4,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,090102,Canadian Border,Buffalo/Niagara Falls,Rainbow Bridge,pasajeros,general,delay,11,6,At 12:17 pm EDT,Open,norte
+2026-09-16T16:35:23+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,general,delay,60,2,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230503,Mexican Border,Hidalgo/Pharr,Anzalduas International Bridge,pasajeros,ready,delay,55,3,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,general,delay,65,1,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,sentri,no delay,5,2,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,pasajeros,ready,delay,60,4,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230501,Mexican Border,Hidalgo/Pharr,Hidalgo,peatones,general,no delay,5,4,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,general,delay,50,4,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230502,Mexican Border,Hidalgo/Pharr,Pharr,carga,fast,delay,45,1,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230701,Mexican Border,Rio Grande City,,pasajeros,general,no delay,0,2,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,230701,Mexican Border,Rio Grande City,,carga,general,no delay,0,1,At 11:00 am CDT,Open,norte
+2026-09-16T16:35:23+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,general,delay,35,1,At 10:00 am MDT,Open,norte
+2026-09-16T16:35:23+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,pasajeros,ready,delay,30,1,At 10:00 am MDT,Open,norte
+2026-09-16T16:35:23+00:00,240801,Mexican Border,Santa Teresa,Santa Teresa Port of Entry,peatones,general,no delay,1,1,At 10:00 am MDT,Open,norte
+2026-09-16T16:35:23+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/16/2026 9:35am,,sur
+2026-09-16T16:35:23+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/16/2026 9:35am,,sur
+2026-09-16T16:35:23+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/16/2026 9:35am,,sur
+2026-09-16T16:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/16/2026 9:35am,,sur
+2026-09-16T16:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/16/2026 9:35am,,sur
+2026-09-16T16:35:23+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/16/2026 9:35am,,sur
