@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 16/09/2026 02:36 (hora de Tijuana) · 93,073 lecturas archivadas*
+*Actualizado 16/09/2026 02:50 (hora de Tijuana) · 93,085 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -28,7 +28,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,855 · 100.0% exitosas
+- **Capturas:** 1,856 · 100.0% exitosas
 - **Tamaño:** 11.4 MB · proyección 154 MB al año
 - **Días archivando:** 27
 
@@ -126,8 +126,8 @@
 | Presidio | México | **10 min** | 0 | 90 | 499 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 490 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 301 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,801 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,803 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,802 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,804 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 420 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 222 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 239 |
@@ -138,7 +138,7 @@
 | Columbus | México | **5 min** | 0 | 30 | 502 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 549 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 440 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,800 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,801 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 546 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 206 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 549 |
@@ -153,8 +153,8 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 102 |
 | Calais | Canadá | **0 min** | 0 | 10 | 225 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 416 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,813 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,813 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,814 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,814 |
 | Massena | Canadá | **0 min** | 0 | 0 | 233 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 228 |
 | Norton | Canadá | **0 min** | 0 | 0 | 151 |
