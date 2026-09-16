@@ -65841,3 +65841,17 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-16T21:35:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/16/2026 2:35pm,,sur
 2026-09-16T21:35:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/16/2026 2:35pm,,sur
 2026-09-16T21:35:35+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/16/2026 2:35pm,,sur
+2026-09-16T21:48:52+00:00,302301,Canadian Border,Lynden,,pasajeros,general,no delay,0,1,At 3:00 pm PDT,Open,norte
+2026-09-16T21:48:52+00:00,302301,Canadian Border,Lynden,,pasajeros,sentri,no delay,0,1,At 3:00 pm PDT,Open,norte
+2026-09-16T21:48:52+00:00,302301,Canadian Border,Lynden,,carga,general,no delay,0,1,At 3:00 pm PDT,Open,norte
+2026-09-16T21:48:52+00:00,240204,Mexican Border,El Paso,Stanton DCL,pasajeros,sentri,no delay,2,3,At 3:00 pm MDT,Open,norte
+2026-09-16T21:48:52+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,pasajeros,general,no delay,5,1,At 5:00 pm MDT,Open,norte
+2026-09-16T21:48:52+00:00,l24501,Mexican Border,Fort Hancock,Fort Hancock,peatones,general,no delay,0,1,At 5:00 pm MDT,Open,norte
+2026-09-16T21:48:52+00:00,230701,Mexican Border,Rio Grande City,,pasajeros,general,no delay,5,1,At 4:00 pm CDT,Open,norte
+2026-09-16T21:48:52+00:00,230701,Mexican Border,Rio Grande City,,carga,general,no delay,0,1,At 4:00 pm CDT,Open,norte
+2026-09-16T21:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/16/2026 2:45pm,,sur
+2026-09-16T21:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/16/2026 2:45pm,,sur
+2026-09-16T21:48:52+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/16/2026 2:45pm,,sur
+2026-09-16T21:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/16/2026 2:45pm,,sur
+2026-09-16T21:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/16/2026 2:45pm,,sur
+2026-09-16T21:48:52+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/16/2026 2:45pm,,sur
