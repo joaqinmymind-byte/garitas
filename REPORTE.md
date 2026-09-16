@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 15/09/2026 23:28 (hora de Tijuana) · 92,658 lecturas archivadas*
+*Actualizado 15/09/2026 23:44 (hora de Tijuana) · 92,681 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -30,7 +30,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,842 · 100.0% exitosas
+- **Capturas:** 1,843 · 100.0% exitosas
 - **Tamaño:** 11.3 MB · proyección 153 MB al año
 - **Días archivando:** 27
 
@@ -81,7 +81,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** subió **47%** esta semana contra la anterior: de 75 a 110 minutos de mediana.
+> La espera en **Otay Mesa** subió **42%** esta semana contra la anterior: de 77 a 110 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -128,8 +128,8 @@
 | Presidio | México | **10 min** | 0 | 90 | 496 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 487 |
 | Champlain | Canadá | **9 min** | 0 | 60 | 301 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,789 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,791 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,790 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,792 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 418 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 222 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 239 |
@@ -139,8 +139,8 @@
 | Fort Hancock | México | **5 min** | 5 | 20 | 226 |
 | Columbus | México | **5 min** | 0 | 30 | 499 |
 | Detroit | Canadá | **5 min** | 0 | 45 | 546 |
-| Port Huron | Canadá | **5 min** | 0 | 60 | 437 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,788 |
+| Port Huron | Canadá | **5 min** | 0 | 60 | 438 |
+| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,789 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 543 |
 | Alexandria Bay | Canadá | **5 min** | 0 | 25 | 205 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 546 |
@@ -154,11 +154,11 @@
 | Sault Ste. Marie | Canadá | **1 min** | 0 | 30 | 422 |
 | Calais | Canadá | **0 min** | 0 | 5 | 102 |
 | Calais | Canadá | **0 min** | 0 | 10 | 223 |
-| International Falls | Canadá | **0 min** | 0 | 40 | 412 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,800 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,800 |
+| International Falls | Canadá | **0 min** | 0 | 40 | 413 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,801 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,801 |
 | Massena | Canadá | **0 min** | 0 | 0 | 231 |
-| Ogdensburg | Canadá | **0 min** | 0 | 0 | 224 |
+| Ogdensburg | Canadá | **0 min** | 0 | 0 | 225 |
 | Norton | Canadá | **0 min** | 0 | 0 | 151 |
 
 *67 cruces. Este cuadro no existe en ninguna otra parte.*
