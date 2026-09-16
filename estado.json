@@ -2,8 +2,8 @@
 "070801|pasajeros|general": [
 "no delay",
 0,
-2,
-"At 7:00 pm EDT"
+1,
+"At 9:00 pm EDT"
 ],
 "070801|pasajeros|sentri": [
 "Lanes Closed",
@@ -15,7 +15,7 @@ null,
 "no delay",
 0,
 1,
-"At 7:00 pm EDT"
+"At 9:00 pm EDT"
 ],
 "300401|pasajeros|general": [
 "no delay",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/16/2026 4:30pm"
+"09/16/2026 4:45pm"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
