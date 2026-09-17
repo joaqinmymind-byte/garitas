@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 17/09/2026 00:36 (hora de Tijuana) · 96,918 lecturas archivadas*
+*Actualizado 17/09/2026 00:50 (hora de Tijuana) · 96,929 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -27,7 +27,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 1,943 · 100.0% exitosas
+- **Capturas:** 1,944 · 100.0% exitosas
 - **Tamaño:** 11.9 MB · proyección 155 MB al año
 - **Días archivando:** 28
 
@@ -125,9 +125,9 @@
 | Presidio | México | **10 min** | 0 | 90 | 519 |
 | Blaine | Canadá | **9 min** | 0 | 60 | 512 |
 | Champlain | Canadá | **8 min** | 0 | 60 | 313 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,885 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,886 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 431 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,887 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 64 | 1,888 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 225 |
 | Lynden | Canadá | **7 min** | 0 | 40 | 254 |
 | Roma | México | **6 min** | 0 | 30 | 195 |
@@ -138,7 +138,7 @@
 | Detroit | Canadá | **5 min** | 0 | 45 | 571 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 455 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 568 |
-| Buffalo/Niagara Falls | Canadá | **5 min** | 0 | 63 | 1,884 |
+| Buffalo/Niagara Falls | Canadá | **4 min** | 0 | 63 | 1,885 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 218 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 571 |
 | Houlton | Canadá | **4 min** | 0 | 45 | 466 |
@@ -152,8 +152,8 @@
 | Calais | Canadá | **0 min** | 0 | 5 | 105 |
 | Calais | Canadá | **0 min** | 0 | 10 | 234 |
 | International Falls | Canadá | **0 min** | 0 | 40 | 433 |
-| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,901 |
-| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,901 |
+| Otay Mesa sur (SR-905) | México | **0 min** | 0 | 9 | 1,902 |
+| San Ysidro sur (I-5) | México | **0 min** | 0 | 0 | 1,902 |
 | Massena | Canadá | **0 min** | 0 | 0 | 245 |
 | Ogdensburg | Canadá | **0 min** | 0 | 0 | 232 |
 | Norton | Canadá | **0 min** | 0 | 0 | 154 |
