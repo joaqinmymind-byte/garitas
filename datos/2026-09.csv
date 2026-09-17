@@ -67581,3 +67581,15 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-17T07:24:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/17/2026 12:20am,,sur
 2026-09-17T07:24:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/17/2026 12:20am,,sur
 2026-09-17T07:24:33+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/17/2026 12:20am,,sur
+2026-09-17T07:36:16+00:00,300401,Canadian Border,Blaine,Pacific Highway,pasajeros,general,no delay,5,1,At 1:00 am PDT,Open,norte
+2026-09-17T07:36:16+00:00,300401,Canadian Border,Blaine,Pacific Highway,carga,general,no delay,5,1,At 1:00 am PDT,Open,norte
+2026-09-17T07:36:16+00:00,360401,Canadian Border,International Falls,,pasajeros,general,no delay,0,1,At 4:00 am CDT,Open,norte
+2026-09-17T07:36:16+00:00,360401,Canadian Border,International Falls,,carga,general,no delay,0,1,At 4:00 am CDT,Open,norte
+2026-09-17T07:36:16+00:00,021101,Canadian Border,Norton,,pasajeros,general,no delay,0,1,At 11:00 pm EDT,Open,norte
+2026-09-17T07:36:16+00:00,021101,Canadian Border,Norton,,carga,general,no delay,0,1,At 11:00 pm EDT,Open,norte
+2026-09-17T07:36:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/17/2026 12:35am,,sur
+2026-09-17T07:36:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/17/2026 12:35am,,sur
+2026-09-17T07:36:16+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/17/2026 12:35am,,sur
+2026-09-17T07:36:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/17/2026 12:35am,,sur
+2026-09-17T07:36:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/17/2026 12:35am,,sur
+2026-09-17T07:36:16+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/17/2026 12:35am,,sur
