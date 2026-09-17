@@ -68315,3 +68315,14 @@ capturado_utc,puerto,frontera,puerto_nombre,cruce,clase,carril,estado,minutos,ca
 2026-09-17T12:54:53+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/17/2026 5:50am,,sur
 2026-09-17T12:54:53+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/17/2026 5:50am,,sur
 2026-09-17T12:54:53+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/17/2026 5:50am,,sur
+2026-09-17T13:03:48+00:00,L01901,Canadian Border,Madawaska,,pasajeros,general,no delay,0,1,At 9:00 am EDT,Open,norte
+2026-09-17T13:03:48+00:00,L01901,Canadian Border,Madawaska,,carga,general,no delay,0,1,At 9:00 am EDT,Open,norte
+2026-09-17T13:03:48+00:00,250501,Mexican Border,Tecate,,pasajeros,general,delay,60,4,At 6:00 am PDT,Closed,norte
+2026-09-17T13:03:48+00:00,250501,Mexican Border,Tecate,,peatones,general,delay,30,4,At 6:00 am PDT,Closed,norte
+2026-09-17T13:03:48+00:00,250501,Mexican Border,Tecate,,carga,general,Lanes Closed,,,,Closed,norte
+2026-09-17T13:03:48+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,general,ok,0,,09/17/2026 6:00am,,sur
+2026-09-17T13:03:48+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron15,ok,0,,09/17/2026 6:00am,,sur
+2026-09-17T13:03:48+00:00,SB-SY-I5,Mexican Border,San Ysidro sur (I-5),San Ysidro sur (I-5),pasajeros,pron30,ok,0,,09/17/2026 6:00am,,sur
+2026-09-17T13:03:48+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,general,ok,0,,09/17/2026 6:00am,,sur
+2026-09-17T13:03:48+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron15,ok,0,,09/17/2026 6:00am,,sur
+2026-09-17T13:03:48+00:00,SB-OM-905,Mexican Border,Otay Mesa sur (SR-905),Otay Mesa sur (SR-905),pasajeros,pron30,ok,0,,09/17/2026 6:00am,,sur
