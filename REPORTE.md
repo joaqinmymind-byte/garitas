@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 17/09/2026 19:49 (hora de Tijuana) · 100,301 lecturas archivadas*
+*Actualizado 17/09/2026 20:03 (hora de Tijuana) · 100,314 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -31,7 +31,7 @@
 ## Salud del archivo
 
 - **Archivando desde:** 2026-08-19 14:15 UTC
-- **Capturas:** 2,020 · 100.0% exitosas
+- **Capturas:** 2,021 · 100.0% exitosas
 - **Tamaño:** 12.3 MB · proyección 155 MB al año
 - **Días archivando:** 29
 
@@ -82,7 +82,7 @@
 
 ## Titular de la semana
 
-> La espera en **Otay Mesa** subió **31%** esta semana contra la anterior: de 80 a 105 minutos de mediana.
+> La espera en **Otay Mesa** subió **38%** esta semana contra la anterior: de 80 a 110 minutos de mediana.
 
 *Generado solo. Úsalo como material para medios locales.*
 
@@ -110,16 +110,16 @@
 | Hidalgo/Pharr | México | **30 min** | 3 | 90 | 341 |
 | Brownsville | México | **30 min** | 0 | 120 | 479 |
 | Brownsville | México | **30 min** | 0 | 150 | 434 |
-| Nogales | México | **29 min** | 0 | 150 | 320 |
+| Nogales | México | **29 min** | 0 | 150 | 321 |
 | Naco | México | **29 min** | 2 | 90 | 16 |
 | Del Rio | México | **27 min** | 0 | 180 | 351 |
 | Andrade | México | **25 min** | 0 | 110 | 313 |
 | San Luis | México | **25 min** | 5 | 90 | 325 |
 | Laredo | México | **25 min** | 0 | 80 | 452 |
 | Douglas (Raul Hector Castro) | México | **25 min** | 0 | 120 | 578 |
-| Nogales | México | **25 min** | 0 | 455 | 388 |
+| Nogales | México | **24 min** | 0 | 455 | 389 |
 | Hidalgo/Pharr | México | **22 min** | 0 | 65 | 137 |
-| Marcelino Serna | México | **21 min** | 0 | 50 | 386 |
+| Marcelino Serna | México | **21 min** | 0 | 50 | 387 |
 | Otay Mesa Port of Entry | México | **20 min** | 5 | 50 | 5 |
 | Progreso | México | **19 min** | 0 | 60 | 270 |
 | Brownsville | México | **19 min** | 0 | 120 | 349 |
@@ -130,8 +130,8 @@
 | Blaine | Canadá | **9 min** | 0 | 60 | 528 |
 | Champlain | Canadá | **8 min** | 0 | 60 | 321 |
 | Sweetgrass | Canadá | **8 min** | 0 | 90 | 438 |
-| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,958 |
-| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 64 | 1,960 |
+| Buffalo/Niagara Falls | Canadá | **8 min** | 0 | 58 | 1,959 |
+| Buffalo/Niagara Falls | Canadá | **7 min** | 0 | 64 | 1,961 |
 | Derby Line | Canadá | **7 min** | 0 | 120 | 229 |
 | Roma | México | **6 min** | 0 | 30 | 198 |
 | Lynden | Canadá | **6 min** | 0 | 40 | 265 |
@@ -142,7 +142,7 @@
 | Detroit | Canadá | **5 min** | 0 | 45 | 590 |
 | Port Huron | Canadá | **5 min** | 0 | 60 | 473 |
 | Detroit | Canadá | **5 min** | 0 | 20 | 587 |
-| Buffalo/Niagara Falls | Canadá | **4 min** | 0 | 63 | 1,957 |
+| Buffalo/Niagara Falls | Canadá | **4 min** | 0 | 63 | 1,958 |
 | Detroit | Canadá | **4 min** | 0 | 35 | 590 |
 | Alexandria Bay | Canadá | **4 min** | 0 | 25 | 228 |
 | Lukeville | México | **4 min** | 0 | 90 | 209 |
