@@ -1,33 +1,33 @@
 {
 "070801|pasajeros|general": [
 "no delay",
-0,
+5,
 2,
-"At 9:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "070801|pasajeros|sentri": [
 "no delay",
 0,
 1,
-"At 9:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "070801|carga|general": [
 "no delay",
 0,
 2,
-"At 9:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "300401|pasajeros|general": [
 "no delay",
 5,
-1,
-"At 7:00 am PDT"
+3,
+"At 11:00 am PDT"
 ],
 "300401|pasajeros|sentri": [
 "no delay",
 5,
 1,
-"At 7:00 am PDT"
+"At 11:00 am PDT"
 ],
 "300401|pasajeros|ready": [
 "Lanes Closed",
@@ -39,7 +39,7 @@ null,
 "delay",
 15,
 3,
-"At 7:00 am PDT"
+"At 11:00 am PDT"
 ],
 "300401|carga|fast": [
 "Lanes Closed",
@@ -50,14 +50,14 @@ null,
 "300402|pasajeros|general": [
 "no delay",
 5,
-1,
-"At 7:00 am PDT"
+5,
+"At 11:00 am PDT"
 ],
 "300402|pasajeros|sentri": [
 "no delay",
 5,
 1,
-"At 7:00 am PDT"
+"At 11:00 am PDT"
 ],
 "300402|pasajeros|ready": [
 "Lanes Closed",
@@ -111,7 +111,7 @@ null,
 "no delay",
 0,
 6,
-"At 10:47 am EDT"
+"At 2:37 pm EDT"
 ],
 "090104|pasajeros|sentri": [
 "Lanes Closed",
@@ -120,22 +120,22 @@ null,
 ""
 ],
 "090104|carga|general": [
-"no delay",
-0,
+"delay",
+15,
 2,
-"At 10:47 am EDT"
+"At 2:37 pm EDT"
 ],
 "090101|pasajeros|general": [
 "no delay",
 2,
 5,
-"At 10:47 am EDT"
+"At 2:37 pm EDT"
 ],
 "090101|pasajeros|sentri": [
 "no delay",
 0,
 2,
-"At 10:47 am EDT"
+"At 2:37 pm EDT"
 ],
 "090101|pasajeros|ready": [
 "Lanes Closed",
@@ -145,15 +145,15 @@ null,
 ],
 "090101|carga|general": [
 "no delay",
-3,
 4,
-"At 10:47 am EDT"
+4,
+"At 2:37 pm EDT"
 ],
 "090102|pasajeros|general": [
 "no delay",
 4,
-5,
-"At 10:47 am EDT"
+3,
+"At 2:37 pm EDT"
 ],
 "090102|peatones|general": [
 "Lanes Closed",
@@ -231,49 +231,49 @@ null,
 "no delay",
 0,
 2,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "071201|pasajeros|sentri": [
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "071201|carga|general": [
 "no delay",
 0,
 2,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "071201|carga|fast": [
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "020901|pasajeros|general": [
 "no delay",
 5,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "020901|carga|general": [
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "380001|pasajeros|general": [
 "no delay",
-5,
+0,
 3,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "380001|pasajeros|sentri": [
 "no delay",
-5,
-2,
-"At 10:00 am EDT"
+0,
+1,
+"At 2:00 pm EDT"
 ],
 "380001|pasajeros|ready": [
 "Lanes Closed",
@@ -284,26 +284,26 @@ null,
 "380001|carga|general": [
 "no delay",
 5,
-5,
-"At 10:00 am EDT"
+3,
+"At 2:00 pm EDT"
 ],
 "380001|carga|fast": [
 "no delay",
-5,
+0,
 2,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "380102|pasajeros|general": [
 "no delay",
-5,
-6,
-"At 10:00 am EDT"
+0,
+4,
+"At 2:00 pm EDT"
 ],
 "380102|pasajeros|sentri": [
 "no delay",
-5,
+0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "380102|pasajeros|ready": [
 "Lanes Closed",
@@ -315,7 +315,7 @@ null,
 "no delay",
 0,
 2,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "380102|peatones|ready": [
 "Lanes Closed",
@@ -325,27 +325,27 @@ null,
 ],
 "380102|carga|general": [
 "no delay",
-5,
-5,
-"At 10:00 am EDT"
+0,
+4,
+"At 2:00 pm EDT"
 ],
 "380102|carga|fast": [
-"no delay",
-5,
-1,
-"At 10:00 am EDT"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "380002|pasajeros|general": [
 "no delay",
 5,
-4,
-"At 10:00 am EDT"
+3,
+"At 2:00 pm EDT"
 ],
 "380002|pasajeros|sentri": [
 "no delay",
-5,
-3,
-"At 10:00 am EDT"
+0,
+1,
+"At 2:00 pm EDT"
 ],
 "380002|pasajeros|ready": [
 "Lanes Closed",
@@ -355,15 +355,15 @@ null,
 ],
 "380002|carga|general": [
 "no delay",
-5,
+0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "021201|pasajeros|general": [
 "no delay",
 0,
 2,
-"At 10:00 am EDT"
+"At Noon EDT"
 ],
 "021201|pasajeros|sentri": [
 "Lanes Closed",
@@ -375,13 +375,13 @@ null,
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At Noon EDT"
 ],
 "010601|pasajeros|general": [
 "no delay",
 1,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "010601|pasajeros|sentri": [
 "Lanes Closed",
@@ -393,31 +393,31 @@ null,
 "no delay",
 2,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "360401|pasajeros|general": [
 "no delay",
 0,
 1,
-"At 11:00 am CDT"
+"At 2:00 pm CDT"
 ],
 "360401|carga|general": [
 "no delay",
 0,
 1,
-"At 11:00 am CDT"
+"At 2:00 pm CDT"
 ],
 "010401|pasajeros|general": [
 "no delay",
 0,
 1,
-"At Noon EDT"
+"At 2:00 pm EDT"
 ],
 "010401|carga|general": [
 "no delay",
 0,
 1,
-"At Noon EDT"
+"At 2:00 pm EDT"
 ],
 "302301|pasajeros|general": [
 "Update Pending",
@@ -462,40 +462,40 @@ null,
 ""
 ],
 "L01901|pasajeros|general": [
-"no delay",
-2,
+"delay",
+10,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "L01901|carga|general": [
-"no delay",
-2,
+"delay",
+10,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "070401|pasajeros|general": [
 "no delay",
 0,
 4,
-"At Noon EDT"
+"At 4:00 pm EDT"
 ],
 "070401|carga|general": [
 "no delay",
 0,
 1,
-"At Noon EDT"
+"At 4:00 pm EDT"
 ],
 "021101|pasajeros|general": [
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "021101|carga|general": [
 "no delay",
 0,
 1,
-"At 10:00 am EDT"
+"At 2:00 pm EDT"
 ],
 "070101|pasajeros|general": [
 "no delay",
@@ -511,9 +511,9 @@ null,
 ],
 "340101|pasajeros|general": [
 "no delay",
-7,
+0,
 1,
-"At 9:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "340101|pasajeros|sentri": [
 "Lanes Closed",
@@ -522,40 +522,40 @@ null,
 ""
 ],
 "340101|carga|general": [
-"no delay",
-6,
+"delay",
+50,
 1,
-"At 9:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "380201|pasajeros|general": [
-"delay",
-10,
+"no delay",
+5,
 2,
-"At 10:00 am EST"
+"At 2:00 pm EST"
 ],
 "380201|pasajeros|sentri": [
 "no delay",
 0,
 1,
-"At 10:00 am EST"
+"At 2:00 pm EST"
 ],
 "380201|carga|general": [
-"delay",
-36,
-5,
-"At 10:00 am EST"
+"no delay",
+0,
+6,
+"At 2:00 pm EST"
 ],
 "380201|carga|fast": [
 "no delay",
 0,
 1,
-"At 10:00 am EST"
+"At 2:00 pm EST"
 ],
 "380301|pasajeros|general": [
 "no delay",
 0,
 2,
-"At Noon EDT"
+"At 3:00 pm EDT"
 ],
 "380301|pasajeros|sentri": [
 "Lanes Closed",
@@ -567,7 +567,7 @@ null,
 "no delay",
 0,
 1,
-"At Noon EDT"
+"At 3:00 pm EDT"
 ],
 "300901|pasajeros|general": [
 "no delay",
@@ -597,25 +597,25 @@ null,
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At 9:00 am MDT"
 ],
 "331001|carga|general": [
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At 9:00 am MDT"
 ],
 "250201|pasajeros|general": [
 "delay",
-20,
+15,
 2,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "250201|peatones|general": [
 "no delay",
 0,
 2,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "250201|carga|general": [
 "Lanes Closed",
@@ -751,51 +751,51 @@ null,
 ],
 "535501|pasajeros|general": [
 "delay",
-135,
+70,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535501|pasajeros|ready": [
 "delay",
-135,
+70,
 3,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535501|peatones|general": [
-"delay",
-15,
+"no delay",
+5,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535504|pasajeros|general": [
 "delay",
 60,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535504|pasajeros|ready": [
 "delay",
 60,
 3,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535504|peatones|general": [
 "delay",
-30,
-1,
-"At 10:00 am CDT"
+15,
+3,
+"At 1:00 pm CDT"
 ],
 "535504|peatones|ready": [
 "no delay",
-0,
+5,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535503|pasajeros|general": [
 "no delay",
 5,
 2,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535503|pasajeros|ready": [
 "Lanes Closed",
@@ -807,7 +807,7 @@ null,
 "no delay",
 0,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535503|carga|fast": [
 "Lanes Closed",
@@ -817,111 +817,111 @@ null,
 ],
 "535502|pasajeros|general": [
 "delay",
-15,
+60,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535502|pasajeros|sentri": [
 "no delay",
 0,
 3,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535502|pasajeros|ready": [
 "delay",
-15,
+60,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535502|peatones|general": [
 "no delay",
-5,
+0,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535502|carga|general": [
 "delay",
-35,
+20,
 2,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "535502|carga|fast": [
 "no delay",
 0,
 1,
-"At 10:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "250301|pasajeros|general": [
-"delay",
-75,
+"no delay",
+5,
 1,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250301|pasajeros|sentri": [
-"delay",
-25,
+"no delay",
+5,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250301|pasajeros|ready": [
-"delay",
-75,
+"no delay",
+5,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250301|peatones|general": [
 "no delay",
 5,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250301|carga|general": [
 "no delay",
 5,
 2,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250301|carga|fast": [
 "no delay",
 5,
 1,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250302|pasajeros|general": [
-"delay",
-90,
+"no delay",
+5,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250302|pasajeros|sentri": [
-"delay",
-15,
+"no delay",
 5,
-"At 8:00 am PDT"
+6,
+"At 11:00 am PDT"
 ],
 "250302|pasajeros|ready": [
-"delay",
-90,
-4,
-"At 8:00 am PDT"
+"no delay",
+5,
+3,
+"At 11:00 am PDT"
 ],
 "250302|peatones|general": [
 "delay",
-60,
+45,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250302|peatones|ready": [
 "delay",
-60,
+45,
 3,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "240601|pasajeros|general": [
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240601|pasajeros|ready": [
 "Lanes Closed",
@@ -931,51 +931,51 @@ null,
 ],
 "240601|peatones|general": [
 "no delay",
-0,
+5,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240601|carga|general": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+5,
+1,
+"At Noon MDT"
 ],
 "230201|pasajeros|general": [
 "delay",
-40,
+50,
 1,
-"At 9:00 am CDT"
+"At Noon CDT"
 ],
 "230201|pasajeros|sentri": [
 "no delay",
 0,
 1,
-"At 9:00 am CDT"
+"At Noon CDT"
 ],
 "230201|pasajeros|ready": [
 "delay",
-40,
+50,
 2,
-"At 9:00 am CDT"
+"At Noon CDT"
 ],
 "230201|carga|general": [
 "no delay",
 0,
 1,
-"At 9:00 am CDT"
+"At Noon CDT"
 ],
 "260101|pasajeros|general": [
 "delay",
-40,
+10,
 4,
-"At 7:00 am PST"
+"At 11:00 am PST"
 ],
 "260101|pasajeros|sentri": [
-"delay",
-15,
-2,
-"At 7:00 am PST"
+"no delay",
+5,
+1,
+"At 11:00 am PST"
 ],
 "260101|pasajeros|ready": [
 "Lanes Closed",
@@ -984,10 +984,10 @@ null,
 ""
 ],
 "260101|peatones|general": [
-"delay",
-15,
-3,
-"At 7:00 am PST"
+"no delay",
+5,
+2,
+"At 11:00 am PST"
 ],
 "260101|peatones|ready": [
 "Lanes Closed",
@@ -996,16 +996,16 @@ null,
 ""
 ],
 "260101|carga|general": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+1,
+1,
+"At 11:00 am PST"
 ],
 "230301|pasajeros|general": [
 "delay",
-60,
+90,
 2,
-"At 9:00 am CDT"
+"At 11:00 am CDT"
 ],
 "230301|pasajeros|ready": [
 "Lanes Closed",
@@ -1015,15 +1015,15 @@ null,
 ],
 "230302|pasajeros|general": [
 "delay",
-45,
+30,
 4,
-"At 9:00 am CDT"
+"At 11:00 am CDT"
 ],
 "230302|pasajeros|sentri": [
 "no delay",
 5,
 1,
-"At 9:00 am CDT"
+"At 11:00 am CDT"
 ],
 "230302|pasajeros|ready": [
 "Lanes Closed",
@@ -1087,21 +1087,21 @@ null,
 ],
 "240201|pasajeros|general": [
 "delay",
-85,
+60,
 3,
-"At 9:00 am MDT"
+"At Noon MDT"
 ],
 "240201|pasajeros|ready": [
 "delay",
-85,
+60,
 6,
-"At 9:00 am MDT"
+"At Noon MDT"
 ],
 "240201|peatones|general": [
-"delay",
-10,
-3,
-"At 9:00 am MDT"
+"no delay",
+5,
+1,
+"At Noon MDT"
 ],
 "240201|peatones|ready": [
 "Lanes Closed",
@@ -1111,45 +1111,45 @@ null,
 ],
 "240201|carga|general": [
 "delay",
-10,
+20,
 2,
-"At 9:00 am MDT"
+"At Noon MDT"
 ],
 "240201|carga|fast": [
-"no delay",
-5,
+"delay",
+15,
 2,
-"At 9:00 am MDT"
+"At Noon MDT"
 ],
 "240202|pasajeros|general": [
 "delay",
-70,
+38,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240202|pasajeros|sentri": [
 "no delay",
-8,
-3,
-"At 8:00 am MDT"
+5,
+1,
+"At Noon MDT"
 ],
 "240202|pasajeros|ready": [
 "delay",
-65,
-1,
-"At 8:00 am MDT"
+35,
+3,
+"At Noon MDT"
 ],
 "240202|peatones|general": [
 "delay",
-38,
+10,
 2,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240202|peatones|ready": [
-"delay",
-30,
-9,
-"At 8:00 am MDT"
+"no delay",
+8,
+4,
+"At Noon MDT"
 ],
 "240204|pasajeros|general": [
 "Lanes Closed",
@@ -1159,9 +1159,9 @@ null,
 ],
 "240204|pasajeros|sentri": [
 "no delay",
-8,
 3,
-"At 8:00 am MDT"
+3,
+"At Noon MDT"
 ],
 "240203|pasajeros|general": [
 "Lanes Closed",
@@ -1170,40 +1170,40 @@ null,
 ""
 ],
 "240203|pasajeros|sentri": [
-"delay",
-15,
+"no delay",
+1,
 4,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240203|pasajeros|ready": [
 "delay",
-60,
-3,
-"At 8:00 am MDT"
-],
-"240203|peatones|general": [
-"delay",
 35,
 4,
-"At 8:00 am MDT"
+"At Noon MDT"
+],
+"240203|peatones|general": [
+"no delay",
+5,
+2,
+"At Noon MDT"
 ],
 "240203|carga|general": [
 "delay",
 30,
 5,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240203|carga|fast": [
 "delay",
-10,
+20,
 3,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "l24501|pasajeros|general": [
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "l24501|pasajeros|sentri": [
 "Lanes Closed",
@@ -1273,9 +1273,9 @@ null,
 ],
 "230503|pasajeros|general": [
 "delay",
-60,
+15,
 2,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230503|pasajeros|sentri": [
 "Lanes Closed",
@@ -1284,40 +1284,40 @@ null,
 ""
 ],
 "230503|pasajeros|ready": [
-"delay",
-55,
-2,
-"At 8:00 am CDT"
+"no delay",
+5,
+3,
+"At 1:00 pm CDT"
 ],
 "230501|pasajeros|general": [
 "delay",
-30,
+40,
 2,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230501|pasajeros|sentri": [
-"delay",
-15,
+"no delay",
+5,
 2,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230501|pasajeros|ready": [
 "delay",
-25,
+35,
 4,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230501|peatones|general": [
-"delay",
-20,
+"no delay",
 5,
-"At 8:00 am CDT"
+4,
+"At 1:00 pm CDT"
 ],
 "230502|pasajeros|general": [
-"delay",
-30,
-1,
-"At 8:00 am CDT"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "230502|pasajeros|sentri": [
 "Lanes Closed",
@@ -1326,22 +1326,22 @@ null,
 ""
 ],
 "230502|pasajeros|ready": [
-"delay",
-25,
-3,
-"At 8:00 am CDT"
+"Lanes Closed",
+null,
+null,
+""
 ],
 "230502|carga|general": [
 "delay",
-15,
+10,
 6,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230502|carga|fast": [
-"delay",
-10,
+"no delay",
+5,
 1,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230401|pasajeros|general": [
 "Lanes Closed",
@@ -1350,10 +1350,10 @@ null,
 ""
 ],
 "230401|pasajeros|sentri": [
-"delay",
-25,
+"no delay",
+0,
 4,
-"At 7:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230401|pasajeros|ready": [
 "Lanes Closed",
@@ -1364,26 +1364,26 @@ null,
 "230401|peatones|general": [
 "no delay",
 0,
-4,
-"At 7:00 am CDT"
+3,
+"At 1:00 pm CDT"
 ],
 "230401|peatones|ready": [
 "no delay",
 0,
-4,
-"At 7:00 am CDT"
+3,
+"At 1:00 pm CDT"
 ],
 "230402|pasajeros|general": [
 "delay",
 60,
-5,
-"At 7:00 am CDT"
+7,
+"At 1:00 pm CDT"
 ],
 "230402|pasajeros|ready": [
 "delay",
 55,
-6,
-"At 7:00 am CDT"
+7,
+"At 1:00 pm CDT"
 ],
 "230403|pasajeros|general": [
 "Lanes Closed",
@@ -1392,52 +1392,52 @@ null,
 ""
 ],
 "230403|pasajeros|sentri": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+0,
+1,
+"At 1:00 pm CDT"
 ],
 "230403|pasajeros|ready": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+0,
+1,
+"At 1:00 pm CDT"
 ],
 "230403|carga|general": [
-"Lanes Closed",
-null,
-null,
-""
+"delay",
+45,
+4,
+"At 1:00 pm CDT"
 ],
 "230403|carga|fast": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+4,
+2,
+"At 1:00 pm CDT"
 ],
 "230404|carga|general": [
-"no delay",
-0,
-4,
-"At 7:00 am CDT"
+"delay",
+30,
+12,
+"At 1:00 pm CDT"
 ],
 "230404|carga|fast": [
-"no delay",
-0,
-2,
-"At 7:00 am CDT"
+"delay",
+15,
+4,
+"At 1:00 pm CDT"
 ],
 "260201|pasajeros|general": [
 "no delay",
 0,
 1,
-"At 8:00 am MST"
+"At 11:00 am MST"
 ],
 "260201|pasajeros|ready": [
 "no delay",
 0,
 1,
-"At 8:00 am MST"
+"At 11:00 am MST"
 ],
 "260201|carga|general": [
 "Lanes Closed",
@@ -1449,7 +1449,7 @@ null,
 "delay",
 20,
 3,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240401|pasajeros|sentri": [
 "Lanes Closed",
@@ -1467,7 +1467,7 @@ null,
 "no delay",
 0,
 2,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240401|peatones|ready": [
 "Lanes Closed",
@@ -1479,7 +1479,7 @@ null,
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240401|carga|fast": [
 "Lanes Closed",
@@ -1530,22 +1530,22 @@ null,
 ""
 ],
 "260301|pasajeros|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+5,
+1,
+"At 11:00 am PST"
 ],
 "260301|peatones|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+1,
+1,
+"At 11:00 am PST"
 ],
 "260301|carga|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+1,
+1,
+"At 11:00 am PST"
 ],
 "260401|pasajeros|general": [
 "delay",
@@ -1567,27 +1567,27 @@ null,
 ],
 "260402|pasajeros|general": [
 "delay",
-60,
+10,
 6,
-"At 7:00 am MST"
+"At 11:00 am MST"
 ],
 "260402|peatones|general": [
 "no delay",
 0,
 2,
-"At 7:00 am MST"
+"At 11:00 am MST"
 ],
 "260402|carga|general": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+5,
+3,
+"At 11:00 am MST"
 ],
 "260402|carga|fast": [
-"Lanes Closed",
-null,
-null,
-""
+"no delay",
+0,
+2,
+"At 11:00 am MST"
 ],
 "260403|pasajeros|general": [
 "Update Pending",
@@ -1608,10 +1608,10 @@ null,
 ""
 ],
 "260403|peatones|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+0,
+3,
+"At 11:00 am MST"
 ],
 "260403|peatones|ready": [
 "Update Pending",
@@ -1674,40 +1674,40 @@ null,
 ""
 ],
 "250602|carga|general": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+30,
+5,
+"At 10:00 am PDT"
 ],
 "250602|carga|fast": [
-"Update Pending",
-null,
-null,
-""
+"delay",
+15,
+3,
+"At 10:00 am PDT"
 ],
 "250601|pasajeros|general": [
 "delay",
-110,
+100,
 3,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "250601|pasajeros|sentri": [
 "delay",
 25,
 4,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "250601|pasajeros|ready": [
 "delay",
-110,
-4,
-"At 7:00 am PDT"
+130,
+5,
+"At 10:00 am PDT"
 ],
 "250601|peatones|general": [
-"delay",
-10,
+"no delay",
+5,
 6,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "250608|pasajeros|general": [
 "Update Pending",
@@ -1796,14 +1796,14 @@ null,
 "240301|pasajeros|general": [
 "delay",
 10,
-1,
-"At 8:00 am CDT"
+2,
+"At 1:00 pm CDT"
 ],
 "240301|peatones|general": [
-"no delay",
-0,
+"delay",
+10,
 1,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "240301|peatones|ready": [
 "Lanes Closed",
@@ -1815,13 +1815,13 @@ null,
 "delay",
 10,
 1,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230902|pasajeros|general": [
 "delay",
 30,
 2,
-"At 9:00 am CDT"
+"At 11:00 am CDT"
 ],
 "230902|pasajeros|ready": [
 "Lanes Closed",
@@ -1836,10 +1836,10 @@ null,
 ""
 ],
 "230901|pasajeros|general": [
-"no delay",
-5,
+"delay",
+10,
 2,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "230901|pasajeros|ready": [
 "Lanes Closed",
@@ -1850,8 +1850,8 @@ null,
 "230901|peatones|general": [
 "no delay",
 5,
-1,
-"At 8:00 am CDT"
+2,
+"At 1:00 pm CDT"
 ],
 "230901|peatones|ready": [
 "Lanes Closed",
@@ -1869,19 +1869,19 @@ null,
 "no delay",
 5,
 1,
-"At 10:00 am CDT"
+"At 2:00 pm CDT"
 ],
 "230701|carga|general": [
 "no delay",
-5,
+0,
 1,
-"At 10:00 am CDT"
+"At 2:00 pm CDT"
 ],
 "231001|pasajeros|general": [
-"no delay",
-0,
-2,
-"At 8:00 am CDT"
+"delay",
+10,
+3,
+"At 1:00 pm CDT"
 ],
 "231001|pasajeros|ready": [
 "Lanes Closed",
@@ -1890,10 +1890,10 @@ null,
 ""
 ],
 "231001|carga|general": [
-"no delay",
-0,
+"delay",
+10,
 1,
-"At 8:00 am CDT"
+"At 1:00 pm CDT"
 ],
 "231002|pasajeros|general": [
 "Update Pending",
@@ -1998,10 +1998,10 @@ null,
 ""
 ],
 "260802|carga|general": [
-"Update Pending",
-null,
-null,
-""
+"no delay",
+0,
+2,
+"At 11:00 am MST"
 ],
 "260802|carga|fast": [
 "Update Pending",
@@ -2011,33 +2011,33 @@ null,
 ],
 "250401|pasajeros|general": [
 "delay",
-130,
-4,
-"At 7:00 am PDT"
+145,
+5,
+"At 11:00 am PDT"
 ],
 "250401|pasajeros|sentri": [
 "delay",
-30,
-13,
-"At 7:00 am PDT"
+20,
+12,
+"At 11:00 am PDT"
 ],
 "250401|pasajeros|ready": [
 "delay",
-100,
-10,
-"At 7:00 am PDT"
+120,
+13,
+"At 11:00 am PDT"
 ],
 "250401|peatones|general": [
 "delay",
-20,
-21,
-"At 7:00 am PDT"
+40,
+17,
+"At 11:00 am PDT"
 ],
 "250401|peatones|ready": [
 "no delay",
 5,
 1,
-"At 7:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250409|peatones|general": [
 "no delay",
@@ -2052,64 +2052,64 @@ null,
 "At 5:00 am PDT"
 ],
 "250407|peatones|general": [
-"no delay",
-5,
-4,
-"At 7:00 am PDT"
+"delay",
+10,
+3,
+"At 10:00 am PDT"
 ],
 "250407|peatones|ready": [
 "no delay",
 0,
 1,
-"At 7:00 am PDT"
+"At 10:00 am PDT"
 ],
 "240801|pasajeros|general": [
 "delay",
-40,
+20,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240801|pasajeros|ready": [
 "delay",
-35,
-2,
-"At 8:00 am MDT"
+15,
+1,
+"At Noon MDT"
 ],
 "240801|peatones|general": [
 "no delay",
 5,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240801|carga|general": [
 "delay",
-45,
+40,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "240801|carga|fast": [
 "delay",
-40,
+35,
 1,
-"At 8:00 am MDT"
+"At Noon MDT"
 ],
 "250501|pasajeros|general": [
 "delay",
 120,
 2,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "250501|peatones|general": [
-"delay",
-10,
-4,
-"At 8:00 am PDT"
+"no delay",
+5,
+3,
+"At 11:00 am PDT"
 ],
 "250501|carga|general": [
-"delay",
-10,
+"no delay",
+5,
 2,
-"At 8:00 am PDT"
+"At 11:00 am PDT"
 ],
 "240104|pasajeros|general": [
 "Update Pending",
@@ -2157,37 +2157,37 @@ null,
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "SB-SY-I5|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "SB-SY-I5|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "SB-OM-905|pasajeros|general": [
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "SB-OM-905|pasajeros|pron15": [
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "SB-OM-905|pasajeros|pron30": [
 "ok",
 0,
 null,
-"09/22/2026 8:00am"
+"09/22/2026 11:50am"
 ],
 "011501|pasajeros|sentri": [
 "Update Pending",
