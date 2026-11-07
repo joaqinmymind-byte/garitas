@@ -1,17 +1,13 @@
 name: Archivar garitas
 
-# Corre cada 15 minutos, solo, aunque tu computadora esté apagada.
-# También lo puedes disparar a mano desde la pestaña Actions.
 on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
 
-# Necesario para que el robot pueda guardar los datos en el repositorio.
 permissions:
   contents: write
 
-# Si una corrida se atrasa, no se encima con la siguiente.
 concurrency:
   group: archivar
   cancel-in-progress: false
@@ -19,21 +15,26 @@ concurrency:
 jobs:
   archivar:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
-      - name: Bajar el repositorio
-        uses: actions/checkout@v4
-
-      - name: Preparar Python
-        uses: actions/setup-python@v5
+      # fetch-depth 1: el repositorio crece con los datos y no necesitamos
+      # su historia completa en cada corrida.
+      - uses: actions/checkout@v4
         with:
-          python-version: "3.11"
+          fetch-depth: 1
 
-      - name: Capturar los tiempos de cruce
-        run: python garita.py capturar
+      # Sin setup-python a proposito: ubuntu-latest ya trae Python 3.12
+      # y ese paso costaba ~15 segundos en cada una de las 96 corridas diarias.
+      - name: Capturar los dos sentidos
+        run: python3 garita.py capturar
 
-      - name: Regenerar el reporte
-        run: python garita.py reporte
+      # El reporte es lo caro. Se regenera una vez por hora, no cada 15 min.
+      - name: Regenerar el reporte si ya tiene una hora
+        run: python3 garita.py reporte --si-viejo 55
+
+      # No-op casi siempre; solo trabaja al cambiar de mes.
+      - name: Comprimir meses cerrados
+        run: python3 garita.py compactar
 
       - name: Guardar los cambios
         run: |
@@ -45,15 +46,14 @@ jobs:
             exit 0
           fi
           git commit -m "captura $(date -u +%Y-%m-%dT%H:%MZ)"
-          # Si alguien más escribió mientras tanto, reintenta sin perder nada.
           for intento in 1 2 3; do
             if git push; then
               echo "Guardado."
               exit 0
             fi
-            echo "Reintento $intento…"
+            echo "Reintento $intento..."
             git pull --rebase --autostash
             sleep 5
           done
-          echo "No se pudo guardar después de 3 intentos." >&2
+          echo "No se pudo guardar despues de 3 intentos." >&2
           exit 1

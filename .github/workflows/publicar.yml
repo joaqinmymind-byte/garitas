@@ -1,0 +1,62 @@
+name: Publicar el sitio
+
+# El sitio se reconstruye cada hora, no cada 15 minutos: armar las ~60 paginas
+# cuesta 10 segundos y el patron por hora no cambia en 15 minutos.
+# El numero de "ahorita" SI se mantiene fresco, porque la pagina lo relee del
+# estado.json que el archivador commitea cada 15 min. Asi tienes un sitio vivo
+# sin pagar 96 publicaciones diarias.
+#
+# Si algun dia haces el repositorio privado, cambia el cron a "0 */3 * * *":
+# en privado los minutos de GitHub se cuentan y este trabajo gasta ~540 al mes.
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.desplegar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ─────────────────────────────────────────────────────────────────
+      # LO UNICO QUE SE EDITA AQUI:
+      #   DOMINIO  el origen donde vive el sitio, SIN el prefijo
+      #   BASE     el prefijo; en GitHub Pages de proyecto es /nombre-del-repo
+      #
+      # Con dominio propio queda asi:
+      #   DOMINIO: https://tudominio.com
+      #   BASE: ""
+      # ─────────────────────────────────────────────────────────────────
+      - name: Generar el sitio
+        env:
+          DOMINIO: https://joaqinmymind-byte.github.io
+          BASE: /garitas
+        run: |
+          python3 sitio.py \
+            --dominio "$DOMINIO" \
+            --base "$BASE" \
+            --repo "https://github.com/${{ github.repository }}" \
+            --estado-url "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/estado.json"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: sitio
+      - id: desplegar
+        uses: actions/deploy-pages@v4

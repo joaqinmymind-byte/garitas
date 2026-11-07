@@ -19,11 +19,14 @@ Sin dependencias. Solo biblioteca estándar de Python 3.9+.
 
 import argparse
 import csv
+import gzip
 import json
 import os
 import re
+import shutil
 import sqlite3
 import sys
+import time
 import urllib.error
 import urllib.request
 from collections import defaultdict
@@ -42,10 +45,18 @@ DIR_HIST = "historico"
 # que existe antes de que tú empieces a archivar. Se guarda aparte porque es
 # promedio diario: sirve para estacionalidad, no para la tabla por hora.
 SANDAG = "https://opendata.sandag.org/resource/5tga-nezt.json"
+# El mismo SANDAG publica, en OTRO dataset ya descontinuado, el promedio
+# MENSUAL de espera de octubre 2011 a marzo 2022. Es la unica serie oficial
+# que existe antes de 2023, y nadie la esta usando. Con los dos juntos se
+# arma una historia de casi 15 anios.
+SANDAG_MENSUAL = "https://opendata.sandag.org/resource/46bj-bg7a.json"
 ESTADO = "estado.json"
 BITACORA = "bitacora.csv"
 REPORTE = "REPORTE.md"
 TZ = "America/Tijuana"
+# Cuantos archivos mensuales lee el reporte. 4 = un trimestre, suficiente para
+# los patrones por hora y barato de recalcular.
+MESES_REPORTE = 4
 AGENTE = "garita-archivador/2.0 (+archivo historico abierto de tiempos de cruce)"
 
 COLUMNAS = ["capturado_utc", "puerto", "frontera", "puerto_nombre", "cruce",
@@ -128,10 +139,19 @@ def bajar(url=API, limite=45):
 
 
 SANDAG_PUERTOS = {
-    "san_ysidro": ("250401", "San Ysidro"), "otay_mesa": ("250601", "Otay Mesa Pasajeros"),
-    "tecate": ("250501", "Tecate"), "calexico_east": ("250301", "Calexico East"),
-    "calexico": ("250302", "Calexico"), "andrade": ("250201", "Andrade"),
+    "san ysidro": ("250401", "San Ysidro"),
+    "otay mesa": ("250601", "Otay Mesa Pasajeros"),
+    "tecate": ("250501", "Tecate"),
+    "calexico east": ("250301", "Calexico East"),
+    "calexico west": ("250302", "Calexico West"),
+    "andrade": ("250201", "Andrade"),
 }
+
+
+def _norm_puerto(nombre):
+    """SANDAG escribe 'Otay Mesa' con espacio y 'Calexico_East' con guion bajo.
+    Normalizar los dos evita perder puertos en silencio."""
+    return " ".join((nombre or "").replace("_", " ").lower().split())
 
 
 def _sandag_serie(tipo):
@@ -150,17 +170,51 @@ def importar_sandag(paginas=None, desde_archivo=None):
     if desde_archivo:
         yield from json.load(open(desde_archivo, encoding="utf-8"))
         return
-    lote, offset = 10000, 0
-    while True:
+    lote, offset, tope = 1000, 0, 500000
+    vueltas = 0
+    while offset < tope:
         url = f"{SANDAG}?$limit={lote}&$offset={offset}&$order=date"
         datos = bajar(url)
         if not datos:
             break
         yield from datos
-        if len(datos) < lote:
+        # Avanzar por lo que REALMENTE devolvio, no por lo que pedi:
+        # Socrata puede capar el tamano de pagina sin avisar.
+        offset += len(datos)
+        vueltas += 1
+        if paginas and vueltas >= paginas:
             break
-        offset += lote
-        if paginas and offset // lote >= paginas:
+
+
+def _sandag_serie_mensual(crossing, lane):
+    """El dataset viejo separa el tipo de cruce del tipo de carril:
+    ('Passenger','SENTRI') -> ('pasajeros','sentri')"""
+    c = (crossing or "").lower()
+    l = (lane or "").lower()
+    clase = ("peatones" if c.startswith("pedestrian")
+             else "carga" if c.startswith("commercial") else "pasajeros")
+    carril = ("sentri" if ("nexus" in l or "sentri" in l)
+              else "ready" if "ready" in l
+              else "fast" if "fast" in l else "general")
+    return clase, carril
+
+
+def importar_sandag_mensual(paginas=None, desde_archivo=None):
+    """Baja el histórico mensual 2011-2022, paginado igual que el diario."""
+    if desde_archivo:
+        yield from json.load(open(desde_archivo, encoding="utf-8"))
+        return
+    lote, offset, tope = 1000, 0, 100000
+    vueltas = 0
+    while offset < tope:
+        url = f"{SANDAG_MENSUAL}?$limit={lote}&$offset={offset}&$order=date"
+        datos = bajar(url)
+        if not datos:
+            break
+        yield from datos
+        offset += len(datos)
+        vueltas += 1
+        if paginas and vueltas >= paginas:
             break
 
 
@@ -312,17 +366,39 @@ def anexar(filas, momento):
     return ruta
 
 
-def cargar_todo():
-    """Junta todos los CSV en una base en memoria para poder consultarlos."""
+def _abrir(ruta):
+    """Abre .csv o .csv.gz sin que el resto del codigo tenga que enterarse."""
+    if ruta.endswith(".gz"):
+        return gzip.open(ruta, "rt", encoding="utf-8", newline="")
+    return open(ruta, encoding="utf-8", newline="")
+
+
+def _mensuales(directorio=DIR_DATOS):
+    """Archivos mensuales ordenados por mes, comprimidos o no."""
+    if not os.path.isdir(directorio):
+        return []
+    pares = []
+    for n in os.listdir(directorio):
+        if n.endswith(".csv") or n.endswith(".csv.gz"):
+            pares.append((n.replace(".csv.gz", "").replace(".csv", ""), n))
+    return [n for _, n in sorted(pares)]
+
+
+def cargar_todo(meses=MESES_REPORTE):
+    """Junta los CSV en una base en memoria. Por omision solo los ultimos
+    `meses` archivos: a escala real, releer años completos cada 15 minutos
+    cuesta 37 segundos por corrida y no mejora la prediccion. El historico
+    completo sigue intacto en disco; usa --meses 0 para leerlo todo."""
     cx = sqlite3.connect(":memory:")
     cx.row_factory = sqlite3.Row
     cx.execute(f"CREATE TABLE lecturas ({','.join(c + ' TEXT' for c in COLUMNAS)})")
     total = 0
-    if os.path.isdir(DIR_DATOS):
-        for nombre in sorted(os.listdir(DIR_DATOS)):
-            if not nombre.endswith(".csv"):
-                continue
-            with open(os.path.join(DIR_DATOS, nombre), encoding="utf-8") as fh:
+    archivos = _mensuales()
+    if meses and meses > 0:
+        archivos = archivos[-meses:]
+    for nombre in archivos:
+        if True:
+            with _abrir(os.path.join(DIR_DATOS, nombre)) as fh:
                 r = csv.DictReader(fh)
                 lote = [[fila.get(c, "") for c in COLUMNAS] for fila in r]
             if lote:
@@ -494,6 +570,23 @@ def md_titulares(cx, tz):
             f"*Generado solo. Úsalo como material para medios locales.*\n")
 
 
+def _edad_sello(sello, tz):
+    """Caltrans firma la pagina con 'Last updated 08/19/2026 7:20am'.
+    Si esa firma se congela, el dato deja de ser real aunque se vea igual."""
+    if not sello:
+        return None
+    m = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{1,2}):(\d{2})\s*([ap])m", sello, re.I)
+    if not m:
+        return None
+    mes, dia, anio, hh, mm, ap = m.groups()
+    hh = int(hh) % 12 + (12 if ap.lower() == "p" else 0)
+    try:
+        t = datetime(int(anio), int(mes), int(dia), hh, int(mm), tzinfo=zona("America/Los_Angeles"))
+    except ValueError:
+        return None
+    return (datetime.now(timezone.utc) - t).total_seconds() / 3600
+
+
 def md_sur():
     """El regreso a Tijuana. Caltrans lo publica, nadie lo archiva,
     y ninguna app del ecosistema lo muestra."""
@@ -509,9 +602,23 @@ def md_sur():
         filas.append(f"| {nombre} | **{act[1]} min** | {fmt(p15)} | {fmt(p30)} |")
     if not filas:
         return ""
+    sello = ""
+    for codigo, _ in SUR_RUTAS.values():
+        d = est.get(f"{codigo}|pasajeros|general")
+        if d and d[3]:
+            sello = d[3]
+            break
+    horas = _edad_sello(sello, zona())
+    aviso = ""
+    if horas is not None and horas > 2:
+        aviso = (f"\n\n> **Cuidado: este dato tiene {horas:.0f} horas.** "
+                 f"Caltrans firmó la página el {sello} y no la ha vuelto a actualizar. "
+                 "Los números de arriba ya no son de ahora.\n")
+    elif horas is not None:
+        aviso = f"\n\n*Firmado por Caltrans el {sello}, hace {horas*60:.0f} minutos.*"
     return ("\n## Regreso a Tijuana (sentido sur)\n\n"
             "| ruta | ahora | en 15 min | en 30 min |\n|---|---:|---:|---:|\n"
-            + "\n".join(filas)
+            + "\n".join(filas) + aviso
             + "\n\n*Fuente: Caltrans, con sensores físicos sobre el acceso a la garita. "
               "CBP no mide este sentido. Ninguna app del ecosistema lo publica.*\n")
 
@@ -588,15 +695,38 @@ def cmd_capturar(args):
     return 0
 
 
-def cmd_importar(args):
-    """Siembra el archivo con la historia de SANDAG. Se corre una sola vez."""
-    os.makedirs(DIR_HIST, exist_ok=True)
+def _guardar_historico(ruta, filas, etiqueta, leidos, ignorados):
+    if not filas:
+        print(f"{etiqueta}: no devolvió nada utilizable.", file=sys.stderr)
+        return False
+    filas.sort(key=lambda f: f[0])
+    with open(ruta, "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(COLUMNAS)
+        w.writerows(filas)
+    print(f"{etiqueta}: {leidos:,} registros leidos · {len(filas):,} guardados en {ruta}")
+    print(f"   Del {filas[0][0][:10]} al {filas[-1][0][:10]} · "
+          f"{len({f[1] for f in filas})} puertos: "
+          + ", ".join(sorted({f[3] for f in filas})))
+    if ignorados:
+        print("   AVISO - nombres de puerto que no supe mapear (revisa SANDAG_PUERTOS):")
+        for n, c in sorted(ignorados.items(), key=lambda x: -x[1]):
+            print(f"      {n!r}: {c:,} registros")
+    return True
+
+
+def _importar_diario(args):
+    """SANDAG 5tga-nezt: promedio DIARIO, 2023 en adelante."""
     ruta = os.path.join(DIR_HIST, "sandag.csv")
-    vistos, filas = set(), []
+    vistos, filas, ignorados, leidos = set(), [], defaultdict(int), 0
     for r in importar_sandag(args.paginas, args.desde_archivo):
+        leidos += 1
         fecha = (r.get("date") or "")[:10]
-        nombre = (r.get("port_name") or "").strip().lower()
-        if not fecha or nombre not in SANDAG_PUERTOS:
+        nombre = _norm_puerto(r.get("port_name"))
+        if not fecha:
+            continue
+        if nombre not in SANDAG_PUERTOS:
+            ignorados[nombre] += 1
             continue
         try:
             minutos = int(round(float(r.get("waiting_ave"))))
@@ -610,34 +740,79 @@ def cmd_importar(args):
         vistos.add(clave)
         filas.append([fecha + "T12:00:00+00:00", codigo, "Mexican Border", bonito, bonito,
                       clase, carril, "promedio-diario", minutos, "", "SANDAG", "", "norte"])
-    if not filas:
-        print("SANDAG no devolvió nada utilizable.", file=sys.stderr)
+    return _guardar_historico(ruta, filas, "SANDAG diario (2023-hoy)", leidos, ignorados)
+
+
+def _importar_mensual(args):
+    """SANDAG 46bj-bg7a: promedio MENSUAL, octubre 2011 a marzo 2022.
+    Dataset descontinuado; por eso vale la pena guardarlo nosotros."""
+    ruta = os.path.join(DIR_HIST, "sandag_mensual.csv")
+    vistos, filas, ignorados, leidos = set(), [], defaultdict(int), 0
+    for r in importar_sandag_mensual(args.paginas, args.mensual_desde_archivo):
+        leidos += 1
+        fecha = (r.get("date") or "")[:10]
+        nombre = _norm_puerto(r.get("poe_name"))
+        if not fecha:
+            continue
+        if nombre not in SANDAG_PUERTOS:
+            ignorados[nombre] += 1
+            continue
+        # Muchos renglones vienen sin 'delay': son meses sin dato, no ceros.
+        try:
+            minutos = int(round(float(r.get("delay"))))
+        except (TypeError, ValueError):
+            continue
+        codigo, bonito = SANDAG_PUERTOS[nombre]
+        clase, carril = _sandag_serie_mensual(r.get("crossing_types"), r.get("lane_types"))
+        clave = (fecha, codigo, clase, carril)
+        if clave in vistos:
+            continue
+        vistos.add(clave)
+        filas.append([fecha + "T12:00:00+00:00", codigo, "Mexican Border", bonito, bonito,
+                      clase, carril, "promedio-mensual", minutos, "", "SANDAG-mensual", "", "norte"])
+    return _guardar_historico(ruta, filas, "SANDAG mensual (2011-2022)", leidos, ignorados)
+
+
+def cmd_importar(args):
+    """Siembra el archivo con la historia de SANDAG. Se corre una sola vez."""
+    os.makedirs(DIR_HIST, exist_ok=True)
+    hechos = []
+    if args.fuente in ("ambas", "diaria"):
+        hechos.append(_importar_diario(args))
+    if args.fuente in ("ambas", "mensual"):
+        try:
+            hechos.append(_importar_mensual(args))
+        except Exception as e:
+            # El dataset mensual esta descontinuado: si algun dia lo bajan,
+            # no queremos que se caiga la siembra del diario.
+            print(f"SANDAG mensual no se pudo bajar ({e}). Sigo sin el.", file=sys.stderr)
+            hechos.append(False)
+    if not any(hechos):
         return 1
-    filas.sort(key=lambda f: f[0])
-    with open(ruta, "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh)
-        w.writerow(COLUMNAS)
-        w.writerows(filas)
-    print(f"{len(filas):,} promedios diarios importados a {ruta}")
-    print(f"Del {filas[0][0][:10]} al {filas[-1][0][:10]} · "
-          f"{len({f[1] for f in filas})} puertos")
     print("Ahora corre:  python garita.py reporte")
     return 0
 
 
 def cargar_historico():
-    ruta = os.path.join(DIR_HIST, "sandag.csv")
-    if not os.path.exists(ruta):
-        return None, 0
+    """Carga las dos series de SANDAG en una sola tabla en memoria.
+    Se distinguen por la columna 'cruce': promedio-diario / promedio-mensual."""
     cx = sqlite3.connect(":memory:")
     cx.row_factory = sqlite3.Row
     cx.execute(f"CREATE TABLE h ({','.join(c + ' TEXT' for c in COLUMNAS)})")
-    with open(ruta, encoding="utf-8") as fh:
-        lote = [[f.get(c, "") for c in COLUMNAS] for f in csv.DictReader(fh)]
-    if lote:
-        cx.executemany(f"INSERT INTO h VALUES ({','.join('?' * len(COLUMNAS))})", lote)
+    total = 0
+    for nombre in ("sandag.csv", "sandag_mensual.csv"):
+        ruta = os.path.join(DIR_HIST, nombre)
+        if not os.path.exists(ruta):
+            continue
+        with open(ruta, encoding="utf-8") as fh:
+            lote = [[f.get(c, "") for c in COLUMNAS] for f in csv.DictReader(fh)]
+        if lote:
+            cx.executemany(f"INSERT INTO h VALUES ({','.join('?' * len(COLUMNAS))})", lote)
+            total += len(lote)
     cx.commit()
-    return cx, len(lote)
+    if not total:
+        return None, 0
+    return cx, total
 
 
 def md_estacional():
@@ -650,39 +825,100 @@ def md_estacional():
     out = []
     for puerto, nombre in (("250601", "Otay Mesa"), ("250401", "San Ysidro")):
         filas = cx.execute(
-            "SELECT capturado_utc, minutos FROM h WHERE puerto=? AND clase='pasajeros' "
+            "SELECT capturado_utc, minutos, estado FROM h WHERE puerto=? AND clase='pasajeros' "
             "AND carril='general' AND minutos<>''", (puerto,)).fetchall()
         if len(filas) < 60:
             continue
         pormes, pordia, poranio = defaultdict(list), defaultdict(list), defaultdict(list)
+        dias = 0
         for f in filas:
             try:
                 d = datetime.fromisoformat(f["capturado_utc"])
             except ValueError:
                 continue
             v = int(f["minutos"])
+            diario = f["estado"] != "promedio-mensual"
+            # El promedio mensual cae siempre en dia 1: usarlo en la tabla por
+            # dia de semana seria inventar un patron que no existe.
+            if diario:
+                dias += 1
+                pordia[d.weekday()].append(v)
             pormes[d.month].append(v)
-            pordia[d.weekday()].append(v)
             poranio[d.year].append(v)
+        if not poranio:
+            continue
         linea_mes = " | ".join(str(int(mediana(pormes[m]))) if pormes.get(m) else "·"
                                for m in range(1, 13))
         linea_dia = " | ".join(str(int(mediana(pordia[d]))) if pordia.get(d) else "·"
                                for d in range(7))
-        out.append(f"\n**{nombre}** · {len(filas):,} días\n\n"
-                   "| " + " | ".join(MESES) + " |\n" + "|---" * 12 + "|\n| " + linea_mes + " |\n\n"
-                   "| " + " | ".join(d[:3] for d in DIAS) + " |\n" + "|---" * 7 + "|\n| " + linea_dia + " |\n\n"
-                   + " · ".join(f"**{a}**: {int(mediana(v))} min" for a, v in sorted(poranio.items())))
+        bloque = f"\n**{nombre}** · {len(filas):,} promedios ({dias:,} diarios)\n\n"
+        bloque += "| " + " | ".join(MESES) + " |\n" + "|---" * 12 + "|\n| " + linea_mes + " |\n\n"
+        if dias >= 60:
+            bloque += ("| " + " | ".join(d[:3] for d in DIAS) + " |\n"
+                       + "|---" * 7 + "|\n| " + linea_dia + " |\n\n")
+        bloque += " · ".join(f"**{a}**: {int(mediana(v))} min" for a, v in sorted(poranio.items()))
+        out.append(bloque)
     if not out:
         return ""
+    anios = [r[0][:4] for r in cx.execute(
+        "SELECT min(capturado_utc) FROM h UNION ALL SELECT max(capturado_utc) FROM h") if r[0]]
+    rango = f"{anios[0]}–{anios[-1]}" if len(anios) == 2 else "SANDAG"
     return ("\n## Patrón de largo plazo\n\n"
-            "*Promedio diario de espera, carriles generales de pasajeros. "
-            f"Fuente: histórico abierto de SANDAG, {n:,} registros desde 2023.*\n"
+            "*Promedio de espera, carriles generales de pasajeros. "
+            f"Fuente: histórico abierto de SANDAG, {n:,} registros, {rango}. "
+            "El tramo 2011–2022 es promedio mensual (dataset 46bj-bg7a, ya "
+            "descontinuado); de 2023 en adelante es promedio diario (5tga-nezt). "
+            "La tabla por día de semana solo usa el tramo diario.*\n"
             + "\n".join(out) + "\n")
 
 
+def _reporte_reciente(minutos):
+    if not minutos or not os.path.exists(REPORTE):
+        return False
+    edad = (time.time() - os.path.getmtime(REPORTE)) / 60
+    return edad < minutos
+
+
+def cmd_compactar(args):
+    """Comprime los meses ya cerrados. El mes en curso nunca se toca."""
+    actual = datetime.now(timezone.utc).strftime("%Y-%m")
+    hechos, ahorro = [], 0
+    for nombre in _mensuales():
+        if nombre.endswith(".gz") or nombre.startswith(actual):
+            continue
+        ruta = os.path.join(DIR_DATOS, nombre)
+        destino = ruta + ".gz"
+        antes = os.path.getsize(ruta)
+        with open(ruta, "rb") as e, gzip.open(destino, "wb", compresslevel=9) as sal:
+            shutil.copyfileobj(e, sal)
+        # solo borrar el original si el comprimido se lee bien
+        try:
+            with _abrir(destino) as fh:
+                if sum(1 for _ in fh) < 1:
+                    raise ValueError("comprimido vacio")
+        except Exception as e:
+            os.remove(destino)
+            print(f"No se pudo comprimir {nombre}: {e}", file=sys.stderr)
+            continue
+        despues = os.path.getsize(destino)
+        os.remove(ruta)
+        ahorro += antes - despues
+        hechos.append(f"{nombre} {antes/1024/1024:.1f} MB -> {despues/1024/1024:.1f} MB")
+    if not hechos:
+        print("Nada que comprimir.")
+        return 0
+    for h in hechos:
+        print("  " + h)
+    print(f"{len(hechos)} meses comprimidos · {ahorro/1024/1024:.1f} MB liberados")
+    return 0
+
+
 def cmd_reporte(args):
+    if _reporte_reciente(args.si_viejo):
+        print(f"REPORTE.md tiene menos de {args.si_viejo} min. No hace falta regenerarlo.")
+        return 0
     tz = zona(args.tz)
-    cx, total = cargar_todo()
+    cx, total = cargar_todo(args.meses)
     hoy = datetime.now(tz).strftime("%d/%m/%Y %H:%M")
     partes = [f"# Garitas — reporte automático\n",
               f"*Actualizado {hoy} (hora de Tijuana) · {total:,} lecturas archivadas*\n",
@@ -767,12 +1003,19 @@ def main():
     c.add_argument("--sur-desde-archivo", help="leer el HTML del sur de un archivo local")
     c.set_defaults(f=cmd_capturar)
 
-    i = sub.add_parser("importar", help="siembra 3.5 años de historia de SANDAG (una sola vez)")
+    i = sub.add_parser("importar", help="siembra la historia de SANDAG: 2011 a hoy (una sola vez)")
     i.add_argument("--paginas", type=int, help="limitar páginas, para probar")
-    i.add_argument("--desde-archivo", help="leer un JSON local en vez de la red")
+    i.add_argument("--desde-archivo", help="leer un JSON local en vez de la red (serie diaria)")
+    i.add_argument("--mensual-desde-archivo", help="leer un JSON local (serie mensual 2011-2022)")
+    i.add_argument("--fuente", choices=("ambas", "diaria", "mensual"), default="ambas",
+                   help="cual de las dos series de SANDAG bajar")
     i.set_defaults(f=cmd_importar)
 
     r = sub.add_parser("reporte", help="regenera REPORTE.md")
+    r.add_argument("--meses", type=int, default=MESES_REPORTE,
+                   help="cuantos archivos mensuales leer; 0 = todos")
+    r.add_argument("--si-viejo", type=int, default=0, metavar="MIN",
+                   help="solo regenerar si el reporte tiene mas de MIN minutos")
     r.set_defaults(f=cmd_reporte)
 
     pr = sub.add_parser("predecir", help="cuánto esperar un día y hora dados")
@@ -782,6 +1025,8 @@ def main():
     pr.add_argument("--clase", default="pasajeros")
     pr.add_argument("--carril", default="general")
     pr.set_defaults(f=cmd_predecir)
+
+    sub.add_parser("compactar", help="comprime los meses ya cerrados").set_defaults(f=cmd_compactar)
 
     e = sub.add_parser("estado", help="qué hay ahora mismo")
     e.add_argument("--limite", type=int, default=40)

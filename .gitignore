@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# El sitio se genera y se publica solo; no tiene por que vivir en el repo.
+sitio/

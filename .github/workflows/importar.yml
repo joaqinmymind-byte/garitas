@@ -1,8 +1,11 @@
-name: Importar histórico de SANDAG
+name: Importar historico de SANDAG
 
-# Esto se corre UNA SOLA VEZ, a mano, desde la pestaña Actions.
-# Siembra el archivo con 3.5 años de promedios diarios que SANDAG publica
-# abiertos, para no tener que esperar meses a tener patrones.
+# Se corre UNA SOLA VEZ, a mano, desde la pestana Actions.
+# Siembra el archivo con las DOS series abiertas de SANDAG:
+#   historico/sandag.csv          promedio diario,  2023 -> hoy   (5tga-nezt)
+#   historico/sandag_mensual.csv  promedio mensual, 2011 -> 2022  (46bj-bg7a,
+#                                 dataset ya descontinuado por SANDAG)
+# Juntas dan casi 15 anos de historia sin esperar un solo dia.
 on:
   workflow_dispatch:
 
@@ -12,18 +15,17 @@ permissions:
 jobs:
   importar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          fetch-depth: 1
 
-      - name: Bajar el histórico de SANDAG
-        run: python garita.py importar
+      - name: Bajar las dos series historicas de SANDAG
+        run: python3 garita.py importar
 
-      - name: Regenerar el reporte
-        run: python garita.py reporte
+      - name: Regenerar el reporte completo
+        run: python3 garita.py reporte
 
       - name: Guardar
         run: |
