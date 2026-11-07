@@ -1,6 +1,6 @@
 # Garitas — reporte automático
 
-*Actualizado 07/11/2026 06:19 (hora de Tijuana) · 151,659 lecturas archivadas*
+*Actualizado 07/11/2026 09:07 (hora de Tijuana) · 151,659 lecturas archivadas*
 
 ## Ahora mismo — región Tijuana
 
@@ -23,6 +23,9 @@
 |---|---:|---:|---:|
 | San Ysidro sur (I-5) | **0 min** | 0 min | 0 min |
 | Otay Mesa sur (SR-905) | **0 min** | 0 min | 0 min |
+
+> **Cuidado: este dato tiene 3 horas.** Caltrans firmó la página el 11/07/2026 6:15am y no la ha vuelto a actualizar. Los números de arriba ya no son de ahora.
+
 
 *Fuente: Caltrans, con sensores físicos sobre el acceso a la garita. CBP no mide este sentido. Ninguna app del ecosistema lo publica.*
 
@@ -85,6 +88,34 @@
 
 *Generado solo. Úsalo como material para medios locales.*
 
+
+## Patrón de largo plazo
+
+*Promedio de espera, carriles generales de pasajeros. Fuente: histórico abierto de SANDAG, 31,899 registros, 2011–2026. El tramo 2011–2022 es promedio mensual (dataset 46bj-bg7a, ya descontinuado); de 2023 en adelante es promedio diario (5tga-nezt). La tabla por día de semana solo usa el tramo diario.*
+
+**Otay Mesa** · 1,354 promedios (1,354 diarios)
+
+| ene | feb | mar | abr | may | jun | jul | ago | sep | oct | nov | dic |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 49 | 55 | 59 | 64 | 65 | 58 | 73 | 69 | 68 | 60 | 55 | 69 |
+
+| lun | mar | mié | jue | vie | sáb | dom |
+|---|---|---|---|---|---|---|
+| 67 | 60 | 57 | 57 | 52 | 65 | 74 |
+
+**2023**: 57 min · **2024**: 61 min · **2025**: 60 min · **2026**: 79 min
+
+**San Ysidro** · 1,474 promedios (1,355 diarios)
+
+| ene | feb | mar | abr | may | jun | jul | ago | sep | oct | nov | dic |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 67 | 72 | 76 | 90 | 87 | 82 | 97 | 91 | 94 | 77 | 75 | 97 |
+
+| lun | mar | mié | jue | vie | sáb | dom |
+|---|---|---|---|---|---|---|
+| 96 | 84 | 79 | 78 | 71 | 101 | 104 |
+
+**2011**: 66 min · **2012**: 85 min · **2013**: 78 min · **2014**: 60 min · **2015**: 37 min · **2016**: 51 min · **2017**: 46 min · **2018**: 48 min · **2019**: 59 min · **2020**: 54 min · **2021**: 76 min · **2022**: 80 min · **2023**: 88 min · **2024**: 87 min · **2025**: 79 min · **2026**: 95 min
 
 
 ## Comparación de toda la frontera
